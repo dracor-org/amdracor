@@ -1,0 +1,3340 @@
+<TEI xml:id="am77" xml:lang="eng" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">The Dance to Death</title>
+        <title type="sub">A Historical Tragedy in Five Acts.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+              Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Poems of Emma Lazarus. Vol. 2, Jewish poems : translations [electronic text]." In the digital collection American Verse Project. https://name.umdl.umich.edu/BAK3042.0001.001. University of Michigan Library Digital Collections. Accessed July 24, 2024</name>
+          <idno type="URL">https://name.umdl.umich.edu/BAK3042.0001.001</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="jew_3d">
+            <persName>3D JEW</persName>
+          </person>
+          <person sex="MALE" xml:id="süsskind">
+            <persName>SÜSSKIND VON ORB</persName>
+            <persName>SÜSSKIND</persName>
+          </person>
+          <person sex="MALE" xml:id="an_old_man">
+            <persName>AN OLD MAN</persName>
+          </person>
+          <person sex="FEMALE" xml:id="wife">
+            <persName>WIFE</persName>
+          </person>
+          <person sex="MALE" xml:id="jew">
+            <persName>JEW</persName>
+          </person>
+          <personGrp sex="FEMALE" xml:id="maidens">
+            <persName>MAIDENS</persName>
+          </personGrp>
+          <person sex="UNKNOWN" xml:id="another_voice">
+            <persName>ANOTHER VOICE</persName>
+          </person>
+          <person sex="MALE" xml:id="scrivener">
+            <persName>SCRIVENER</persName>
+          </person>
+          <person sex="FEMALE" xml:id="claire">
+            <persName>CLAIRE</persName>
+          </person>
+          <person sex="MALE" xml:id="prior">
+            <persName>PRIOR</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="a_voice">
+            <persName>A VOICE</persName>
+          </person>
+          <person sex="MALE" xml:id="rabbi_jacob">
+            <persName>RABBI JACOB</persName>
+          </person>
+          <person sex="MALE" xml:id="princess">
+            <persName>PRINCESS</persName>
+          </person>
+          <person sex="MALE" xml:id="schnetzen">
+            <persName>SCHNETZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="leibhaid">
+            <persName>LEIBHAID</persName>
+          </person>
+          <person sex="MALE" xml:id="one_of_the_men_at_the_door">
+            <persName>ONE OF THE MEN AT THE DOOR</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="voice_5th">
+            <persName>5TH VOICE</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="voice_1st">
+            <persName>1ST VOICE</persName>
+          </person>
+          <person sex="MALE" xml:id="a_jew">
+            <persName>A JEW</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="one_calling_from_above">
+            <persName>ONE CALLING FROM ABOVE</persName>
+          </person>
+          <person sex="MALE" xml:id="nordmann">
+            <persName>NORDMANN</persName>
+          </person>
+          <person sex="MALE" xml:id="boy">
+            <persName>BOY</persName>
+          </person>
+          <person sex="MALE" xml:id="another_citizen">
+            <persName>ANOTHER CITIZEN</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="citizens">
+            <persName>CITIZENS</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="voices_without">
+            <persName>VOICES WITHOUT</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="a_bride">
+            <persName>A BRIDE</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="voice_2d">
+            <persName>2D VOICE</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="voices">
+            <persName>VOICES</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="reuben">
+            <persName>REUBEN</persName>
+          </person>
+          <person sex="MALE" xml:id="baruch">
+            <persName>BARUCH</persName>
+          </person>
+          <person sex="MALE" xml:id="rabbi_cresselin">
+            <persName>RABBI CRESSELIN</persName>
+          </person>
+          <person sex="FEMALE" xml:id="citizens_wife">
+            <persName>CITIZEN'S WIFE</persName>
+          </person>
+          <person sex="MALE" xml:id="voice_3d">
+            <persName>3D VOICE</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="youths">
+            <persName>YOUTHS</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="tettenborn">
+            <persName>TETTENBORN</persName>
+          </person>
+          <person sex="MALE" xml:id="prince_william">
+            <persName>PRINCE WILLIAM</persName>
+          </person>
+          <person sex="MALE" xml:id="citizen_3d">
+            <persName>3D CITIZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="landgrave">
+            <persName>LANDGRAVE</persName>
+          </person>
+          <person sex="MALE" xml:id="jew_2d">
+            <persName>2D JEW</persName>
+          </person>
+          <person sex="MALE" xml:id="jew_1st">
+            <persName>1ST JEW</persName>
+          </person>
+          <person sex="FEMALE" xml:id="a_young_girl">
+            <persName>A YOUNG GIRL</persName>
+          </person>
+          <person sex="MALE" xml:id="citizen_2d">
+            <persName>2D CITIZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="citizen">
+            <persName>CITIZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="naphtali">
+            <persName>NAPHTALI</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="several_voices">
+            <persName>SEVERAL VOICES</persName>
+          </personGrp>
+            <person sex="UNKNOWN" xml:id="voice_4th">
+            <persName>4TH VOICE</persName>
+          </person>
+            <person sex="UNKNOWN" xml:id="voice_from_below">
+            <persName>VOICE FROM BELOW</persName>
+          </person>
+          <person sex="MALE" xml:id="liebhaid">
+            <persName>LIEBHAID</persName>
+          </person>
+          <person sex="MALE" xml:id="citizen_4th">
+            <persName>4TH CITIZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="citizen_1st">
+            <persName>1ST CITIZEN</persName>
+          </person>
+          <person sex="MALE" xml:id="servant">
+            <persName>SERVANT</persName>
+          </person>
+          <person sex="MALE" xml:id="counsellor">
+            <persName>A COUNSELLOR (DIETHER VON WERTHER)</persName>
+          </person>
+          <person sex="MALE" xml:id="burgher_hugo_shultz">
+            <persName>BURGHER (HUGO SHULTZ)</persName>
+          </person>
+          <person sex="MALE" xml:id="page">
+            <persName>PAGE</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="jews">
+            <persName>JEWS</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="lay_brother">
+            <persName>LAY-BROTHER</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2024-07-24">Encoded from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1889">
+        <desc/>
+      </event>
+      <event type="written" when="1882">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+  <text>
+    <front>
+      <div type="dedication">
+        <p>This play is dedicated, in profound veneration and respect, to the memory of George Eliot, the illustrious writer, who did most among the artists of our day towards elevating and ennobling the spirit of Jewish nationality.</p>
+      </div>
+      <castList>
+        <head>THE PERSONS.</head>
+        <castItem>FREDERICK THE GRAVE, Landgrave of Thuringia and Margrave of Meissen, Protector and Patron of the Free City of Nordhausen.</castItem>
+        <castItem>PRINCE WILLIAM OF MEISSEN, his son.</castItem>
+        <castItem>SÜSSKIND VON ORB, a Jew.</castItem>
+        <castItem>HENRY SCHNETZEN, Governor of Salza.</castItem>
+        <castItem>HENRY NORDMANN OF NORDMANNSTEIN, Knight of Treffurt.</castItem>
+        <castItem>REINHARD PEPPERCORN, Prior of Wartburg Monastery.</castItem>
+        <castItem>RABBI JACOB.</castItem>
+        <castItem>DIETRICH VON TETTENBORN, President of the Council.</castItem>
+        <castItem>REUBEN VON ORB, a boy, Süsskind's son.</castItem>
+        <castItem>BARUCH,</castItem>
+        <castItem>NAPHTALI,Jews.</castItem>
+        <castItem>RABBI CRESSELIN.</castItem>
+        <castItem>LAY-BROTHER.</castItem>
+        <castItem>PAGE.</castItem>
+        <castItem>PUBLIC SCRIVENER.</castItem>
+        <castItem>PRINCESS MATHILDIS, wife to Frederick.</castItem>
+        <castItem>LIEBHAID VON ORB.</castItem>
+        <castItem>CLAIRE CRESSELIN.</castItem>
+        <castItem>Jews, Jewesses, Burghers, Senators, Citizens, Citizen's Wife and Boy, Flagellants, Servants, Guardsmen.</castItem>
+        <castItem>
+        </castItem>
+      </castList>
+      <set>
+        <l>Scene — Partly in Nordhausen, partly in Eisenach. Time, May, 4th, 5th, 6th, 1349.</l>
+      </set>
+    </front>
+    <body>
+      <div type="act">
+        <head>ACT I.—In Nordhausen.</head>
+        <div type="scene">
+          <head>SCENE I.</head>
+          <stage>A street in the Judengasse, outside the Synagogue. During this Scene Jews and Jewesses, singly and in groups, with prayer-books in their hands, pass across the stage, and go into the Synagogue. Among them, enter BARUCH and NAPHTALI.</stage>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>Hast seen him yet?</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Nay; Rabbi Jacob's door</l>
+            <l>Swung to behind him, just as I puffed up</l>
+            <l>O'erblown with haste. See how our years weigh, cousin.</l>
+            <l>Who'd judge me with this paunch a temperate man,</l>
+            <l>A man of modest means, a man withal</l>
+            <l>Scarce overpast his prime? Well, God be praised,</l>
+            <l>If age bring no worse burden ! Who is this stranger?</l>
+            <l>Simon the Leech tells me he claims to bear</l>
+            <l>Some special message from the Lord —no doubt</l>
+            <l>To-morrow, fresh from rest, he'll publish it</l>
+            <l>Within the Synagogue.</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>To-morrow, man?</l>
+            <l>He will not hear of rest— he comes anon—</l>
+            <l>Shall we within?</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Rather let's wait,</l>
+            <l>And scrutinize him as he mounts the street.</l>
+            <l>Since you denote him so remarkable,</l>
+            <l>You've whetted my desire.</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>A blind, old man,</l>
+            <l>Mayhap is all you 'll find him — spent with travel,</l>
+            <l>His raiment fouled with dust, his sandaled feet</l>
+            <l>Road-bruised by stone and bramble. But his face!—</l>
+            <l>Majestic with long fall of cloud-white beard,</l>
+            <l>And hoary wreath of hair— oh, it is one</l>
+            <l>Already kissed by angels.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Look, there limps</l>
+            <l>Little Manasseh, bloated as his purse,</l>
+            <l>And wrinkled as a frost-pinched fruit. I hear</l>
+            <l>His last loan to the Syndic will result</l>
+            <l>In quadrupling his wealth. Good Lord! what luck</l>
+            <l>Blesses some folk, while good men stint and sweat</l>
+            <l>And scrape, to merely fill the household larder.</l>
+            <l>What said you of this pilgrim, Naphtali?</l>
+            <l>These inequalities of fortune rub</l>
+            <l>My sense of justice so against the grain,</l>
+            <l>I lose my very name. Whence does he come?</l>
+            <l>Is he alone?</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>He comes from Chinon, France.</l>
+            <l>Rabbi Cresselin he calls himself — alone</l>
+            <l>Save for his daughter who has led him hither.</l>
+            <l>A beautiful, pale girl with round black eyes.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Bring they fresh tidings of the pestilence?</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>I know not— but I learn from other source</l>
+            <l>It has burst forth at Erfurt.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>God have mercy!</l>
+            <l>Have many of our tribe been stricken?</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>No.</l>
+            <l>They cleanse their homes and keep their bodies sweet,</l>
+            <l>Nor cease from prayer— and so does Jacob's God</l>
+            <l>Protect His chosen, still. Yet even His favor</l>
+            <l>Our enemies would twist into a curse.</l>
+            <l>Beholding the destroying angel smite</l>
+            <l>The foal idolater and leave unscathed</l>
+            <l>The gates of Israel — the old cry they raise —</l>
+            <l>We have begotten the Black Death— we poison</l>
+            <l>The well-springs of the towns.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>God pity us!</l>
+            <l>But truly are we blessed in Nordhausen.</l>
+            <l>Such terrors seem remote as Egypt's plagues.</l>
+            <l>I warrant you our Landgrave dare not harry</l>
+            <l>Such creditors as we. See, here comes one,</l>
+            <l>The greatest and most liberal of them all—</l>
+            <l>Süsskind von Orb.</l>
+            <stage>SÜSSKIND VON ORB, LIEBHAID, and REUBEN enter, all pass across the stage, and disappear within the Synagogue.</stage>
+            <l>I'd barter my whole fortune,</l>
+            <l>And yours to boot, that's thrice the bulk of mine,</l>
+            <l>For half the bonds he holds in Frederick's name.</l>
+            <l>The richest merchant in Thuringia, he—</l>
+            <l>The poise of his head would tell it, knew we not.</l>
+            <l>How has his daughter leaped to womanhood!</l>
+            <l>I mind when she came toddling by his hand,</l>
+            <l>But yesterday — a flax-haired child — to-day</l>
+            <l>Her brow is level with his pompous chin.</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>How fair she is! Her hair has kept its gold</l>
+            <l>Untarnished still. I trace not either parent</l>
+            <l>In her face, clean cut as a gem.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Her mother</l>
+            <l>Was far-off kin to me, and I might pass,</l>
+            <l>I'm told, unguessed in Christian garb. I know</l>
+            <l>A pretty secret of that scornful face.</l>
+            <l>It lures high game to Nordhausen.</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>Baruch,</l>
+            <l>I marvel at your prompt credulity.</l>
+            <l>The Prince of Meissen and Liebhaid von Orb!</l>
+            <l>A jest for gossips and — Look, look, he comes!</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Who's that, the Prince?</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>Nay, dullard, the old man,</l>
+            <l>The Rabbi of Chinon. Ah! his stout staff,</l>
+            <l>And that brave creature's strong young hand suffice</l>
+            <l>Scarcely to keep erect his tottering frame.</l>
+            <l>Emaciate-lipped, with cavernous black eyes</l>
+            <l>Whose inward visions do eclipse the day,</l>
+            <l>Seems he not one re-risen from the grave</l>
+            <l>To yield the secret ?</l>
+          </sp>
+          <stage>Enter RABBI JACOB, and RABBI CRESSELIN led by CLAIRE. They walk across the stage, and disappear in the Synagogue.</stage>
+          <sp who="#baruch">
+            <speaker>BARUCH</speaker>
+            <l><stage>(exaltedly).</stage></l>
+            <l>Blessed art thou, O Lord,</l>
+            <l>King of the Universe, who teachest wisdom</l>
+            <l>To those who fear thee!</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>Haste we in. The star</l>
+            <l>Of Sabbath dawns.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>My flesh is still a-creep</l>
+            <l>From the strange gaze of those wide-rolling orbs.</l>
+            <l>Didst note, man, how they fixed me? His lean cheeks,</l>
+            <l>As wan as wax, were bloodless; how his arms</l>
+            <l>Stretched far beyond the flowing sleeve and showed</l>
+            <l>Gaunt, palsied wrists, and hands blue-tipped with death!</l>
+            <l>Well, I have seen a sage of Israel.</l>
+          </sp>
+          <stage>[They enter the Synagogue. Scene closes.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE II.</head>
+          <stage>The Synagogue crowded with worshippers. Among the women in the Gallery are discovered LIEBHAID VON ORB and CLAIRE CRESSELIN. Below, among the men, SÜSSKIND VON ORB and REUBEN. At the Reader's Desk, RABBI JACOB. Fronting the audience under the Ark of the Covenant, stands a high desk, behind which is seen the white head of an old man bowed in prayer. BARUCH and NAPHTALI enter and take their seats.</stage>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Think you he speaks before the service ?</l>
+          </sp>
+          <sp who="#naphtali">
+            <speaker>NAPHTALI.</speaker>
+            <l>Yea.</l>
+            <l>Lo, phantom-like the towering patriarch!</l>
+          </sp>
+          <stage>[RABBI CRESSELIN slowly rises beneath the Ark.</stage>
+          <sp who="#rabbi_cresselin">
+            <speaker>RABBI CRESSELIN</speaker>
+            <l>Woe unto Israel! woe unto all</l>
+            <l>Abiding 'mid strange peoples! Ye shall be</l>
+            <l>Cut off from that land where ye made your home.</l>
+            <l>I, Cresselin of Chinon, have traveled far,</l>
+            <l>Thence where my fathers dwelt, to warn my race,</l>
+            <l>For whom the fire and stake have been prepared.</l>
+            <l>Our brethren of Verdun, all over France,</l>
+            <l>Are burned alive beneath the Goyim's torch.</l>
+            <l>What terrors have I witnessed, ere my sight</l>
+            <l>Was mercifully quenched! In Gascony,</l>
+            <l>In Savoy, Piedmont, round the garden shores</l>
+            <l>Of tranquil Leman, down the beautiful Rhine,</l>
+            <l>At Lindau, Costnitz, Schaffhausen, St. Gallen,</l>
+            <l>Everywhere torture, smoking Synagogues,</l>
+            <l>Carnage, and burning flesh. The lights shine out</l>
+            <l>Of Jewish virtue, Jewish truth, to star</l>
+            <l>The sanguine field with an immortal blazon.</l>
+            <l>The venerable Mar-Isaac in Cologne,</l>
+            <l>Sat in his house at prayer, nor lifted lid</l>
+            <l>From off the sacred text, while all around</l>
+            <l>The fanatics ran riot; him they seized,</l>
+            <l>Haled through the streets, with prod of stick and spike</l>
+            <l>Fretted his wrinkled flesh, plucked his white beard.</l>
+            <l>Dragged him with gibes into their Church, and held</l>
+            <l>A Crucifix before him. "Know thy Lord !"</l>
+            <l>He spat thereon; he was pulled limb from limb.</l>
+            <l>I saw — God, that I might forget ! — a man</l>
+            <l>Leap in the Loire, with his fair, stalwart son,</l>
+            <l>A-bloom with youth, and midst the stream unsheathe</l>
+            <l>A poniard, sheathing it in his boy's heart,</l>
+            <l>While he pronounced the blessing for the dead.</l>
+            <l>"Amen!" the lad responded as he sank,</l>
+            <l>And the white water darkened as with wine.</l>
+            <l>I saw— but no! You are glutted, and my tongue,</l>
+            <l>Blistered, refuseth to narrate more woe.</l>
+            <l>I have known much sorrow. When it pleased the Lord</l>
+            <l>To afflict us with the horde of Pastoureaux,</l>
+            <l>The rabble of armed herdsmen, peasants, slaves,</l>
+            <l>Men-beasts of burden — coarse as the earth they tilled,</l>
+            <l>Who like an inundation deluged France</l>
+            <l>To drown our race — my heart held firm, my faith</l>
+            <l>Shook not upon her rock until I saw,</l>
+            <l>Smit by God's beam, the big black cloud dissolve.</l>
+            <l>Then followed with their scythes, spades, clubs, and banners</l>
+            <l>Flaunting the Cross, the hosts of Armleder,</l>
+            <l>From whose fierce wounds we scarce are healed to-day.</l>
+            <l>Yet do I say the cup of bitterness</l>
+            <l>That Israel has drained is but a draught</l>
+            <l>Of cordial, to the cup that is prepared.</l>
+            <l>The Black Death and the Brothers of the Cross,</l>
+            <l>These are our foes — and these are everywhere.</l>
+            <l>I who am blind see ruin in their wake;</l>
+            <l>Ye who have eyes and limbs, arise and flee!</l>
+            <l>To-morrow the Flagellants will be here.</l>
+            <l>God's angel visited my sleep and spake:</l>
+            <l>"Thy Jewish kin in the Thuringian town</l>
+            <l>Of Nordhausen shall be swept off from earth,</l>
+            <l>Their elders and their babes — consumed with fire.</l>
+            <l>Go summon Israel to flight — take this</l>
+            <l>As sign that I, who call thee, am the Lord,</l>
+            <l>Thine eyes shalt be struck blind till thou hast spoken."</l>
+            <l>Then darkness fell upon my mortal sense,</l>
+            <l>But light broke o'er my soul, and all was clear,</l>
+            <l>And I have journeyed hither with my child</l>
+            <l>O'er mount and river, till I have announced</l>
+            <l>The message of the Everlasting God.</l>
+          </sp>
+          <stage>[Sensation in the Synagogue.</stage>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Father, have mercy! when wilt thou have done</l>
+            <l>With rod and scourge? Beneath thy children's feet</l>
+            <l>Earth splits, fire springs. No rest, no rest! no rest,</l>
+          </sp>
+          <sp who="#a_voice">
+            <speaker>A VOICE.</speaker>
+            <l>Look to the women! Marianne swoons!</l>
+          </sp>
+          <sp who="#another_voice">
+            <speaker>ANOTHER VOICE.</speaker>
+            <l>Woe unto us who sinned!</l>
+          </sp>
+          <sp who="#another_voice">
+            <speaker>ANOTHER VOICE.</speaker>
+            <l>We're all dead men.</l>
+            <l>Fly, fly ere dawn as our forefathers fled</l>
+            <l>From out the land of Egypt.</l>
+          </sp>
+          <sp who="#baruch">
+            <speaker>BARUCH.</speaker>
+            <l>Are ye mad?</l>
+            <l>Shall we desert snug homes? forego the sum</l>
+            <l>Scraped through laborious years to smooth life's slope,</l>
+            <l>And die like dogs unkenneled and untombed,</l>
+            <l>At bidding of a sorrow-crazed old man?</l>
+          </sp>
+          <sp who="#a_voice">
+            <speaker>A VOICE.</speaker>
+            <l>He flouts the Lord's anointed! Cast him forth!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND VON ORB.</speaker>
+            <l>Peace, brethren, peace! If I have ever served</l>
+            <l>Israel with purse, arm, brain, or heart — now hear me!</l>
+            <l>May God instruct my speech! This wise old man,</l>
+            <l>Whose brow flames with the majesty of truth,</l>
+            <l>May he part-blinded through excess of light,</l>
+            <l>As one who eyes too long the naked sun,</l>
+            <l>Setting in rayless glory, turns and finds</l>
+            <l>Outlines confused, familiar colors changed,</l>
+            <l>All objects branded with one blood-bright spot.</l>
+            <l>Nor chafe at Baruch's homely sense; truth floats</l>
+            <l>Midway between the stars and the abyss.</l>
+            <l>We, by God's grace, have found a special nest</l>
+            <l>I' the dangerous rock, screened against wind and hawk;</l>
+            <l>Free burghers of a free town, blessed moreover</l>
+            <l>With the peculiar favor of the Prince,</l>
+            <l>Frederick the Grave, our patron and protector.</l>
+            <l>What shall we fear? Rather, where shall we seek</l>
+            <l>Secure asylum, if here be not one?</l>
+            <l>Fly? Our forefathers had the wilderness,</l>
+            <l>The sea their gateway, and the fire-cored cloud</l>
+            <l>Their divine guide. Us, hedged by ambushed foes,</l>
+            <l>No frank, free, kindly desert shall receive.</l>
+            <l>Death crouches on all sides, prepared to leap</l>
+            <l>Tiger-like on our throats, when first we step</l>
+            <l>From this safe covert. Everywhere the Plague!</l>
+            <l>As nigh as Erfurt it has crawled — the towns</l>
+            <l>Reek with miasma, the rank fields of spring,</l>
+            <l>Rain-saturated, are one beautiful — lie,</l>
+            <l>Smiling profuse life, and secreting death.</l>
+            <l>Strange how, unbidden, a trivial memory</l>
+            <l>Thrusts itself on my mind in this grave hour.</l>
+            <l>I saw a large white bull urged through the town</l>
+            <l>To slaughter by a stripling with a goad,</l>
+            <l>Whom but one sure stamp of that solid heel,</l>
+            <l>One toss of those mooned horns, one battering blow</l>
+            <l>Of that square marble forehead, would have crushed,</l>
+            <l>As we might crush a worm, yet on he trudged,</l>
+            <l>Patient, in powerful health to death. At once,</l>
+            <l>As though o' the sudden stung, he roared aloud,</l>
+            <l>Beat with fierce hoofs the air, shook desperately</l>
+            <l>His formidable head, and heifer-swift,</l>
+            <l>Raced through scared, screaming streets. Well, and the end?</l>
+            <l>He was the promptlier bound and killed and quartered.</l>
+            <l>The world belongs to man; dreams the poor brute</l>
+            <l>Some nook has been apportioned for brute life?</l>
+            <l>Where shall a man escape men's cruelty?</l>
+            <l>Where shall God's servant cower from his doom?</l>
+            <l>Let us bide, brethren — we are in His hand.</l>
+          </sp>
+          <sp who="#rabbi_cresselin">
+            <speaker>RABBI CRESSELIN</speaker>
+            <l><stage>(uttering a piercing shriek).</stage></l>
+            <l>Ah!</l>
+            <l>Woe unto Israel! Lo, I see again,</l>
+            <l>As the Ineffable foretold. I see</l>
+            <l>A flood of fire that streams towards the town.</l>
+            <l>Look, the destroying Angel with the sword,</l>
+            <l>Wherefrom the drops of gall are raining down,</l>
+            <l>Broad-winged, comes flying towards you. Now he draws</l>
+            <l>His lightning-glittering blade! With the keen edge</l>
+            <l>He smiteth Israel — ah!</l>
+          </sp>
+          <stage>[He falls back dead. Confusion in the Synagogue.</stage>
+          <sp who="#claire">
+            <speaker>CLAIRE</speaker>
+            <l><stage>(from the gallery).</stage></l>
+            <l>Father! My father!</l>
+            <l>Let me go down to him!</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Sweet girl, be patient.</l>
+            <l>This is the House of God, and He hath entered.</l>
+            <l>Bow we and pray.</l>
+          </sp>
+          <stage>[Meanwhile, some of the men surround and raise from the ground the body of RABBI CRESSELIN. Several voices speaking at once.</stage>
+          <sp who="#voice_1st">
+            <speaker>1ST VOICE.</speaker>
+            <l>He's doomed.</l>
+          </sp>
+          <sp who="#voice_2d">
+            <speaker>2D VOICE.</speaker>
+            <l>Dead! Dead!</l>
+          </sp>
+          <sp who="#voice_3d">
+            <speaker>3D VOICE.</speaker>
+            <l>A judgment!</l>
+          </sp>
+          <sp who="#voice_4th">
+            <speaker>4TH VOICE.</speaker>
+            <l>Make way there! Air! Carry him forth ! He's warm!</l>
+          </sp>
+          <sp who="#voice_3d">
+            <speaker>3D VOICE.</speaker>
+            <l>Nay, his heart's stopped — his breath has ceased— quite dead.</l>
+          </sp>
+          <sp who="#voice_5th">
+            <speaker>5TH VOICE.</speaker>
+            <l>Didst mark a diamond lance flash from the roof,</l>
+            <l>And strike him 'twixt the eyes?</l>
+          </sp>
+          <sp who="#voice_1st">
+            <speaker>1ST VOICE.</speaker>
+            <l>Our days are numbered.</l>
+            <l>This is the token.</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Lift the corpse and pray.</l>
+            <l>Shall we neglect God's due observances,</l>
+            <l>While He is manifest in miracle?</l>
+            <l>I saw a blaze seven times more bright than fire,</l>
+            <l>Crest, halo-wise, the patriarch's white head.</l>
+            <l>The dazzle stung my burning lids — they closed,</l>
+            <l>One instant — when they oped, the great blank cloud</l>
+            <l>Had settled on his countenance forever.</l>
+            <l>Departed brother, mayest thou find the gates</l>
+            <l>Of heaven open, see the city of peace,</l>
+            <l>And meet the ministering angels, glad,</l>
+            <l>Hastening towards thee! May the High Priest stand</l>
+            <l>To greet and bless thee! Go thou to the end !</l>
+            <l>Repose in peace and rise again to life.</l>
+            <l>No more thy sun sets, neither wanes thy moon.</l>
+            <l>The Lord shall be thy everlasting light,</l>
+            <l>Thy days of mourning shall be at an end.</l>
+            <l>For you, my flock, fear nothing; it is writ</l>
+            <l>As one his mother comforteth, so I</l>
+            <l>Will comfort you and in Jerusalem</l>
+            <l>Ye shall be comforted.</l>
+          </sp>
+          <stage>[Scene closes.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE III.</head>
+          <stage>Evening. A crooked byway in the Judengasse. Enter PRINCE WILLIAM.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Cursed be these twisted lanes! I have missed the clue</l>
+            <l>Of the close labyrinth. Nowhere in sight,</l>
+            <l>Just when I lack it, a stray gaberdine</l>
+            <l>To pick me up my thread. Yet when I haste</l>
+            <l>Through these blind streets, unwishful to be spied,</l>
+            <l>Some dozen hawk-eyes peering o'er crook'd beaks</l>
+            <l>Leer recognition, and obsequious caps</l>
+            <l>Do kiss the stones to greet my princeship. Bah!</l>
+            <l>Strange, 'midst such refuse sleeps so white a pearl.</l>
+            <l>At last, here shuffles one.</l>
+          </sp>
+          <stage>Enter a Jew.
+            Give you good even!
+            Sir, can you help me to the nighest way
+            Unto the merchant's house, Süsskind von Orb?</stage>
+          <sp who="#jew">
+            <speaker>JEW.</speaker>
+            <l>Whence come you knowing not the high brick wall,</l>
+            <l>Without, blank as my palm, o' the inner side,</l>
+            <l>Muring a palace? But — do you wish him well?</l>
+            <l>He is my friend — we must be wary, wary,</l>
+            <l>We all have warning — Oh, the terror of it!</l>
+            <l>I have not yet my wits !</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>I am his friend.</l>
+            <l>Is he in peril? What's the matter, man?</l>
+          </sp>
+          <sp who="#jew">
+            <speaker>JEW.</speaker>
+            <l>Peril ? His peril is no worse than mine,</l>
+            <l>But the rich win compassion. God is just,</l>
+            <l>And every man of us is doomed. Alack!</l>
+            <l>He said it — oh those wild, white eyes!</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>I pray you,</l>
+            <l>Tell me the way to Süsskind's home.</l>
+          </sp>
+          <sp who="#jew">
+            <speaker>JEW.</speaker>
+            <l>Sweet master,</l>
+            <l>You look the perfect knight, what can you crave</l>
+            <l>Of us starved, wretched Jews? Leave us in peace.</l>
+            <l>The Judengasse gates will shut anon,</l>
+            <l>Nor ope till morn again for Jew or Gentile.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Here's gold. I am the Prince of Meissen — speak!</l>
+          </sp>
+          <sp who="#jew">
+            <speaker>JEW.</speaker>
+            <l>Oh pardon! Let me kiss your mantle's edge.</l>
+            <l>This way, great sir, I lead you there myself,</l>
+            <l>If you deign follow one so poor, so humble.</l>
+            <l>You must show mercy in the name of God,</l>
+            <l>For verily are we afflicted. Come.</l>
+            <l>Hard by is Süsskind's dwelling — as we walk</l>
+            <l>By your good leave I'll tell what I have seen.</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE IV.</head>
+          <stage>A luxuriously-furnished apartment in SÜSSKIND VON ORB'S house. Upon a richly-spread supper-table stands the seven-branched silver candlestick of the Sabbath eve. At the table are seated SÜSSKIND VON ORB, LIEBHAID, and REUBEN.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Drink, children, drink! and lift your hearts to Him</l>
+            <l>Who gives us the vine's fruit.</l>
+          </sp>
+          <stage>[They drink.
+            How clear it glows;
+            Like gold within the golden bowl, like fire
+            Along our veins, after the work-day week
+            Rekindling Sabbath-fervor, Sabbath-strength.
+            Verily God prepares for me a table
+            In presence of mine enemies! He anoints
+            My head with oil, my cup is overflowing.
+            Praise we His name ! Hast thou, my daughter, served
+            The needs o' the poor, suddenly-orphaned child?
+            Naught must she lack beneath my roof.</stage>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Yea, father.</l>
+            <l>She prays and weeps within: she had no heart</l>
+            <l>For Sabbath meal, but charged me with her thanks —</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Thou shalt be mother and sister in one to her.</l>
+            <l>Speak to her comfortably.</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>She has begged</l>
+            <l>A grace of me I happily can grant.</l>
+            <l>After our evening-prayer, to lead her back</l>
+            <l>Unto the Synagogue, where sleeps her father,</l>
+            <l>A light at head and foot, o'erwatched by strangers;</l>
+            <l>She would hold vigil.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>'T is a pious wish,</l>
+            <l>Not to be crossed, befitting Israel's daughter.</l>
+            <l>Go, Reuben; heavily the moments hang,</l>
+            <l>While her heart yearns to break beside his corpse.</l>
+            <l>Receive my blessing.</l>
+          </sp>
+          <stage>[He places his hands upon his son's head in benediction. Exit Reuben.
+            Henceforth her home is here.
+            In the event to-night, God's finger points
+            Visibly out of heaven. A thick cloud
+            Befogs the future. But just here is light.</stage>
+          <stage>Enter a servant ushering in PRINCE WILLIAM.</stage>
+          <sp who="#servant">
+            <speaker>SERVANT.</speaker>
+            <l>His highness Prince of Meissen.</l>
+          </sp>
+          <stage>[Exit.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Welcome, Prince!</l>
+            <l>God bless thy going forth and coming in!</l>
+            <l>Sit at our table and accept the cup</l>
+            <l>Of welcome which my daughter fills.</l>
+          </sp>
+          <stage>[LIEBHAID offers him wine.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM</speaker>
+            <l><stage>(drinking).</stage></l>
+            <l>To thee!</l>
+          </sp>
+          <stage>[All take their seats at the table.
+            I heard disquieting news as I came hither.
+            The apparition in the Synagogue,
+            The miracle of the message and the death.
+            Süsskind von Orb, what think'st thou of these things?</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>I think, sir, we are in the hand of God,</l>
+            <l>I trust the Prince — your father and my friend.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Trust no man! flee! I have not come to-night</l>
+            <l>To little purpose. Your arch enemy,</l>
+            <l>The Governor of Salza, Henry Schnetzen,</l>
+            <l>Has won my father's ear. Since yester eve</l>
+            <l>He stops at Eisenach, begging of the Prince</l>
+            <l>The Jews' destruction.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND</speaker>
+            <l><stage>(calmly).</stage></l>
+            <l>Schnetzen is my foe,</l>
+            <l>I know it, but I know a talisman,</l>
+            <l>Which at a word transmutes his hate to love.</l>
+            <l>Liebhaid, my child, look cheerly. What is this?</l>
+            <l>Harm dare not touch thee; the oppressor's curse,</l>
+            <l>Melts into blessing at thy sight.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Not fear</l>
+            <l>Plucks at my heart-strings, father, though the air</l>
+            <l>Thickens with portents; 't is the thought of flight,</l>
+            <l>But no — I follow thee.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Thou shalt not miss</l>
+            <l>The value of a hair from thy home treasures.</l>
+            <l>All that thou lovest, Liebhaid, goes with thee.</l>
+            <l>Knowest thou, Süsskind, Schnetzen's cause of hate?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>'T is rooted in an ancient error, born</l>
+            <l>During his feud with Landgrave Fritz the Bitten,</l>
+            <l>Your Highness' grandsire — ten years — twenty — back.</l>
+            <l>Misled to think I had betrayed his castle,</l>
+            <l>Who knew the secret tunnel to its courts,</l>
+            <l>He has nursed a baseless grudge, whereat I smile,</l>
+            <l>Sure to disarm him by the simple truth.</l>
+            <l>God grant me strength to utter it.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>You fancy</l>
+            <l>The rancor of a bad heart slow distilled</l>
+            <l>Through venomed years, so at a breath, dissolves.</l>
+            <l>O good old man, i' the world, not of the world!</l>
+            <l>Belike, himself forgets the doubtful core</l>
+            <l>Of this still-curdling, petrifying ooze.</l>
+            <l>Truth? why truth glances from the callous mass,</l>
+            <l>A spear against a rock. He hugs his hate,</l>
+            <l>His bed-fellow, his daily, life-long comrade;</l>
+            <l>Think you he has slept, ate, drank with it this while,</l>
+            <l>Now to forego revenge on such slight cause</l>
+            <l>As the revealed truth?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>You mistake my thought,</l>
+            <l>Great-hearted Prince, and justly — for I speak</l>
+            <l>In riddles, till God's time to make all clear.</l>
+            <l>When His day dawns, the blind shall see.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Forgive me,</l>
+            <l>If I, in wit and virtue your disciple,</l>
+            <l>Seem to instruct my master. Accident</l>
+            <l>Lifts me where I survey a broader field</l>
+            <l>Than wise men stationed lower. I spy peril,</l>
+            <l>Fierce flame invisible from the lesser peaks.</l>
+            <l>God's time is now. Delayed truth leaves a lie</l>
+            <l>Triumphant. If you harbor any secret,</l>
+            <l>Potent to force an ear that's locked to mercy,</l>
+            <l>In God's name, now disbosom it.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Kind Heaven!</l>
+            <l>Would that my people's safety were assured</l>
+            <l>So is my child's! Where shall we turn? Where flee?</l>
+            <l>For all around us the Black Angel broods.</l>
+            <l>We step into the open jaws of death</l>
+            <l>If we go hence.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Better to fall beneath</l>
+            <l>The hand of God, than be cut off by man.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>We are trapped, the springe is set. Not ignorantly</l>
+            <l>I offered counsel in the Synagogue,</l>
+            <l>Quelled panic with authoritative calm,</l>
+            <l>But knowing, having weighed the opposing risks.</l>
+            <l>Our friends in Strasburg have been overmastered,</l>
+            <l>The imperial voice is drowned, the papal arm</l>
+            <l>Drops paralyzed — both, lifted for the truth;</l>
+            <l>We can but front with brave eyes, brow erect,</l>
+            <l>As is our wont, the fullness of our doom.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Then Meissen's sword champions your desperate cause.</l>
+            <l>I take my stand here where my heart is fixed.</l>
+            <l>I love your daughter — if her love consent,</l>
+            <l>I pray you, give me her to wife.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Ah!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Prince,</l>
+            <l>Let not this Saxon skin, this hair's gold fleece,</l>
+            <l>These Rhine-blue eyes mislead thee —she is alien.</l>
+            <l>To the heart's core a Jewess — prop of my house,</l>
+            <l>Soul of my soul — and I? a despised Jew.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Thy propped house crumbles; let my arm sustain</l>
+            <l>Its tottering base — thy light is on the wane,</l>
+            <l>Let me relume it. Give thy star to me,</l>
+            <l>Or ever pitch-black night engulf us all —</l>
+            <l>Lend me your voice, Liebhaid, entreat for me.</l>
+            <l>Shall this prayer be your first that he denies?</l>
+          </sp>
+          <sp who="#leibhaid">
+            <speaker>LEIBHAID.</speaker>
+            <l>Father, my heart's desire is one with his.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Is this the will of God? Amen! My children,</l>
+            <l>Be patient with me, I am full of trouble.</l>
+            <l>For you, heroic Prince, could aught enhance</l>
+            <l>Your love's incomparable nobility,</l>
+            <l>'T were the foreboding horror of this hour,</l>
+            <l>Wherein you dare flash forth its lightning-sword.</l>
+            <l>You reckon not, in the hot, splendid moment</l>
+            <l>Of great resolve, the cold insidious breath</l>
+            <l>Wherewith the outer world shall blast and freeze —</l>
+            <l>But hark! I own a mystic amulet,</l>
+            <l>Which you delivering to your gracious father,</l>
+            <l>Shall calm his rage withal, and change his scorn</l>
+            <l>Of the Jew's daughter into pure affection.</l>
+            <l>I will go fetch it — though I drain my heart</l>
+            <l>Of its red blood, to yield this sacrifice.</l>
+          </sp>
+          <stage>[Exit SÜSSKIND.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Have you no smile to welcome love with, Liebhaid?</l>
+            <l>Why should you tremble?</l>
+            <l>LIEBHAID,</l>
+            <l>Prince, I am afraid!</l>
+            <l>Afraid of my own heart, my unfathomed joy,</l>
+            <l>A blasphemy against my father's grief,</l>
+            <l>My people's agony. I dare be happy —</l>
+            <l>So happy! in the instant's lull betwixt</l>
+            <l>The dazzle and the crash of doom.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>You read</l>
+            <l>The omen falsely; rather is your joy</l>
+            <l>The thrilling harbinger of general dawn.</l>
+            <l>Did you not tell me scarce a month agone,</l>
+            <l>When I chanced in on you at feast and prayer,</l>
+            <l>The holy time's bright legend? of the queen,</l>
+            <l>Strong, beautiful, resolute, who denied her race</l>
+            <l>To save her race, who cast upon the die</l>
+            <l>Of her divine and simple loveliness,</l>
+            <l>Her life, her soul, — and so redeemed her tribe.</l>
+            <l>You are my Esther — but I, no second tyrant,</l>
+            <l>Worship whom you adore, love whom you love!</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>If I must die with morn, I thank my God,</l>
+            <l>And thee, my king, that I have lived this night.</l>
+          </sp>
+          <stage>Enter SÜSSKIND, carrying a jewelled casket.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Here is the chest, sealed with my signet-ring,</l>
+            <l>A mystery and a treasure lies within,</l>
+            <l>Whose worth is faintly symboled by these gems,</l>
+            <l>Starring the case. Deliver it unopened,</l>
+            <l>Unto the Landgrave. Now, sweet Prince, good night.</l>
+            <l>Else will the Judengasse gates be closed.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Thanks, father, thanks. Liebhaid, my bride, good-night.</l>
+          </sp>
+          <stage>[He kisses her brow. SÜSSKIND places his hands on the heads of LIEBHAID and PRINCE WILLIAM.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Blessed, O Lord, art thou, who bringest joy</l>
+            <l>To bride and bridegroom. Let us thank the Lord.</l>
+          </sp>
+          <stage>[Curtain falls.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ACT II. — At Eisenach.</head>
+        <div type="scene">
+          <head>SCENE I.</head>
+          <stage>A Room in the LANDGRAVE'S Palace. FREDERICK THE GRAVE and HENRY SCHNETZEN.</stage>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Who tells thee of my son's love for the Jewess?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Who tells me? Ask the Judengasse walls,</l>
+            <l>The garrulous stones publish Prince William's visits</l>
+            <l>To his fair mistress.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Mistress? Ah, such sins</l>
+            <l>The Provost of St. George's will remit</l>
+            <l>For half a pound of coppers.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Think it not!</l>
+            <l>No light amour this, leaving shield unflecked;</l>
+            <l>He wooes the Jewish damsel as a knight</l>
+            <l>The lady of his heart.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Impossible!</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Things more impossible have chanced. Remember</l>
+            <l>Count Gleichen, doubly wived, who pined in Egypt,</l>
+            <l>There wed the Pasha's daughter Malachsala,</l>
+            <l>Nor blushed to bring his heathen paramour</l>
+            <l>Home to his noble wife Angelica,</l>
+            <l>Countess of Orlamund. Yea, and the Pope</l>
+            <l>Sanctioned the filthy sin.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Himself shall say it.</l>
+            <l>Ho, Gunther!</l>
+            <l><stage>(Enter a Lackey.)</stage></l>
+            <l>Bid the Prince of Meissen here.</l>
+          </sp>
+          <stage>[Exit Lackey. The LANDGRAVE paces the stage in agitation.</stage>
+          <stage>Enter PRINCE WILLIAM.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Father, you called me?</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Ay, when were you last</l>
+            <l>In Nordhausen?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>This morning I rode hence.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Were you at Süsskind's house?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>I was, my liege.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>I hear you entertain unseemly love</l>
+            <l>For the Jew's daughter.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Who has told thee this?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>This I have told him.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Father, believe him not.</l>
+            <l>I swear by heaven 't is no unseemly love</l>
+            <l>Leads me to Süsskind's house.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>With what high title</l>
+            <l>Please you to qualify it?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>True, I love</l>
+            <l>Liebhaid von Orb, but 't is the honest passion</l>
+            <l>Wherewith a knight leads home his equal wife.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Great God! and thou wilt brag thy shame! Thou speakest</l>
+            <l>Of wife and Jewess in one breath! Wilt make</l>
+            <l>Thy princely name a stench in German nostrils?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Hold, father, hold! You know her — yes, a Jewess</l>
+            <l>In her domestic piety, her soul</l>
+            <l>Large, simple, splendid like a star, her heart</l>
+            <l>Suffused with Syrian sunshine — but no more —</l>
+            <l>The aspect of a Princess of Thuringia,</l>
+            <l>Swan-necked, gold-haired, Madonna-eyed. I love her!</l>
+            <l>If you will quench this passion, take my life!</l>
+          </sp>
+          <stage>[He falls at his father's feet. FREDERICK, in a paroxysm of rage, seizes his sword.</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>He is your son!</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Oh that he ne'er were born!</l>
+            <l>Hola! Halberdiers! Yeomen of the Guard!</l>
+          </sp>
+          <stage>Enter Guardsmen.
+            Bear off this prisoner! Let him sigh out
+            His blasphemous folly in the castle tower,
+            Until his hair be snow, his fingers claws.</stage>
+          <stage>[They seize and bear away PRINCE WILLIAM.
+            Well, what's your counsel?</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Briefly this, my lord.</l>
+            <l>The Jews of Nordhausen have brewed the Prince</l>
+            <l>A love-elixir — let them perish all!</l>
+          </sp>
+          <stage>[Tumult without. Singing of Hymns and Ringing of Church-bells. The LANDGRAVE and SCHNETZEN go to the window.
+            * 24.3SONG
+            (without).
+            The cruel pestilence arrives,
+            Cuts off a myriad human lives.
+            See the Flagellants' naked skin!
+            They scourge themselves for grievous sin.
+            Trembles the earth beneath God's breath,
+            The Jews shall all be burned to death.</stage>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Look, foreign pilgrims! What an endless file!</l>
+            <l>Naked waist-upward. Blood is trickling down</l>
+            <l>Their lacerated flesh. What do they carry?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Their scourges — iron-pointed, leathern thongs,</l>
+            <l>Mark how they lash themselves — the strict Flagellants.</l>
+            <l>The Brothers of the Cross — hark to their cries!</l>
+          </sp>
+          <sp who="#voice_from_below">
+            <speaker>VOICE FROM BELOW.</speaker>
+            <l>Atone, ye mighty! God is wroth! Expel</l>
+            <l>The enemies of heaven — raze their homes!</l>
+          </sp>
+          <stage>[Confused cries from below, which gradually die away in the distance.
+            Woe to God's enemies! Death to the Jews!
+            They poison all our wells — they bring the plague.
+            Kill them who killed our Lord! Their homes shall be
+            A wilderness — drown them in their own blood!</stage>
+          <stage>[The LANDGRAVE and SCHNETZEN withdraw from the window.</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Do not the people ask the same as I?</l>
+            <l>Is not the people's voice the voice of God?</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>I will consider.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Not too long, my liege.</l>
+            <l>The moment favors. Later 't were hard to show</l>
+            <l>Due cause to his Imperial Majesty,</l>
+            <l>For slaughtering the vassals of the Crown.</l>
+            <l>Two mighty friends are theirs. His holiness</l>
+            <l>Clement the Sixth and Kaiser Karl.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>'T were rash</l>
+            <l>Contending with such odds.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Courage, my lord.</l>
+            <l>These battle singly against death and fate.</l>
+            <l>Your allies are the sense and heart o' the world.</l>
+            <l>Priests warring for their Christ, nobles for gold,</l>
+            <l>And peoples for the very breath of life</l>
+            <l>Spoiled by the poison-mixers. Kaiser Karl</l>
+            <l>Lifts his lone voice unheard, athwart the roar</l>
+            <l>Of such a flood; the papal bull is whirled</l>
+            <l>An unconsidered rag amidst the eddies.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>What credence lend you to the general rumor</l>
+            <l>Of the river poison?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Such as mine eyes avouch.</l>
+            <l>I have seen, yea touched the leathern wallet found</l>
+            <l>On the body of one from whom the truth was wrenched</l>
+            <l>By salutary torture. He confessed,</l>
+            <l>Though but a famulus of the master-wizard,</l>
+            <l>The horrible old Moses of Mayence,</l>
+            <l>He had flung such pouches in the Rhine, the Elbe,</l>
+            <l>The Oder, Danube — in a hundred brooks,</l>
+            <l>Until the wholesome air reeked pestilence;</l>
+            <l>'T was an ell long, filled with a dry, fine dust</l>
+            <l>Of rusty black and red, deftly compounded</l>
+            <l>Of powdered flesh of basilisks, spiders, frogs,</l>
+            <l>And lizards, baked with sacramental dough</l>
+            <l>In Christian blood.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Such goblin-tales may curdle</l>
+            <l>The veins of priest-rid women, fools, and children.</l>
+            <l>They are not for the ears of sober men.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Pardon me, Sire. I am a simple soldier.</l>
+            <l>My God, my conscience, and my suzerain,</l>
+            <l>These are my guides — blindfold I follow them.</l>
+            <l>If your keen royal wit pierce the gross web</l>
+            <l>Of common superstition — be not wroth</l>
+            <l>At your poor vassal's loyal ignorance.</l>
+            <l>Remember, too, Süsskind retains your bonds.</l>
+            <l>The old fox will not press you; he would bleed</l>
+            <l>Against the native instinct of the Jew,</l>
+            <l>Rather his last gold doit and so possess</l>
+            <l>Your ease of mind, nag, chafe, and toy with it;</l>
+            <l>Abide his natural death, and other Jews</l>
+            <l>Less devilish-cunning, franklier Hebrew-viced,</l>
+            <l>Will claim redemption of your pledge.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>How know you</l>
+            <l>That Süsskind holds my bonds?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>You think the Jews</l>
+            <l>Keep such things secret? Not a Jew but knows</l>
+            <l>Your debt exact — the sum and date of interest,</l>
+            <l>And that you visit Süsskind, not for love,</l>
+            <l>But for his shekels.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Well, the Jews shall die.</l>
+            <l>This is the will of God. Whom shall I send</l>
+            <l>To bear my message to the council?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>I</l>
+            <l>Am ever at your 'hest. To-morrow morn</l>
+            <l>Sees me in Nordhausen.</l>
+          </sp>
+          <sp who="#landgrave">
+            <speaker>LANDGRAVE.</speaker>
+            <l>Come two hours hence.</l>
+            <l>I will deliver you the letter signed.</l>
+            <l>Make ready for your ride.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN</speaker>
+            <l><stage>(kisses FREDERICK'S hand).</stage></l>
+            <l>Farewell, my master.</l>
+            <l><stage>(Aside.)</stage></l>
+            <l>Ah, vengeance cometh late, Süsskind von Orb,</l>
+            <l>But yet it comes! My wife was burned through thee,</l>
+            <l>Thou and thy children are consumed by me!</l>
+          </sp>
+          <stage>[Exit.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE II.</head>
+          <stage>A Room in the Wartburg Monastery. PRINCESS MATHILDIS and PRIOR PEPPERCORN.</stage>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Be comforted, my daughter. Your lord's wisdom</l>
+            <l>Goes hand in hand with his known piety</l>
+            <l>Thus dealing with your son. To love a Jewess</l>
+            <l>Is flat contempt of Heaven — to ask in marriage,</l>
+            <l>Sheer spiritual suicide. Let be;</l>
+            <l>Justice must take its course.</l>
+          </sp>
+          <sp who="#princess">
+            <speaker>PRINCESS.</speaker>
+            <l>Justice is murdered;</l>
+            <l>Oh slander not her corpse. For my son's fault,</l>
+            <l>A thousand innocents are doomed. Is that</l>
+            <l>God's justice?</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Yea, our liege is but his servant.</l>
+            <l>Did not He purge with fiery hail those twain</l>
+            <l>Blotches of festering sin, Gomorrah, Sodom?</l>
+            <l>The Jews are never innocent, — when Christ</l>
+            <l>Agonized on the Cross, they cried — "His blood</l>
+            <l>Be on our children's heads and ours!" I mark</l>
+            <l>A dangerous growing evil of these days,</l>
+            <l>Pity, misnamed — say, criminal indulgence</l>
+            <l>Of reprobates brow-branded by the Lord.</l>
+            <l>Shall we excel the Christ in charity?</l>
+            <l>Because his law is love, we tutor him</l>
+            <l>In mercy and reward his murderers?</l>
+            <l>Justice is blind and virtue is austere.</l>
+            <l>If the true passion brimmed our yearning hearts</l>
+            <l>The vision of the agony would loom</l>
+            <l>Fixed vividly between the day and us: —</l>
+            <l>Nailed on the gaunt black Cross the divine form,</l>
+            <l>Wax-white and dripping blood from ankles, wrists,</l>
+            <l>The sacred ichor that redeems the world,</l>
+            <l>And crowded in strange shadow of eclipse,</l>
+            <l>Reviling Jews, wagging their heads accursed,</l>
+            <l>Sputtering blasphemy — who then would shrink</l>
+            <l>From holy vengeance? who would offer less</l>
+            <l>Heroic wrath and filial zeal to God</l>
+            <l>Than to a murdered father?</l>
+          </sp>
+          <sp who="#princess">
+            <speaker>PRINCESS.</speaker>
+            <l>But my son</l>
+            <l>Will die with her he loves.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Better to perish</l>
+            <l>In time than in eternity. No question</l>
+            <l>Pends here of individual life; our sight</l>
+            <l>Must broaden to embrace the scope sublime</l>
+            <l>Of this trans-earthly theme. The Jew survives</l>
+            <l>Sword, plague, fire, cataclysm — and must, since Christ</l>
+            <l>Cursed him to live till doomsday, still to be</l>
+            <l>A scarecrow to the nations. None the less</l>
+            <l>Are we beholden in Christ's name at whiles,</l>
+            <l>When maggot-wise Jews breed, infest, infect</l>
+            <l>Communities of Christians, to wash clean</l>
+            <l>The Church's vesture, shaking off the filth</l>
+            <l>That gathers round her skirts. A perilous germ!</l>
+            <l>Know you not, all the wells, the very air</l>
+            <l>The Jews have poisoned? — Through their arts alone</l>
+            <l>The Black Death scourges Christendom.</l>
+          </sp>
+          <sp who="#princess">
+            <speaker>PRINCESS.</speaker>
+            <l>I know</l>
+            <l>All heinousness imputed by their foes.</l>
+            <l>Father, mistake me not: I urge no plea</l>
+            <l>To shield this hell-spawn, loathed by all who love</l>
+            <l>The lamb and kiss the Cross. I had not guessed</l>
+            <l>Such obscure creatures crawled upon my path,</l>
+            <l>Had not my son — I know not how misled —</l>
+            <l>Deigned to ennoble with his great regard,</l>
+            <l>A sparkle midst the dust motes. She is sacred.</l>
+            <l>What is her tribe to me? Her kith and kin</l>
+            <l>May rot or roast — the Jews of Nordhausen</l>
+            <l>May hang, drown, perish like the Jews of France,</l>
+            <l>But she shall live — Liebhaid von Orb, the Jewess,</l>
+            <l>The Prince, my son, elects to love.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Amen!</l>
+            <l>Washed in baptismal waters she shall be</l>
+            <l>Led like the clean-fleeced yeanling to the fold.</l>
+            <l>Trust me, my daughter — for through me the Church</l>
+            <l>Which is the truth, which is the life, doth speak.</l>
+            <l>Yet first 't were best essay to cure the Prince</l>
+            <l>Of this moon-fostered madness, bred, no doubt,</l>
+            <l>By baneful potions which these cunning knaves</l>
+            <l>Are skilled to mix.</l>
+          </sp>
+          <sp who="#princess">
+            <speaker>PRINCESS.</speaker>
+            <l>Go visit him, dear father,</l>
+            <l>Where in the high tower mewed, a wing-clipped eagle,</l>
+            <l>His spirit breaks in cage. You are his master,</l>
+            <l>He is wont from childhood to hear wisdom fall</l>
+            <l>From your instructed lips. Tell him his mother</l>
+            <l>Rises not from her knees, till he is freed.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Madam, I go. Our holy Church has healed</l>
+            <l>Far deadlier heart-wounds than a love-sick boy's.</l>
+            <l>Be of good cheer, the Prince shall live to bless</l>
+            <l>The father's rigor who kept pure of blot</l>
+            <l>A 'scutcheon more unsullied than the sun.</l>
+          </sp>
+          <sp who="#princess">
+            <speaker>PRINCESS.</speaker>
+            <l>Thanks and farewell.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Farewell. God send thee peace!</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE III.</head>
+          <stage>A mean apartment in one of the Towers of the Landgrave's Palace. PRINCE WILLIAM discovered seated at the window.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>The slow sun sets; with lingering, large embrace</l>
+            <l>He folds the enchanted hill; then like a god</l>
+            <l>Strides into heaven behind the purple peak.</l>
+            <l>Oh beautiful! In the clear, rayless air,</l>
+            <l>I see the chequered vale mapped far below,</l>
+            <l>The sky-paved streams, the velvet pasture-slopes,</l>
+            <l>The grim, gray cloister whose deep vesper bell</l>
+            <l>Blends at this height with tinkling, homebound herds!</l>
+            <l>I see — but oh, how far! — the blessed town</l>
+            <l>Where Liebhaid dwells. Oh that I were yon star</l>
+            <l>That pricks the West's unbroken foil of gold,</l>
+            <l>Bright as an eye, only to gaze on her!</l>
+            <l>How keen it sparkles o'er the Venusburg!</l>
+            <l>When brown night falls and mists begin to live,</l>
+            <l>Then will the phantom hunting-train emerge,</l>
+            <l>Hounds straining, black fire-eyeballed, breathless steeds,</l>
+            <l>Spurred by wild huntsmen, and unhallowed nymphs,</l>
+            <l>And at their head the foam-begotten witch,</l>
+            <l>Of soul-destroying beauty. Saints of heaven!</l>
+            <l>Preserve mine eyes from such unholy sight!</l>
+            <l>How all unlike the base desire which leads</l>
+            <l>Misguided men to that infernal cave,</l>
+            <l>Is the pure passion that exalts my soul</l>
+            <l>Like a religion! Yet Christ pardon me</l>
+            <l>If this be sin to thee!</l>
+          </sp>
+          <stage>[He takes his lute, and begins to sing. Enter with a lamp Steward of the Castle, followed by PRIOR PEPPERCORN. Steward lays down the lamp and exit.
+            Good even, father!</stage>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Benedicite!</l>
+            <l>Our bird makes merry his dull bars with song,</l>
+            <l>Yet would not penitential psalms accord</l>
+            <l>More fitly with your sin than minstrels' lays?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>I know no blot upon my life's fair record.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>What is it to wanton with a Christ-cursed Jewess,</l>
+            <l>Defy thy father and pollute thy name,</l>
+            <l>And fling to the ordures thine immortal soul?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Forbear! thy cowl's a helmet, thy serge frock</l>
+            <l>Invulnerable as brass — yet I am human,</l>
+            <l>Thou, priest, art still a man.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Pity him, Heaven!</l>
+            <l>To what a pass their draughts have brought the mildest,</l>
+            <l>Noblest of princes! Softly, my son; be ruled</l>
+            <l>By me, thy spiritual friend and father.</l>
+            <l>Thou hast been drugged with sense-deranging potions,</l>
+            <l>Thy blood set boiling and thy brain askew;</l>
+            <l>When these thick fumes subside, thou shalt awake</l>
+            <l>To bless the friend who gave thy madness bounds.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Madness! Yea, as the sane world goes, I am mad.</l>
+            <l>What else to help the helpless, to uplift</l>
+            <l>The low, to adore the good, the beautiful,</l>
+            <l>To live, battle, suffer, die for truth, for love!</l>
+            <l>But that is wide of the question. Let me hear</l>
+            <l>What you are charged to impart — my father's will.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Heart-cleft by his dear offspring's shame, he prays</l>
+            <l>Your reason be restored, your wayward sense</l>
+            <l>Renew its due allegiance. For his son</l>
+            <l>He, the good parent, weeps — hot drops of gall,</l>
+            <l>Wrung from a spirit seldom eased by tears.</l>
+            <l>But for his honor pricked, the Landgrave takes</l>
+            <l>More just and general vengeance.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>In the name of God,</l>
+            <l>What has he done to her?</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Naught, naught, — as yet.</l>
+            <l>Sweet Prince, be calm; you leap like flax to flame.</l>
+            <l>You nest within your heart a cockatrice,</l>
+            <l>Pluck it from out your bosom and breathe pure</l>
+            <l>Of the filthy egg. The Landgrave brooks no more</l>
+            <l>The abomination that infects his town.</l>
+            <l>The Jews of Nordhausen are doomed.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Alack!</l>
+            <l>Who and how many of that harmless tribe,</l>
+            <l>Those meek and pious men, have been elected</l>
+            <l>To glut with innocent blood the oppressor's wrath?</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Who should go free where equal guilt is shared?</l>
+            <l>Frederick is just — they perish all at once,</l>
+            <l>Generous moreover — for in their mode of death</l>
+            <l>He grants them choice.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>My father had not lost</l>
+            <l>The human semblance when I saw him last.</l>
+            <l>Nor can he be divorced in this short space</l>
+            <l>From his shrewd wit. How shall he make provision</l>
+            <l>For the vast widowed, orphaned host this deed</l>
+            <l>Burdens the state withal?</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Oh excellent!</l>
+            <l>This is the crown of folly, topping all!</l>
+            <l>Forgive me, Prince, when I gain breath to point</l>
+            <l>Your comic blunder, you will laugh with me.</l>
+            <l>Patience — I'll draw my chin as long as yours.</l>
+            <l>Well, 't was my fault — one should be accurate —</l>
+            <l>Jews, said I? when I meant Jews, Jewesses,</l>
+            <l>And Jewlings! all betwixt the age</l>
+            <l>Of twenty-four hours, and of five score years.</l>
+            <l>Of either sex, of every known degree,</l>
+            <l>All the contaminating vermin purged</l>
+            <l>With one clean, searching blast of wholesome fire.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>O Christ, disgraced, insulted! Horrible man,</l>
+            <l>Remembered be your laugh in lowest hell,</l>
+            <l>Dragging you to the nether pit! Forgive me;</l>
+            <l>You are my friend — take me from here — unbolt</l>
+            <l>Those iron doors — I'll crawl upon my knees</l>
+            <l>Unto my father — I have much to tell him.</l>
+            <l>For but the freedom of one hour, sweet Prior,</l>
+            <l>I'll brim the vessels of the Church with gold.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Boy! your bribes touch not, nor your curses shake</l>
+            <l>The minister of Christ. Yet I will bear</l>
+            <l>Your message to the Landgrave.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Whet your tongue</l>
+            <l>Keen as the archangel's blade of truth—your voice</l>
+            <l>Be as God's thunder, and your heart one blaze —</l>
+            <l>Then can you speak my cause. With me, it needs</l>
+            <l>No plausive gift; the smitten head, stopped throat,</l>
+            <l>Blind eyes and silent suppliance of sorrow</l>
+            <l>Persuade beyond all eloquence. Great God!</l>
+            <l>Here while I rage and beat against my bars,</l>
+            <l>The infernal fagots may be stacked for her,</l>
+            <l>The hell-spark kindled. Go to him, dear Prior,</l>
+            <l>Speak to him gently, be not too much moved,</l>
+            <l>'Neath its rude case you had ever a soft heart,</l>
+            <l>And he is stirred by mildness more than passion.</l>
+            <l>Recall to him her round, clear, ardent eyes,</l>
+            <l>The shower of sunshine that's her hair, the sheen</l>
+            <l>Of the cream-white flesh — shall these things serve as fuel?</l>
+            <l>Tell him that when she heard once he was wounded,</l>
+            <l>And how he bled and anguished; at the tale</l>
+            <l>She wept for pity.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>If her love be true</l>
+            <l>She will adore her lover's God, embrace</l>
+            <l>The faith that marries you in life and death.</l>
+            <l>This promise with the Landgrave would prevail</l>
+            <l>More than all sobs and pleadings.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Save her, save her!</l>
+            <l>If any promise, vow, or oath can serve.</l>
+            <l>Oh trusting, tranquil Süsskind, who estopped</l>
+            <l>Your ears forewarned, bandaged your visioned eyes,</l>
+            <l>To woo destruction! Stay! did he not speak</l>
+            <l>Of amulet or talisman? These horrors</l>
+            <l>Have crowded out my wits. Yea, the gold casket!</l>
+            <l>What fixed serenity beamed from his brow,</l>
+            <l>Laying the precious box within my hands!</l>
+          </sp>
+          <stage>[He brings from the shelf the casket, and hands it to the Prior.
+            Deliver this unto the Prince my father,
+            Nor lose one vital moment. What it holds,
+            I guess not—but my light heart whispers me
+            The jewel safety's locked beneath its lid.</stage>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>First I must foil such devil's tricks as lurk</l>
+            <l>In its gem-crusted cabinet.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Away!</l>
+            <l>Deliverance posts on your return. I feel it.</l>
+            <l>For your much comfort thanks. Good-night.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Good-night.</l>
+          </sp>
+          <stage>[Exit.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ACT III.</head>
+        <div type="scene">
+          <head>SCENE I.</head>
+          <stage>A cell in the Wartburg Monastery. Enter PRIOR PEPPERCORN with the casket.</stage>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>So! Glittering shell where doubtless shines concealed</l>
+            <l>An orient treasure fit to bribe a king,</l>
+            <l>Ransom a prince and buy him for a son.</l>
+            <l>I have baptized thee now before the altar,</l>
+            <l>Effaced the Jew's contaminating touch,</l>
+            <l>And I am free to claim the Church's tithe</l>
+            <l>From thy receptacle.</l>
+          </sp>
+          <stage>[He is about to unlock the casket, when enters Lay-Brother, and he hastily conceals it.</stage>
+          <sp who="#lay_brother">
+            <speaker>LAY-BROTHER.</speaker>
+            <l>Peace be thine, father!</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Amen! and thine. What's new?</l>
+            <l>LAY-BROTHER.</l>
+            <l>A strange Flagellant</l>
+            <l>Fresh come to Wartburg craves a word with thee.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Bid him within.</l>
+          </sp>
+          <stage>[Exit Lay-Brother. PRIOR places the casket in a Cabinet.
+            Patience! No hour of the day
+            Brings freedom to the priest.
+            Reënter Lay-Brother ushering in NORDMANN, and exit.
+            Brother, all hail!
+            Blessed be thou who comest in God's name!</stage>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>May the Lord grant thee thine own prayer fourfold!</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>What is thine errand?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Look at me, my father.</l>
+            <l>Long since you called me friend.</l>
+          </sp>
+          <stage>[The PRIOR looks at him attentively, while an expression of wonder and terror gradually overspreads his face.</stage>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Almighty God!</l>
+            <l>The grave gives up her dead. Thou canst not be —</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Nordmann of Nordmannstein, the Knight of Treffurt.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>He was beheaded years agone.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>His death</l>
+            <l>Had been decreed, but in his stead a squire</l>
+            <l>Clad in his garb and masked, paid bloody forfeit.</l>
+            <l>A loyal wretch on whom the Prince wreaked vengeance,</l>
+            <l>Rather than publish the true bird had flown.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Does Frederick know thou art in Eisenach?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Who would divine the Knight of Nordmannstein</l>
+            <l>In the Flagellants' weeds? From land to land,</l>
+            <l>From town to town, we cry, "Death to the Jews!</l>
+            <l>Hep! hep! Hierosolyma est perdita!"</l>
+            <l>They die like rats; in Gotha they are burned;</l>
+            <l>Two of the devil brutes in Chatelard,</l>
+            <l>Child-murderers, wizards, breeders of the Plague,</l>
+            <l>Had the truth squeezed from them with screws and racks,</l>
+            <l>All with explicit date, place, circumstance,</l>
+            <l>And written as it fell from dying lips</l>
+            <l>By scriveners of the law. On their confession</l>
+            <l>The Jews of Savoy were destroyed. To-morrow noon</l>
+            <l>The holy flames shall dance in Nordhausen.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Your zeal bespeaks you fair. In your deep eyes</l>
+            <l>A mystic fervor shines; yet your scarred flesh</l>
+            <l>And shrunken limbs denote exhausted nature,</l>
+            <l>Collapsing under discipline.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Speak not</l>
+            <l>Of the degrading body and its pangs.</l>
+            <l>I am all zeal, all energy, all spirit.</l>
+            <l>Jesus was wroth at me, at all the world,</l>
+            <l>For our indulgence of the flesh, our base</l>
+            <l>Compounding with his enemies the Jews.</l>
+            <l>But at Madonna Mary's intercession,</l>
+            <l>He charged an angel with this gracious word,</l>
+            <l>"Whoso will scourge himself for forty days,</l>
+            <l>And labor towards the clean extermination</l>
+            <l>Of earth's corrupting vermin, shall be saved."</l>
+            <l>Oh, what vast peace this message brought my soul!</l>
+            <l>I have learned to love the ecstasy of pain.</l>
+            <l>When the sweat stands upon my flesh, the blood</l>
+            <l>Throbs in my bursting veins, my twisted muscles</l>
+            <l>Are cramped with agony, I seem to crawl</l>
+            <l>Anigh his feet who suffered on the Cross.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>O all transforming Time! Can this be he,</l>
+            <l>The iron warrior of a decade since,</l>
+            <l>The gallant youth of earlier years, whose pranks</l>
+            <l>And reckless buoyancy of temper flashed</l>
+            <l>Clear sunshine through my gloom?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>I am unchanged</l>
+            <l><stage>(Save that the spirit of grace has fallen on me).</stage></l>
+            <l>Urged by one motive through these banished years,</l>
+            <l>Fed by one hope, awake to realize</l>
+            <l>One living dream — my long delayed revenge.</l>
+            <l>You saw the day when Henry Schnetzen's castle</l>
+            <l>Was razed with fire?</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>I saw it.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Schnetzen's wife,</l>
+            <l>Three days a mother, perished.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>And his child?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>His child was saved.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>By whom?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>By the same Jew</l>
+            <l>Who had betrayed the Castle.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Süsskind von Orb?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Süsskind von Orb! and Schnetzen's daughter lives</l>
+            <l>As the Jew's child within the Judengasse.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR</speaker>
+            <l><stage>(eagerly).</stage></l>
+            <l>What proof hast thou of this?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Proof of these eyes!</l>
+            <l>I visited von Orb to ask a loan.</l>
+            <l>There saw I such a maiden as no Jew</l>
+            <l>Was ever blessed withal since Jesus died.</l>
+            <l>White as a dove, with hair like golden floss,</l>
+            <l>Eyes like an Alpine lake. The haughty line</l>
+            <l>Of brow imperial, high bridged nose, fine chin,</l>
+            <l>Seemed like the shadow cast upon the wall,</l>
+            <l>Where Lady Schnetzen stood.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Why hast thou ne'er</l>
+            <l>Discovered her to Schnetzen?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>He was my friend.</l>
+            <l>I shared with him thirst, hunger, sword, and fire.</l>
+            <l>But he became a courtier. When the Margrave</l>
+            <l>Sent me his second challenge to the field,</l>
+            <l>His messenger was Schnetzen! 'Mongst his knights,</l>
+            <l>The apple of his eye was Henry Schnetzen.</l>
+            <l>He was the hound that hunted me to death.</l>
+            <l>He stood by Frederick's side when I was led,</l>
+            <l>Bound, to the presence. I denounced him coward,</l>
+            <l>He smote me on the cheek. Christ! it stings yet.</l>
+            <l>He hissed — "My liege, let Henry Nordmann hang!</l>
+            <l>He is no knight, for he receives a blow,</l>
+            <l>Nor dare avenge it!" My gyved wrists moved not,</l>
+            <l>No nerve twitched in my face, although I felt</l>
+            <l>Flame leap there from my heart, then flying back,</l>
+            <l>Leave it cold-bathed with deathly ooze — my soul</l>
+            <l>In silence took her supreme vow of hate.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Praise be to God that thou hast come to-day.</l>
+            <l>To-morrow were too late. Hast thou not heard</l>
+            <l>Frederick sends Schnetzen unto Nordhausen,</l>
+            <l>With fire and torture for the Jews?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>So! Henry Schnetzen</l>
+            <l>Shall be the Jews' destroyer? Ah!</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>One moment.</l>
+            <l>Mayhap this box which Süsskind sends the Prince</l>
+            <l>Reveals more wonders.</l>
+          
+          <stage>[He brings forth the Casket from the Cabinet, opens it, and discovers a golden cross and a parchment which he hastily overlooks.</stage>
+            <l>Hark! your word's confirmed</l>
+            <l>Blessed be Christ, our Lord!</l>
+            <stage>(reads).</stage>
+            <p>"I Süsskind von Orb of Nordhausen, swear by the unutterable Name, that on the day when the Castle of Salza was burned, I rescued the infant daughter of Henry Schnetzen from the
+            flames. I purposed restoring her to her father, but when I returned to Nordhausen, I found my own child lying on her bier, and my wife in fevered frenzy calling for her babe. I sought the leech, who counselled me to show the Christian child to the bereaved mother as her own. The pious trick prevailed; the fever broke, the mother was restored. But never would she part with the child, even when she had learned to whom it belonged, and until she was gathered with the dead — may peace be with her soul! — she fostered in our Jewish home the offspring of the Gentile knight. Then again would I have yielded the girl to her parent, but Schnetzen was my foe, and I feared the haughty baron would disown the daughter who came from the hands of the Jew. Now however the maiden's temporal happiness demands that she be acknowledged by her rightful father. Let him see what I have written. As a token, behold this golden cross, bound by the Lady Schnetzen round the infant's neck. May the God of Abraham, Isaac, and Jacob redeem and bless me as I have writ the truth."</p>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>I thank the Saints that this has come betimes.</l>
+            <l>Thou shalt renounce thy hate. Vengeance is mine,</l>
+            <l>The Lord hath said.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>O all-transforming Time!</l>
+            <l>Is this meek, saintly-hypocrite, the firm,</l>
+            <l>Ambitious, resolute Reinhard Peppercorn,</l>
+            <l>Terror of Jews and beacon of the Church?</l>
+            <l>Look, you, I have won the special grace of Christ,</l>
+            <l>He knows through what fierce anguish ! Now he leans</l>
+            <l>Out of his heaven to whisper in mine ear,</l>
+            <l>And reach me my revenge. He makes my cause</l>
+            <l>His own — and I shall fail upon these heights,</l>
+            <l>Sink from the level of a hate sublime,</l>
+            <l>To puerile pity!</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Be advised. You hold</l>
+            <l>Your enemy's living heart within your hands.</l>
+            <l>This secret is far costlier than you dreamed,</l>
+            <l>For Frederick's son wooes Schnetzen's daughter. See,</l>
+            <l>A hundred delicate springs your wit may move,</l>
+            <l>Your puppets are the Landgrave and the Prince,</l>
+            <l>The Governor of Salza and the Jews.</l>
+            <l>You may recover station, wealth, and honor,</l>
+            <l>Selling your secret shrewdly; while rash greed</l>
+            <l>Of clumsy vengeance may but drag you down</l>
+            <l>In the wild whirl of universal ruin.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Christ teach me whom to trust! I would not spill</l>
+            <l>One drop from out this brimming glorious cup</l>
+            <l>For which my parched heart pants. I will consider.</l>
+          </sp>
+          <sp who="#prior">
+            <speaker>PRIOR.</speaker>
+            <l>Pardon me now, if I break off our talk.</l>
+            <l>Let all rest as it stands until the dawn.</l>
+            <l>I have many orisons before the light.</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Good-night, true friend. Devote a prayer to me.</l>
+            <l><stage>(Aside.)</stage></l>
+            <l>I will outwit you, serpent, though you glide</l>
+            <l>Athwart the dark, noiseless and swift as fate.</l>
+          </sp>
+          <stage>[ Exit.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE II.</head>
+          <stage>On the road to Nordhausen. Moonlit, rocky landscape. On the right between high, white cliffs a narrow stream spanned by a wooden bridge. Thick bushes and trees.</stage>
+          <stage>Enter PRINCE WILLIAM and PAGE.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Is this the place where we shall find fresh steeds?</l>
+            <l>Would I had not dismounted!</l>
+          </sp>
+          <sp who="#page">
+            <speaker>PAGE.</speaker>
+            <l>Nay, sir; beyond</l>
+            <l>The Werra bridge the horses wait for us.</l>
+            <l>These rotten planks would never bear their weight.</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>When I am Landgrave these things shall be cared for.</l>
+            <l>This is an ugly spot for travellers</l>
+            <l>To loiter in. How swift the water runs,</l>
+            <l>Brawling above our voices. Human cries</l>
+            <l>Would never reach Liborius' convent yonder,</l>
+            <l>Perched on the sheer, chalk cliff. I think of peril,</l>
+            <l>From my excess of joy. My spirit chafes,</l>
+            <l>She that would breast broad-winged the air, must halt</l>
+            <l>On stumbling mortal limbs. Look, thither, boy,</l>
+            <l>How the black shadows of the tree-boles stripe</l>
+            <l>The moon-blanched bridge and meadow.</l>
+          </sp>
+          <sp who="#page">
+            <speaker>PAGE.</speaker>
+            <l>Sir, what's that?</l>
+            <l>Yon stir and glitter in the bush?</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>The moon,</l>
+            <l>Pricking the dewdrops, plays fantastic tricks</l>
+            <l>With objects most familiar. Look again,</l>
+            <l>And where thou sawst the steel-blue flicker glint,</l>
+            <l>Thou findst a black, wet leaf.</l>
+          </sp>
+          <sp who="#page">
+            <speaker>PAGE.</speaker>
+            <l>No, no! O God!</l>
+            <l>Your sword, sir! Treason!</l>
+          </sp>
+          <stage>[Four armed masked men leap from out the bush, seize, bind, and overmaster, after a brief but violent resistance, the Prince and his servant.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Who are ye, villains? lying</l>
+            <l>In murderous ambush for the Prince of Meissen?</l>
+            <l>If you be knights, speak honorably your names,</l>
+            <l>And I will combat you in knightly wise.</l>
+            <l>If ye be robbers, name forthwith your ransom.</l>
+            <l>Let me but speed upon my journey now.</l>
+            <l>By Christ's blood! I beseech you, let me go!</l>
+            <l>Ho! treason! murder! help!</l>
+          </sp>
+          <stage>[He is dragged off struggling. Exeunt omnes.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE III.</head>
+          <stage>Nordhausen. A room in SÜSSKIND's house. LEIBHAID and CLAIRE.</stage>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Say on, poor girl, if but to speak these horrors</l>
+            <l>Revive not too intense a pang.</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Not so.</l>
+            <l>For all my woes seem here to merge their flood</l>
+            <l>Into a sea of infinite repose.</l>
+            <l>Through France our journey led, as I have told,</l>
+            <l>From desolation unto desolation.</l>
+            <l>Naught stayed my father's course — sword, storm, flame, plague,</l>
+            <l>Exhaustion of the eighty year old frame,</l>
+            <l>O'ertaxed beyond endurance. Once, once only,</l>
+            <l>His divine force succumbed. 'T was at day's close,</l>
+            <l>And all the air was one discouragement</l>
+            <l>Of April snow-flakes. I was drenched, cold, sick,</l>
+            <l>With weariness and hunger light of head,</l>
+            <l>And on the open road, suddenly turned</l>
+            <l>The whole world like the spinning flakes of snow.</l>
+            <l>My numb hand slipped from his, and all was blank.</l>
+            <l>His beard, his breath upon my brow, his tears</l>
+            <l>Scalding my cheek hugged close against his breast,</l>
+            <l>And in my ear deep groans awoke me. "God!"</l>
+            <l>I heard him cry, "try me not past my strength.</l>
+            <l>No prophet I, a blind, old dying man!"</l>
+            <l>Gently I drew his face to mine, and kissed,</l>
+            <l>Whispering courage —then his spirit broke</l>
+            <l>Utterly; shattered were his wits, I feared.</l>
+            <l>But past is past; he is at peace, and I</l>
+            <l>Find shelter from the tempest. Tell me rather</l>
+            <l>Of your serene life.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Happiness is mute.</l>
+            <l>What record speaks of placid, golden days,</l>
+            <l>Matched each with each as twins? Till yester eve</l>
+            <l>My life was simple as a song. At whiles</l>
+            <l>Dark tales have reached us of our people's wrongs,</l>
+            <l>Strange, far-off anguish, furrowing with fresh care</l>
+            <l>My father's brow, draping our home with gloom.</l>
+            <l>We were still blessed; the Landgrave is his friend —</l>
+            <l>The Prince — my Prince — dear Claire, ask me no more!</l>
+            <l>My adored enemy, my angel-fiend,</l>
+            <l>Splitting my heart against my heart! O God,</l>
+            <l>How shall I pray for strength to love him less</l>
+            <l>Than mine own soul ?</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>What mean these contrary words?</l>
+            <l>These passionate tears?</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Brave girl, who art inured</l>
+            <l>To difficult privation and rude pain,</l>
+            <l>What good shall come forswearing kith and God,</l>
+            <l>To follow the allurements of the heart?</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Duty wears one face, but a thousand masks.</l>
+            <l>Thy feet she leads to glittering peaks, while mine</l>
+            <l>She guides midst brambled roadways. Not the first</l>
+            <l>Art thou of Israel's women, chosen of God,</l>
+            <l>To rule o'er rulers. I remember me</l>
+            <l>A verse my father often would repeat</l>
+            <l>Out of our sacred Talmud: "Every time</l>
+            <l>The sun, moon, stars begin again their course,</l>
+            <l>They hesitate, trembling and filled with shame,</l>
+            <l>Blush at the blasphemous worship offered them,</l>
+            <l>And each time God's voice thunders, crying out,</l>
+            <l>On with your duty!"</l>
+          </sp>
+          <stage>Enter REUBEN.</stage>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>Sister, we are lost!</l>
+            <l>The streets are thronged with panic-stricken folk.</l>
+            <l>Wild rumors fill the air. Two of our tribe,</l>
+            <l>Young Mordecai, as I hear, and old Baruch,</l>
+            <l>Seized by the mob, were dragged towards Eisenach,</l>
+            <l>Cruelly used, left to bleed out their lives,</l>
+            <l>In the wayside ditch at night. This morn, betimes,</l>
+            <l>The iron-hearted Governor of Salza</l>
+            <l>Rides furious into Nordhausen; his horse,</l>
+            <l>Spurred past endurance, drops before the gate.</l>
+            <l>The Council has been called to hear him read</l>
+            <l>The Landgrave's message, — all men say, 'tis death</l>
+            <l>Unto our race.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Where is our father, Reuben?</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>With Rabbi Jacob. Through the streets they walk,</l>
+            <l>Striving to quell the terror. Ah, too late!</l>
+            <l>Had he but heeded the prophetic voice,</l>
+            <l>This warning angel led to us in vain!</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Brother, be calm. Man your young heart to front</l>
+            <l>Whatever ills the Lord afflicts us with.</l>
+            <l>What does Prince William? Hastes he not to aid?</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>None know his whereabouts. Some say he's held</l>
+            <l>Imprisoned by the Landgrave. Others tell</l>
+            <l>While he was posting with deliverance</l>
+            <l>To Nordhausen, in bloody Schnetzen's wake,</l>
+            <l>He was set upon by ruffians — kidnapped — killed.</l>
+            <l>What do I know — hid till our ruin's wrought.</l>
+          </sp>
+          <stage>[LIEBHAID swoons.</stage>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Hush, foolish boy. See how your rude words hurt.</l>
+            <l>Look up, sweet girl; take comfort.</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>Pluck up heart:</l>
+            <l>Dear sister, pardon me; he lives, he lives!</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>God help me! Shall my heart crack for love's loss</l>
+            <l>That meekly bears my people's martyrdom?</l>
+            <l>He lives — I feel it — to live or die with me.</l>
+            <l>I love him as my soul — no more of that.</l>
+            <l>I am all Israel's now — till this cloud pass,</l>
+            <l>I have no thought, no passion, no desire,</l>
+            <l>Save for my people.</l>
+          </sp>
+          <stage>Enter SÜSSKIND.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Blessed art thou, my child!</l>
+            <l>This is the darkest hour before the dawn.</l>
+            <l>Thou art the morning-star of Israel.</l>
+            <l>How dear thou art to me — heart of my heart,</l>
+            <l>Mine, mine, all mine to-day! the pious thought,</l>
+            <l>The orient spirit mine, the Jewish soul.</l>
+            <l>The glowing veins that sucked life-nourishment</l>
+            <l>From Hebrew mother's milk. Look at me, Liebhaid,</l>
+            <l>Tell me you love me. Pity me, my God!</l>
+            <l>No fiercer pang than this did Jephthah know.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Father, what wild and wandering words are these?</l>
+            <l>Is all hope lost?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Nay, God is good to us.</l>
+            <l>I am so well assured the town is safe,</l>
+            <l>That I can weep my private loss — of thee.</l>
+            <l>An ugly dream I had, quits not my sense,</l>
+            <l>That you, made Princess of Thuringia,</l>
+            <l>Forsook your father, and forswore your race.</l>
+            <l>Forgive me, Liebhaid, I am calm again,</l>
+            <l>We must be brave — I who besought my tribe</l>
+            <l>To bide their fate in Nordhausen, and you</l>
+            <l>Whom God elects for a peculiar lot.</l>
+            <l>With many have I talked; some crouched at home,</l>
+            <l>Some wringing hands about the public ways.</l>
+            <l>I gave all comfort. I am very weary.</l>
+            <l>My children, we had best go in and pray,</l>
+            <l>Solace and safety dwell but in the Lord.</l>
+          </sp>
+          <stage>[ Exeunt.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ACT IV.</head>
+        <div type="scene">
+          <head>SCENE I.</head>
+          <stage>The City Hall at Nordhausen. Deputies and Burghers assembling. To the right, at a table near the President's chair, is seated the Public Scrivener. Enter DIETRICH VON TETTENBORN, and HENRY SCHNETZEN with an open letter in his hand.</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Didst hear the fellow's words who handed it?</l>
+            <l>I asked from whom it came, he spoke by rote,</l>
+            <l>"The pepper bites, the corn is ripe for harvest,</l>
+            <l>I come from Eisenach." 'T is some tedious jest.</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Doubtless your shrewd friend Prior Peppercorn</l>
+            <l>Masks here some warning. Ask the scrivener</l>
+            <l>To help us to its contents.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN</speaker>
+            <l><stage>(to the clerk).</stage></l>
+            <l>Read me these.</l>
+          </sp>
+          <sp who="#scrivener">
+            <speaker>SCRIVENER</speaker>
+            <l><stage>(reads).</stage></l>
+            <l>"Beware, Lord Henry Schnetzen, of Süsskind's lying tongue! He will thrust a cuckoo's egg into your nest.</l>
+            <stage>[Signed]% ONE WHO KNOWS."</stage>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>A cuckoo's egg! that riddle puzzles me;</l>
+            <l>But this I know. Schnetzen is no man's dupe,</l>
+            <l>Much less a Jew's.</l>
+          </sp>
+          <stage>[SCHNETZEN and VON TETTENBORN take their seats side by side.</stage>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Knights, counsellors and burghers!</l>
+            <l>Sir Henry Schnetzen, Governor of Salza,</l>
+            <l>Comes on grave mission from His Highness Frederick,</l>
+            <l>Margrave of Meissen, Landgrave of Thuringia,</l>
+            <l>Our town's imperial Patron and Protector.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Gentles, I greet you in the Landgrave's name,</l>
+            <l>The honored bearer of his princely script,</l>
+            <l>Sealed with his signet. Read, good Master Clerk.</l>
+          </sp>
+          <stage>[He hands a parchment to the Scrivener, who reads aloud:</stage>
+          <sp who="#scrivener">
+            <p>Lord President and Deputies of the town of Nordhausen! Know that we, Frederick Margrave of Meissen, and Landgrave of Thuringia, command to be burned all the Jews within our territories as far as our lands extend, on account of the great crime they have committed against Christendom in throwing poison into the wells, of
+            the truth of which indictment we have absolute knowledge. Therefore we admonish you to have the Jews killed in honor of God, so that Christendom be not enfeebled by them. Whatever responsibility you incur, we will assume with our Lord the Emperor, and with all other lords. Know also that we send to you Henry Schnetzen, our Governor of Salza, who shall publicly accuse your Jews of the above-mentioned crime. Therefore we beseech you to help him to do justice upon them, and we will singularly reward your good will.
+            Given at Eisenach, the Thursday after St. Walpurgis, under our secret seal.</p>
+          </sp>
+          <sp who="#counsellor">            
+            <speaker>A COUNSELLOR ( DIETHER VON WERTHER).</speaker>
+            <l>Fit silence welcomes this unheard-of wrong!</l>
+            <l>So! Ye are men — free, upright, honest men,</l>
+            <l>Not hired assassins? I half doubted it,</l>
+            <l>Seeing you lend these infamous words your ears.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Consider, gentlemen of Nordhausen,</l>
+            <l>Ere ye give heed to the rash partisan.</l>
+            <l>Ye cross the Landgrave — well? he crosses you.</l>
+            <l>It may be I shall ride to Nordhausen,</l>
+            <l>Not with a harmless script, but with a sword,</l>
+            <l>And so denounce the town for perjured vow.</l>
+            <l>What was the Strasburg citizens' reward</l>
+            <l>Who championed these lost wretches, in the face</l>
+            <l>Of King and Kaiser— three against the world,</l>
+            <l>Conrad von Winterthur the Burgomaster,</l>
+            <l>Deputy Gosse Sturm, and Peter Schwarber,</l>
+            <l>Master Mechanic? These leagued fools essayed</l>
+            <l>To stand between the people's sacred wrath,</l>
+            <l>And its doomed object. Well, the Jews, no less,</l>
+            <l>Were rooted from the city neck and crop,</l>
+            <l>And their three friends degraded from their rank</l>
+            <l>I' the city council, glad to save their skins.</l>
+            <l>The Jews are foes to God. Our Holy Father</l>
+            <l>Thunders his ban from Rome against all such</l>
+            <l>As aid the poisoners. Your oath to God,</l>
+            <l>And to the Prince enjoins— Death to the Jews.</l>
+            <l>A BURGHER <stage>(REINHARD ROLAPP).</stage></l>
+            <l>Why all this vain debate ? The Landgrave's brief</l>
+            <l>Affirms the Jews fling poison in the wells.</l>
+            <l>Shall we stand by and leave them unmolested,</l>
+            <l>Till they have made our town a wilderness?</l>
+            <l>I say, Death to the Jews!</l>
+          </sp>
+          <sp who="#burgher_hugo_shultz">
+            <speaker>A BURGHER (HUGO SCHULTZ).</speaker>
+            <l>My lord and brethren,</l>
+            <l>I have scant gift of speech, ye are all my elders.</l>
+            <l>Yet hear me for truth's sake, and liberty's.</l>
+            <l>The Landgrave of Thuringia is our patron,</l>
+            <l>True — and our town's imperial Governor,</l>
+            <l>But are we not free burghers? Shall we not</l>
+            <l>Debate and act in freedom? If Lord Schnetzen</l>
+            <l>Will force our council with the sword — enough!</l>
+            <l>We are not frightened schoolboys crouched beneath</l>
+            <l>The master's rod, but men who bear the sword</l>
+            <l>As brave as he. By this grim messenger,</l>
+            <l>Send back this devilish missive. Say to Frederick</l>
+            <l>Nordhausen never was enfeoffed to him.</l>
+            <l>Prithee, Lord President, bid Henry Schnetzen</l>
+            <l>Withdraw awhile, that we may all take counsel,</l>
+            <l>According to the hour's necessity,</l>
+            <l>As free men, whom nor fear nor favor swerves.</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Bold youth, you err. True, Nordhausen is free,</l>
+            <l>And God be witness, we for fear or favor,</l>
+            <l>Would never shed the blood of innocence.</l>
+            <l>But here the Prince condemns the Jews to death</l>
+            <l>For capital crime. Who sees a snake must kill,</l>
+            <l>Ere it spit fatal venom. I, too, say</l>
+            <l>Death to the Jews!</l>
+          </sp>
+          <sp who="#schnetzen #scrivener #burgher_hugo_shultz #counsellor">
+            <speaker>ALL.</speaker>
+            <l>Death to the Jews! God wills it!</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Give me your voices in the urn.</l>
+            <l><stage>(The votes are taken.)</stage></l>
+            <l>One voice</l>
+            <l>For mercy, all the rest for death.</l>
+            <stage>(To an Usher.)</stage>
+            <l>Go thou</l>
+            <l>To the Jews' quarter; bid Süsskind von Orb,</l>
+            <l>And Rabbi Jacob hither to the Senate,</l>
+            <l>To hear the Landgrave's and the town's decree.</l>
+          </sp>
+          <stage>[Exit Usher.
+            (To Schnetzen.)
+            What learn you of this evil through the State?</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>It swells to monstrous bulk. In many towns,</l>
+            <l>Folk build high ramparts round the wells and springs.</l>
+            <l>In some they shun the treacherous sparkling brooks,</l>
+            <l>To drink dull rain-water, or melted snow,</l>
+            <l>In mountain districts. Frederick has been patient,</l>
+            <l>And too long clement, duped by fleece-cloaked wolves.</l>
+            <l>But now his subjects' clamor rouses him</l>
+            <l>To front the general peril. As I hear,</l>
+            <l>A fiendish and far-reaching plot involves</l>
+            <l>All Christian thrones and peoples. These vile vermin,</l>
+            <l>Burrowing underneath society,</l>
+            <l>Have leagued with Moors in Spain, with heretics</l>
+            <l>Too plentiful — Christ knows! in every land,</l>
+            <l>And planned a subterraneous, sinuous scheme,</l>
+            <l>To overthrow all Christendom. But see,</l>
+            <l>Where with audacious brows, and steadfast mien,</l>
+            <l>They enter, bold as innocence. Now listen,</l>
+            <l>For we shall hear brave falsehoods.</l>
+          </sp>
+          <stage>Enter SÜSSKIND VON ORB and RABBI JACOB.</stage>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Rabbi Jacob,</l>
+            <l>And thou, Süsskind von Orb, bow down, and learn</l>
+            <l>The Council's pleasure. You the least despised</l>
+            <l>By true believers, and most reverenced</l>
+            <l>By your own tribe, we grace with our free leave</l>
+            <l>To enter, yea, to lift your voices here,</l>
+            <l>Amid these wise and honorable men,</l>
+            <l>If ye find aught to plead, that mitigates</l>
+            <l>The just severity of your doom. Our prince,</l>
+            <l>Frederick the Grave, Patron of Nordhausen,</l>
+            <l>Ordains that all the Jews within his lands,</l>
+            <l>For the foul crime of poisoning the wells,</l>
+            <l>Bringing the Black Death upon Christendom,</l>
+            <l>Shall be consumed with flame.</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB</speaker>
+            <l><stage>(springing forward and clasping his hands).</stage></l>
+            <l>I' the name of God,</l>
+            <l>Your God and ours, have mercy!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Noble lords,</l>
+            <l>Burghers, and artisans of Nordhausen,</l>
+            <l>Wise, honorable, just, God-fearing men,</l>
+            <l>Shall ye condemn or ever ye have heard?</l>
+            <l>Sure, one at least owns here the close, kind name</l>
+            <l>Of Brother — unto him I turn. At least</l>
+            <l>Some sit among you who have wedded wives,</l>
+            <l>Bear the dear title and the precious charge</l>
+            <l>Of Husband — unto these I speak. Some here,</l>
+            <l>Are crowned, it may be, with the sacred name</l>
+            <l>Of Father — unto these I pray. All, all</l>
+            <l>Are sons — all have been children, all have known</l>
+            <l>The love of parents — unto these I cry:</l>
+            <l>Have mercy on us, we are innocent,</l>
+            <l>Who are brothers, husbands, fathers, sons as ye!</l>
+            <l>Look you, we have dwelt among you many years,</l>
+            <l>Led thrifty, peaceable, well-ordered lives.</l>
+            <l>Who can attest, who prove we ever wrought</l>
+            <l>Or ever did devise the smallest harm,</l>
+            <l>Far less this fiendish crime against the State?</l>
+            <l>Rather let those arise who owe the Jews</l>
+            <l>Some debt of unpaid kindness, profuse alms,</l>
+            <l>The Hebrew leech's serviceable skill,</l>
+            <l>Who know our patience under injury,</l>
+            <l>And ye would see, if all stood bravely forth,</l>
+            <l>A motley host, led by the Landgrave's self,</l>
+            <l>Recruited from all ranks, and in the rear,</l>
+            <l>The humblest, veriest wretch in Nordhausen.</l>
+            <l>We know the Black Death is a scourge of God.</l>
+            <l>Is not our flesh as capable of pain,</l>
+            <l>Our blood as quick envenomed as your own?</l>
+            <l>Has the Destroying Angel passed the posts</l>
+            <l>Of Jewish doors — to visit Christian homes?</l>
+            <l>We all are slaves of one tremendous Hour.</l>
+            <l>We drink the waters which our enemies say</l>
+            <l>We spoil with poison, — we must breathe, as ye,</l>
+            <l>The universal air, — we droop, faint, sicken,</l>
+            <l>From the same causes to the selfsame end.</l>
+            <l>Ye are not strangers to me, though ye wear</l>
+            <l>Grim masks to-day — lords, knights and citizens,</l>
+            <l>Few do I see whose hand has pressed not mine,</l>
+            <l>In cordial greeting. Dietrich von Tettenborn,</l>
+            <l>If at my death my wealth be confiscate</l>
+            <l>Unto the State, bethink you, lest she prove</l>
+            <l>A harsher creditor than I have been.</l>
+            <l>Stout Meister Rolapp, may you never again</l>
+            <l>Languish so nigh to death that Simon's art</l>
+            <l>Be needed to restore your lusty limbs.</l>
+            <l>Good Hugo Schultz — ah! be those blessed tears</l>
+            <l>Remembered unto you in Paradise!</l>
+            <l>Look there, my lords, one of your council weeps,</l>
+            <l>If you be men, why, then an angel sits</l>
+            <l>On yonder bench. You have good cause to weep,</l>
+            <l>You who are Christian, and disgraced in that</l>
+            <l>Whereof you made your boast. I have no tears.</l>
+            <l>A fiery wrath has scorched their source, a voice</l>
+            <l>Shrills through my brain— "Not upon us, on them</l>
+            <l>Fall everlasting woe, if this thing be!"</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>My lords of Nordhausen, shall ye be stunned</l>
+            <l>With sounding words? Behold the serpent's skin,</l>
+            <l>Sleek-shining, clear as sunlight; yet his tooth</l>
+            <l>Holds deadly poison. Even as the Jews</l>
+            <l>Did nail the Lord of heaven on the Cross,</l>
+            <l>So will they murder all his followers,</l>
+            <l>When once they have the might. Beware, beware!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>So you are the accuser, my lord Schnetzen?</l>
+            <l>Now I confess, before you I am guilty.</l>
+            <l>You are in all this presence, the one man</l>
+            <l>Whom any Jew hath wronged — and I that Jew.</l>
+            <l>Oh, my offence is grievous; punish me</l>
+            <l>With the utmost rigor of the law, for theft</l>
+            <l>And violence, whom ye deemed an honest man,</l>
+            <l>But leave my tribe unharmed! I yield my hands</l>
+            <l>Unto your chains, my body to your fires;</l>
+            <l>Let one life serve for all.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>You hear, my lords,</l>
+            <l>How the prevaricating villain shrinks</l>
+            <l>From the absolute truth, yet dares not front his Maker</l>
+            <l>With the full damnable lie hot on his lips.</l>
+            <l>Not thou alone, my private foe, shalt die,</l>
+            <l>But all thy race. Thee had my vengeance reached,</l>
+            <l>Without appeal to Prince or citizen.</l>
+            <l>Silence! my heart is cuirassed as my breast.</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Bear with us, gracious lords! My friend is stunned.</l>
+            <l>He is an honest man. Even I, as 't were,</l>
+            <l>Am stupefied by this surprising news.</l>
+            <l>Yet, let me think— it seems it is not new,</l>
+            <l>This is an ancient, well-remembered pain.</l>
+            <l>What, brother, came not one who prophesied</l>
+            <l>This should betide exactly as it doth?</l>
+            <l>That was a shrewd old man! Your pardon, lords,</l>
+            <l>I think you know not just what you would do.</l>
+            <l>You say the Jews shall burn — shall burn you say;</l>
+            <l>Why, good my lords, the Jews are not a flock</l>
+            <l>Of gallows-birds, they are a colony</l>
+            <l>Of kindly, virtuous folk. Come home with me;</l>
+            <l>I'll show you happy hearths, glad roofs, pure lives.</l>
+            <l>Why, some of them are little quick-eyed boys,</l>
+            <l>Some, pretty, ungrown maidens — children's children</l>
+            <l>Of those who called me to the pastorate.</l>
+            <l>And some are beautiful tall girls, some, youths</l>
+            <l>Of marvellous promise, some are old and sick,</l>
+            <l>Amongst them there be mothers, infants, brides,</l>
+            <l>Just like your Christian people, for all the world.</l>
+            <l>Know ye what burning is? Hath one of you</l>
+            <l>Scorched ever his soft flesh, or singed his beard,</l>
+            <l>His hair, his eyebrows — felt the keen, fierce nip</l>
+            <l>Of the pungent flame — and raises not his voice</l>
+            <l>To stop this holocaust? God! 't is too horrible!</l>
+            <l>Wake me, my friends, from this terrific dream.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Courage, my brother. On our firmness hangs</l>
+            <l>The dignity of Israel. Sir Governor,</l>
+            <l>I have a secret word to speak wfth you.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Ye shall enjoy with me the jest. These knaves</l>
+            <l>Are apt to quick invention as in crime.</l>
+            <l>Speak out — I have no secrets from my peers.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>My lord, what answer would you give your Christ</l>
+            <l>If peradventure, in this general doom</l>
+            <l>You sacrifice a Christian? Some strayed dove</l>
+            <l>Lost from your cote, among our vultures caged?</l>
+            <l>Beware, for midst our virgins there is one</l>
+            <l>Owes kinship nor allegiance to our tribe.</l>
+            <l>For her dear sake be pitiful, my lords,</l>
+            <l>Have mercy on our women! Spare at least</l>
+            <l>My daughter Liebhaid, she is none of mine!</l>
+            <l>She is a Christian!</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN</speaker>
+            <l>Just as I foretold!</l>
+            <l>The wretches will forswear the sacred'st ties,</l>
+            <l>Cringing for life. Serpents, ye all shall die.</l>
+            <l>So wills the Landgrave; so the court affirms.</l>
+            <l>Your daughter shall be first, whose wanton arts</l>
+            <l>Have brought destruction on a princely house.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>My lord, be moved. You kill your flesh and blood.</l>
+            <l>By Adonai I swear, your dying wife</l>
+            <l>Entrusted to these arms her child. 'T was I</l>
+            <l>Carried your infant from your burning home.</l>
+            <l>Lord Schnetzen, will you murder your own child?</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Ha, excellent! I was awaiting this.</l>
+            <l>Thou wilt inoculate our knightly veins</l>
+            <l>With thy corrupted Jewish blood. Thou 'lt foist</l>
+            <l>This adder on my bosom. Henry Schnetzen</l>
+            <l>Is no weak dupe, whom every lie may start.</l>
+            <l>Make ready, Jew, for death — and warn thy tribe.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND</speaker>
+            <l><stage>(kneeling).</stage></l>
+            <l>Is there a God in heaven? I who ne'er knelt</l>
+            <l>Until this hour to any man on earth,</l>
+            <l>Tyrant, before thee I abase myself.</l>
+            <l>If one red drop of human blood still flow</l>
+            <l>In thy congealed veins, if thou e'er have known</l>
+            <l>Touch of affection, the blind natural instinct</l>
+            <l>Of common kindred, even beasts partake,</l>
+            <l>Thou man of frozen stone, thou hollow statue,</l>
+            <l>Grant me one prayer, that thou wilt look on her.</l>
+            <l>Then shall the eyes of thy dead wife gaze back</l>
+            <l>From out the maiden's orbs, then shall a voice</l>
+            <l>Within thine entrails, cry — This is my child.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Enough! I pray you, my lord President,</l>
+            <l>End this unseemly scene. This wretched Jew</l>
+            <l>Would thrust a cuckoo's egg within my nest.</l>
+            <l>I have had timely warning. Send the twain</l>
+            <l>Back to their people, that the court's decree</l>
+            <l>Be published unto all.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Lord Tettenborn!</l>
+            <l>Citizens! will you see this nameless crime</l>
+            <l>Brand the clean earth, blacken the crystal heaven?</l>
+            <l>Why, no man stirs! God! with what thick strange fumes</l>
+            <l>Hast thou, o' the sudden, brutalized their sense?</l>
+            <l>Or am I mad? Is this already hell?</l>
+            <l>Worshipful fiends, I have good store of gold,</l>
+            <l>Packed in my coffers, or loaned out to — Christians;</l>
+            <l>I give it you as free as night bestows</l>
+            <l>Her copious dews — my life shall seal the bond,</l>
+            <l>Have mercy on my race!</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>No more, no more!</l>
+            <l>Go, bid your tribe make ready for their death</l>
+            <l>At sunset.</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Oh!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>At set of sun to-day?</l>
+            <l>Why, if you travelled to the nighest town,</l>
+            <l>Summoned to stand before a mortal Prince</l>
+            <l>You would need longer grace to put in order</l>
+            <l>Household effects, to bid farewell to friends,</l>
+            <l>And make yourself right worthy. But our way</l>
+            <l>Is long, our journey difficult, our judge</l>
+            <l>Of awful majesty. Must we set forth,</l>
+            <l>Haste-flushed and unprepared? One brief day more,</l>
+            <l>And all my wealth is yours!</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>We have heard enough.</l>
+            <l>Begone, and bear our message.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Courage, brother,</l>
+            <l>Our fate is sealed. These tigers are athirst.</l>
+            <l>Return we to our people to proclaim</l>
+            <l>The gracious sentence of the noble court.</l>
+            <l>Let us go thank the Lord who made us those</l>
+            <l>To suffer, not to do, this deed. Be strong.</l>
+            <l>So! lean on me — we have little time to lose.</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ACT V.</head>
+        <div type="scene">
+          <head>SCENE I.</head>
+          <stage>A Room in Süsskind's House. LIEBHAID, CLAIRE, REUBEN.</stage>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>The air hangs sultry as in mid-July.</l>
+            <l>Look forth, Claire; moves not some big thundercloud</l>
+            <l>Athwart the sky? My heart is sick.</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Nay, Liebhaid.</l>
+            <l>The clear May sun is shining, and the air</l>
+            <l>Blows fresh and cordial from the budding hills.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Reuben, what is 't o'clock. Our father stays.</l>
+            <l>The midday meal was cold an hour agone.</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>'T is two full hours past noon; he should be here.</l>
+            <l>Ah see, he comes. Great God! what woe has chanced?</l>
+            <l>He totters on his staff; he has grown old</l>
+            <l>Since he went forth this morn.</l>
+            <l><stage>(Enter SÜSSKIND).</stage></l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Father, what news?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>The Lord have mercy! Vain is the help of man.</l>
+            <l>Children, is all in order? We must start</l>
+            <l>At set of sun on a long pilgrimage.</l>
+            <l>So wills the Landgrave, so the court decrees.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>What is it, father? Exile?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Yea, just that.</l>
+            <l>We are banished from our vexed, uncertain homes,</l>
+            <l>'Midst foes and strangers, to a land of peace,</l>
+            <l>Where joy abides, where only comfort is.</l>
+            <l>Banished from care, fear, trouble, life — to death.</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>Oh horror! horror! Father, I will not die.</l>
+            <l>Come, let us flee — we yet have time for flight.</l>
+            <l>I'll bribe the sentinel — he will ope the gates.</l>
+            <l>Liebhaid, Claire, Father! let us flee! Away</l>
+            <l>To some safe land where we may nurse revenge.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Courage, my son, and peace. We may not flee.</l>
+            <l>Didst thou not see the spies who dogged my steps?</l>
+            <l>The gates are thronged with citizens and guards.</l>
+            <l>We must not flee — God wills that we should die.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Said you at sunset?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>So they have decreed.</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Oh why not now? Why spare the time to warn?</l>
+            <l>Why came they not with thee to massacre,</l>
+            <l>Leaving no agony betwixt the sentence</l>
+            <l>And instant execution? That were mercy!</l>
+            <l>Oh, my prophetic father!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>They allow</l>
+            <l>Full five hours' grace to shrive our souls with prayer.</l>
+            <l>We shall assemble in the Synagogue,</l>
+            <l>As on Atonement Day, confess our sins,</l>
+            <l>Recite the Kaddish for the Dead, and chant</l>
+            <l>Our Shibboleth, the Unity of God,</l>
+            <l>Until the supreme hour when we shall stand</l>
+            <l>Before the mercy-seat.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>In what dread shape</l>
+            <l>Approaches death ?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Nerve your young hearts, my children.</l>
+            <l>We shall go down as God's three servants went</l>
+            <l>Into the fiery furnace. Not again</l>
+            <l>Shall the flames spare the true-believers' flesh.</l>
+            <l>The anguish shall be fierce and strong, yet brief.</l>
+            <l>Our spirits shall not know the touch of pain,</l>
+            <l>Pure as refined gold they shall issue safe</l>
+            <l>From the hot crucible; a pleasing sight</l>
+            <l>Unto the Lord. Oh, 't is a rosy bed</l>
+            <l>Where we shall couch, compared with that whereon</l>
+            <l>They lie who kindle this accursed blaze.</l>
+            <l>Ye shrink? ye would avert your martyred brows</l>
+            <l>From the immortal crowns the angels offer?</l>
+            <l>What! are we Jews and are afraid of death?</l>
+            <l>God's chosen people, shall we stand a-tremble</l>
+            <l>Before our Father, as the Gentiles use?</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>Shall the smoke choke us, father? or the flame</l>
+            <l>Consume our flesh?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>I know not, boy. Be sure</l>
+            <l>The Lord will temper the shrewd pain for those</l>
+            <l>Who trust in Him.</l>
+          </sp>
+          <sp who="#reuben">
+            <speaker>REUBEN.</speaker>
+            <l>May I stand by thy side,</l>
+            <l>And hold my hand in thine until the end?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l><stage>(Aside.)</stage></l>
+            <l>What solace hast thou, God, in all thy heavens</l>
+            <l>For such an hour as this? Yea, hand in hand</l>
+            <l>We walk, my son, through fire, to meet the Lord.</l>
+            <l>Yet there is one among us shall not burn.</l>
+            <l>A secret shaft long rankling in my heart,</l>
+            <l>Now I withdraw, and die. Our general doom,</l>
+            <l>Liebhaid, is not for thee. Thou art no Jewess.</l>
+            <l>Thy father is the man who wills our death;</l>
+            <l>Lord Henry Schnetzen.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Look at me! your eyes</l>
+            <l>Are sane, correcting your distracted words.</l>
+            <l>This is Love's trick, to rescue me from death.</l>
+            <l>My love is firm as thine, and dies with thee.</l>
+          </sp>
+          <sp who="#claire">
+            <speaker>CLAIRE.</speaker>
+            <l>Oh, Liebhaid, live. Hast thou forgot the Prince?</l>
+            <l>Think of the happy summer blooms for thee</l>
+            <l>When we are in our graves.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>And I shall smile,</l>
+            <l>Live and rejoice in love, when ye are dead ?</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>My child, my child! By the Ineffable Name,</l>
+            <l>The Adonai, I swear, thou must believe,</l>
+            <l>Albeit thy father scoffed, gave me the lie.</l>
+            <l>Go kneel to him — for if he see thy face,</l>
+            <l>Or hear thy voice, he shall not doubt, but save.</l>
+          </sp>
+          <sp who="#liebhaid">
+            <speaker>LIEBHAID.</speaker>
+            <l>Never! If I be offspring to that kite,</l>
+            <l>I here deny my race, forsake my father, —</l>
+            <l>So does thy dream fall true. Let him save thee,</l>
+            <l>Whose hand has guided mine, whose lips have blessed,</l>
+            <l>Whose bread has nourished me. Thy God is mine,</l>
+            <l>Thy people are my people.</l>
+          </sp>
+          <sp who="#voices">
+            <speaker>VOICES</speaker>
+            <l><stage>(without).</stage></l>
+            <l>Süsskind von Orb!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>I come, my friends.</l>
+          </sp>
+          <stage>Enter boisterously certain Jews.</stage>
+          <sp who="#jew_1st">
+            <speaker>1ST JEW.</speaker>
+            <l>Come to the house of God!</l>
+          </sp>
+          <sp who="#jew_2d">
+            <speaker>2D JEW.</speaker>
+            <l>Wilt thou desert us for whose sake we perish?</l>
+          </sp>
+          <sp who="#jew_3d">
+            <speaker>3D JEW.</speaker>
+            <l>The awful hour draws nigh. Come forth with us</l>
+            <l>Unto the Synagogue.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Bear with me, neighbors.</l>
+            <l>Here we may weep, here for the last time know</l>
+            <l>The luxury of sorrow, the soft touch</l>
+            <l>Of natural tenderness; here our hearts may break;</l>
+            <l>Yonder no tears, no faltering! Eyes serene</l>
+            <l>Lifted to heaven, and defiant brows</l>
+            <l>To those who have usurped the name of men,</l>
+            <l>Must prove our faith and valor limitless</l>
+            <l>As is their cruelty. One more embrace,</l>
+            <l>My daughter, thrice my daughter! Thine affection</l>
+            <l>Outshines the hellish flames of hate; farewell,</l>
+            <l>But for a while; beyond the river of fire</l>
+            <l>I'll fold thee in mine arms, immortal angel!</l>
+            <l>For thee, poor orphan, soon to greet again</l>
+            <l>The blessed brows of parents, I dreamed not</l>
+            <l>The grave was all the home I had to give.</l>
+            <l>Go thou with Liebhaid, and array yourselves</l>
+            <l>As for a bridal. Come, little son, with me.</l>
+            <l>Friends, I am ready. O my God, my God,</l>
+            <l>Forsake us not in our extremity!</l>
+          </sp>
+          <stage>[Exeunt SÜSSKIND and JEWS.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE II.</head>
+          <stage>A Street in the Judengasse. Several Jews pass across the stage, running and with gestures of distress.</stage>
+          <sp who="#jews">
+            <speaker>JEWS.</speaker>
+            <l>Woe, woe! the curse has fallen!</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+          <stage>Enter other Jews.</stage>
+          <sp who="#jew_1st">
+            <speaker>1ST JEW.</speaker>
+            <l>We are doomed.</l>
+            <l>The fury of the Lord has smitten us.</l>
+            <l>Oh that mine head were waters and mine eyes</l>
+            <l>Fountains of tears! God has forsaken us.</l>
+          </sp>
+          <stage>[They knock at the doors of the houses.</stage>
+          <sp who="#jew_2d">
+            <speaker>2D JEW.</speaker>
+            <l>What, Benjamin! Open the door to death!</l>
+            <l>We all shall die at sunset! Menachem!</l>
+            <l>Come forth! Come forth! Manasseh! Daniel! Ezra!</l>
+          </sp>
+          <stage>[Jews appear at the windows.</stage>
+          <sp who="#one_calling_from_above">
+            <speaker>ONE CALLING FROM ABOVE.</speaker>
+            <l>Neighbors, what wild alarm is this?</l>
+          </sp>
+          <sp who="#jew_1st">
+            <speaker>1ST JEW.</speaker>
+            <l>Descend!</l>
+            <l>Descend! Come with us to the house of prayer.</l>
+            <l>Save himself whoso can! we all shall burn.</l>
+          </sp>
+          <stage>[Men and women appear at the doors of the houses.</stage>
+          <sp who="#one_of_the_men_at_the_door">
+            <speaker>ONE OF THE MEN AT THE DOOR.</speaker>
+            <l>Beseech you brethren, calmly. Tell us all!</l>
+            <l>Mine aged father lies at point of death</l>
+            <l>Gasping within. Ye'll thrust him in his grave</l>
+            <l>With boisterous clamor.</l>
+          </sp>
+          <sp who="#jew_1st">
+            <speaker>1ST JEW.</speaker>
+            <l>Blessed is the man</l>
+            <l>Whom the Lord calls unto Himself in peace!</l>
+            <l>Süsskind von Orb and Rabbi Jacob come</l>
+            <l>From the tribunal where the vote is — Death</l>
+            <l>To all our race.</l>
+          </sp>
+          <sp who="#several_voices">
+            <speaker>SEVERAL VOICES.</speaker>
+            <l>Woe! woe! God pity us!</l>
+          </sp>
+          <sp who="#jew_1st">
+            <speaker>1ST JEW.</speaker>
+            <l>Hie ye within, and take a last farewell</l>
+            <l>Of home, love, life— put on your festal robes.</l>
+            <l>So wills the Rabbi, and come forth at once</l>
+            <l>To pray till sunset in the Synagogue.</l>
+          </sp>
+          <sp who="#an_old_man">
+            <speaker>AN OLD MAN.</speaker>
+            <l>O God! Is this the portion of mine age?</l>
+            <l>Were my white hairs, my old bones spared for this?</l>
+            <l>Oh cruel, cruel!</l>
+          </sp>
+          <sp who="#a_young_girl">
+            <speaker>A YOUNG GIRL.</speaker>
+            <l>I am too young to die.</l>
+            <l>Save me, my father! To-morrow should have been</l>
+            <l>The feast at Rachel's house. I longed for that,</l>
+            <l>Counted the days, dreaded some trivial chance</l>
+            <l>Might cross my pleasure — Lo, this horror comes!</l>
+          </sp>
+          <sp who="#a_bride">
+            <speaker>A BRIDE.</speaker>
+            <l>Oh love! oh thou just-tasted cup of joy</l>
+            <l>Snatched from my lips! Shall we twain lie with death,</l>
+            <l>Dark, silent, cold — whose every sense was tuned</l>
+            <l>To happiness! Life was too beautiful —</l>
+            <l>That was the dream — how soon we are awake!</l>
+            <l>Ah, we have that within our hearts defies</l>
+            <l>Their fiercest flames. No end, no end, no end!</l>
+          </sp>
+          <sp who="#jew">
+            <speaker>JEW.</speaker>
+            <l>God with a mighty hand, a stretched-out arm,</l>
+            <l>And poured-out fury, ruleth over us.</l>
+            <l>The sword is furbished, sharp i' the slayer's hand.</l>
+            <l>Cry out and howl, thou son of Israel!</l>
+            <l>Thou shalt be fuel to the fire; thy blood</l>
+            <l>Shall overflow the land, and thou no more</l>
+            <l>Shalt be remembered — so the Lord hath spoken.</l>
+          </sp>
+          <stage>[Exeunt omnes.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE III.</head>
+          <stage>Within the Synagogue. Above in the gallery, women sumptuously attired; some with children by the hand or infants in their arms. Below the men and boys with silken scarfs about their shoulders.</stage>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>The Lord is nigh unto the broken heart.2 24.7</l>
+            <l>Out of the depths we cry to thee, oh God!</l>
+            <l>Show us the path of everlasting life;</l>
+            <l>For in thy presence is the plenitude</l>
+            <l>Of joy, and in thy right hand endless bliss.</l>
+          </sp>
+          <stage>Enter SÜSSKIND, REUBEN, etc.</stage>
+          <sp who="#several_voices">
+            <speaker>SEVERAL VOICES.</speaker>
+            <l>Woe unto us who perish!</l>
+          </sp>
+          <sp who="#a_jew">
+            <speaker>A JEW.</speaker>
+            <l>Süsskind von Orb,</l>
+            <l>Thou hast brought down this doom. Would we had heard</l>
+            <l>The prophet's voice!</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Brethren, my cup is full!</l>
+            <l>Oh let us die as warriors of the Lord.</l>
+            <l>The Lord is great in Zion. Let our death</l>
+            <l>Bring no reproach to Jacob, no rebuke</l>
+            <l>To Israel. Hark ye! let us crave one boon</l>
+            <l>At our assassins' hands; beseech them build</l>
+            <l>Within God's acre where our fathers sleep,</l>
+            <l>A dancing-floor to hide the fagots stacked.</l>
+            <l>Then let the minstrels strike the harp and lute,</l>
+            <l>And we will dance and sing above the pile,</l>
+            <l>Fearless of death, until the flames engulf,</l>
+            <l>Even as David danced before the Lord,</l>
+            <l>As Miriam danced and sang beside the sea.</l>
+            <l>Great is our Lord! His name is glorious</l>
+            <l>In Judah, and extolled in Israel!</l>
+            <l>In Salem is his tent, his dwelling place</l>
+            <l>In Zion; let us chant the praise of God!</l>
+          </sp>
+          <sp who="#a_jew">
+            <speaker>A JEW.</speaker>
+            <l>Süsskind, thou speakest well! We will meet death</l>
+            <l>With dance and song. Embrace him as a bride.</l>
+            <l>So that the Lord receive us in His tent.</l>
+          </sp>
+          <sp who="#several_voices">
+            <speaker>SEVERAL VOICES.</speaker>
+            <l>Amen! amen! amen! we dance to death!</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Süsskind, go forth and beg this grace of them.</l>
+          </sp>
+          <stage>[Exit Süsskind.
+            Punish us not in wrath, chastise us not
+            In anger, oh our God! Our sins o'erwhelm
+            Our smitten heads, they are a grievous load;
+            We look on our iniquities, we tremble,
+            Knowing our trespasses. Forsake us not.
+            Be thou not far from us. Haste to our aid,
+            Oh God, who art our Saviour and our Rock!
+            Reënter SÜSSKIND.</stage>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND.</speaker>
+            <l>Brethren, our prayer, being the last, is granted.</l>
+            <l>The hour approaches. Let our thoughts ascend</l>
+            <l>From mortal anguish to the ecstasy</l>
+            <l>Of martyrdom, the blessed death of those</l>
+            <l>Who perish in the Lord. I see, I see</l>
+            <l>How Israel's ever-crescent glory makes</l>
+            <l>These flames that would eclipse it, dark as blots</l>
+            <l>Of candle-light against the blazing sun.</l>
+            <l>We die a thousand deaths, — drown, bleed, and burn;</l>
+            <l>Our ashes are dispersed unto the winds.</l>
+            <l>Yet the wild winds cherish the sacred seed,</l>
+            <l>The waters guard it in their crystal heart,</l>
+            <l>The fire refuseth to consume. It springs,</l>
+            <l>A tree immortal, shadowing many lands,</l>
+            <l>Unvisited, unnamed, undreamed as yet.</l>
+            <l>Rather a vine, full-flowered, golden-branched,</l>
+            <l>Ambrosial-fruited, creeping on the earth,</l>
+            <l>Trod by the passer's foot, yet chosen to deck</l>
+            <l>Tables of princes. Israel now has fallen</l>
+            <l>Into the depths, he shall be great in time.</l>
+            <l>Even as we die in honor, from our death</l>
+            <l>Shall bloom a myriad heroic lives,</l>
+            <l>Brave through our bright example, virtuous</l>
+            <l>Lest our great memory fall in disrepute.</l>
+            <l>Is one among us brothers, would exchange</l>
+            <l>His doom against our tyrants, — lot for lot?</l>
+            <l>Let him go forth and live — he is no Jew.</l>
+            <l>Is one who would not die in Israel</l>
+            <l>Rather than live in Christ, — their Christ who smiles</l>
+            <l>On such a deed as this? Let him go forth —</l>
+            <l>He may die full of years upon his bed.</l>
+            <l>Ye who nurse rancor haply in your hearts,</l>
+            <l>Fear ye we perish unavenged? Not so!</l>
+            <l>To-day, no! nor to-morrow! but in God's time,</l>
+            <l>Our witnesses arise. Ours is the truth,</l>
+            <l>Ours is the power, the gift of Heaven. We hold</l>
+            <l>His Law, His lamp, His covenant, His pledge.</l>
+            <l>Wherever in the ages shall arise</l>
+            <l>Jew-priest, Jew-poet, Jew-singer, or Jew-saint —</l>
+            <l>And everywhere I see them star the gloom —</l>
+            <l>In each of these the martyrs are avenged!</l>
+          </sp>
+          <sp who="#rabbi_jacob">
+            <speaker>RABBI JACOB.</speaker>
+            <l>Bring from the Ark the bell-fringed, silken-bound</l>
+            <l>Scrolls of the Law. Gather the silver vessels,</l>
+            <l>Dismantle the rich curtains of the doors,</l>
+            <l>Bring the Perpetual Lamp; all these shall burn,</l>
+            <l>For Israel's light is darkened, Israel's Law</l>
+            <l>Profaned by strangers. Thus the Lord hath said:</l>
+            <l>"The weapon formed against thee shall not prosper,</l>
+            <l>The tongue that shall contend with thee in judgment,</l>
+            <l>Thou shalt condemn. This is the heritage</l>
+            <l>Of the Lord's servants and their righteousness.</l>
+            <l>For thou shalt come to peoples yet unborn,</l>
+            <l>Declaring that which He hath done. Amen!"</l>
+          </sp>
+          <stage>[The doors of the Synagogue are burst open with tumultuous noise. Citizens and officers rush in.</stage>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>Come forth! the sun sets. Come, the Council waits!</l>
+            <l>What! will ye teach your betters patience? Out!</l>
+            <l>The Governor is ready. Forth with you,</l>
+            <l>Curs! serpents! Judases! The bonfire burns!</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+        </div>
+        <div type="scene">
+          <head>SCENE IV.</head>
+          <stage>A Public Place. Crowds of Citizens assembled. On a platform are seated DIETRICH VON TETTENBORN and HENRY SCHNETZEN with other Members of the Council.</stage>
+          <sp who="#citizen_1st">
+            <speaker>1ST CITIZEN.</speaker>
+            <l>Here's such a throng! Neighbor, your elbow makes</l>
+            <l>An ill prod for my ribs.</l>
+          </sp>
+          <sp who="#citizen_2d">
+            <speaker>2D CITIZEN.</speaker>
+            <l>I am pushed and squeezed.</l>
+            <l>My limbs are not mine own.</l>
+          </sp>
+          <sp who="#citizen_3d">
+            <speaker>3D CITIZEN.</speaker>
+            <l>Look this way, wife.</l>
+            <l>They will come hence, — a pack of just-whipped curs.</l>
+            <l>I warrant you the stiff-necked brutes repent</l>
+            <l>To-day if ne'er before.</l>
+          </sp>
+          <sp who="#wife">
+            <speaker>WIFE.</speaker>
+            <l>I am all a-quiver.</l>
+            <l>I have seen monstrous sights, — an uncaged wolf,</l>
+            <l>The corpse of one sucked by a vampyre,</l>
+            <l>The widow Kupfen's malformed child — but never</l>
+            <l>Until this hour, a Jew.</l>
+          </sp>
+          <sp who="#citizen_3d">
+            <speaker>3D CITIZEN.</speaker>
+            <l>D' ye call me Jew?</l>
+            <l>Where do you spy one now?</l>
+          </sp>
+          <sp who="#wife">
+            <speaker>WIFE.</speaker>
+            <l>You'll have your jest</l>
+            <l>Now or anon, what matters it?</l>
+          </sp>
+          <sp who="#citizen_4th">
+            <speaker>4TH CITIZEN.</speaker>
+            <l>Well, I</l>
+            <l>Have seen a Jew, and seen one burn at that;</l>
+            <l>Hard by in Wartburg; he had killed a child.</l>
+            <l>Zounds! how the serpent wriggled! I smell now</l>
+            <l>The roasting, stinking flesh!</l>
+          </sp>
+          <sp who="#boy">
+            <speaker>BOY.</speaker>
+            <l>Father, be these</l>
+            <l>The folk who murdered Jesus?</l>
+          </sp>
+          <sp who="#citizen_4th">
+            <speaker>4TH CITIZEN.</speaker>
+            <l>Ay, my boy.</l>
+            <l>Remember that, and when you hear them come,</l>
+            <l>I'll lift you on my shoulders. You can fling</l>
+            <l>Your pebbles with the rest.</l>
+          </sp>
+          <stage>[Trumpets sound.</stage>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>The Jews! the Jews!</l>
+          </sp>
+          <sp who="#boy">
+            <speaker>BOY.</speaker>
+            <l>Quick, father! lift me! I see nothing here</l>
+            <l>But hose and skirts.</l>
+          </sp>
+          <stage>[Music of a march approaching.</stage>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>What mummery is this?</l>
+            <l>The sorcerers brew new mischief.</l>
+          </sp>
+          <sp who="#another_citizen">
+            <speaker>ANOTHER CITIZEN.</speaker>
+            <l>Why, they come</l>
+            <l>Pranked for a holiday; not veiled for death.</l>
+          </sp>
+          <sp who="#another_citizen">
+            <speaker>ANOTHER CITIZEN.</speaker>
+            <l>Insolent braggarts! They defy the Christ!</l>
+          </sp>
+          <stage>Enter, in procession to music, the Jews. First, RABBI JACOB — after him, sick people, carried on litters — then old men and women, followed promiscuously by men, women, and children of all ages. Some of the men carry gold and silver vessels, some the Rolls of the Law. One
+            bears the Perpetual Lamp, another the Seven-branched silver Candlestick of the Synagogue. The mothers have their children by the hand or in their arms. All richly attired.</stage>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>The misers! they will take their gems and gold</l>
+            <l>Down to the grave!</l>
+          </sp>
+          <sp who="#citizens_wife">
+            <speaker>CITIZEN'S WIFE.</speaker>
+            <l>So these be Jews! Christ save us!</l>
+            <l>To think the devils look like human folk!</l>
+          </sp>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>Cursed be the poison-mixers! Let them burn!</l>
+          </sp>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>Burn! burn!</l>
+          </sp>
+          <stage>Enter SÜSSKIND VON ORB, LIEBHAID, REUBEN, and CLAIRE.</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Good God! what maid is that?</l>
+          </sp>
+          <sp who="#tettenborn">
+            <speaker>TETTENBORN.</speaker>
+            <l>Liebhaid von Orb.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>The devil's trick!</l>
+            <l>He has bewitched mine eyes.</l>
+          </sp>
+          <sp who="#süsskind">
+            <speaker>SÜSSKIND</speaker>
+            <l><stage>(as he passes the platform).</stage></l>
+            <l>Woe to the father</l>
+            <l>Who murders his own child!</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>I am avenged,</l>
+            <l>Süsskind von Orb! Blood for blood, fire for fire,</l>
+            <l>And death for death!</l>
+          </sp>
+          <stage>[Exeunt SÜSKIND, LIEBHAID, etc.</stage>
+          <stage>Enter Jewish youths and maidens.</stage>
+          <sp who="#youths">
+            <speaker>YOUTHS</speaker>
+            <l><stage>(in chorus).</stage></l>
+            <l>Let us rejoice, for it is promised us</l>
+            <l>That we shall enter in God's tabernacle!</l>
+          </sp>
+          <sp who="#maidens">
+            <speaker>MAIDENS.</speaker>
+            <l>Our feet shall stand within thy gates, O Zion,</l>
+            <l>Within thy portals, O Jerusalem!</l>
+          </sp>
+          <stage>[Exeunt.</stage>
+          <sp who="#citizens_wife">
+            <speaker>CITIZEN'S WIFE.</speaker>
+            <l>I can see naught from here. Let's follow, Hans.</l>
+          </sp>
+          <sp who="#citizen">
+            <speaker>CITIZEN.</speaker>
+            <l>Be satisfied. There is no inch of space</l>
+            <l>For foot to rest on yonder. Look! look there!</l>
+            <l>How the flames rise!</l>
+          </sp>
+          <sp who="#boy">
+            <speaker>BOY.</speaker>
+            <l>O father, I can see!</l>
+            <l>They all are dancing in the crimson blaze.</l>
+            <l>Look how their garments wave, their jewels shine,</l>
+            <l>When the smoke parts a bit. The tall flames dart.</l>
+            <l>Is not the fire real fire? They fear it not.</l>
+          </sp>
+          <sp who="#voices_without">
+            <speaker>VOICES WITHOUT.</speaker>
+            <l>Arise, oh house of Jacob. Let us walk</l>
+            <l>Within the light of the Almighty Lord!</l>
+          </sp>
+          <stage>Enter in furious haste PRINCE WILLIAM and NORDMANN.</stage>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>Respite! You kill your daughter, Henry Schnetzen!</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Liebhaid von Orb is your own flesh and blood.</l>
+          </sp>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Spectre! do dead men rise?</l>
+          </sp>
+          <sp who="#nordmann">
+            <speaker>NORDMANN.</speaker>
+            <l>Yea, for revenge!</l>
+            <l>I swear, Lord Schnetzen, by my knightly honor,</l>
+            <l>She who is dancing yonder to her death,</l>
+            <l>Is thy wife's child!</l>
+          </sp>
+          <stage>[SCHNETZEN and PRINCE WILLIAM make a rush forward towards the flames. Music ceases; a sound of crashing boards is heard and a great cry — HALLELUJAH !</stage>
+          <sp who="#prince_william #schnetzen">
+            <speaker>PRINCE WILLIAM and SCHNETZEN.</speaker>
+            <l>Too late! too late!</l>
+          </sp>
+          <sp who="#citizens">
+            <speaker>CITIZENS.</speaker>
+            <l>All's done!</l>
+          </sp>
+          <sp who="#prince_william">
+            <speaker>PRINCE WILLIAM.</speaker>
+            <l>The fire! the fire! Liebhaid, I come to thee.</l>
+          </sp>
+          <stage>[He is about to spring forward, but is held back by guards.</stage>
+          <sp who="#schnetzen">
+            <speaker>SCHNETZEN.</speaker>
+            <l>Oh cruel Christ! Is there no bolt in heaven</l>
+            <l>For the child murderer? Kill me, my friends! my breast</l>
+            <l>Is bare to all your swords.</l>
+          </sp>
+          <stage>[He tears open his jerkin, and falls unconscious.</stage>
+          <stage>[Curtain falls.</stage>
+          <stage>THE END</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
