@@ -1,4 +1,4 @@
-<TEI xml:id="am77" xml:lang="eng" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="am000077" xml:lang="eng" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1911,7 +1911,7 @@
             <l>One moment.</l>
             <l>Mayhap this box which Süsskind sends the Prince</l>
             <l>Reveals more wonders.</l>
-          
+
           <stage>[He brings forth the Casket from the Cabinet, opens it, and discovers a golden cross and a parchment which he hastily overlooks.</stage>
             <l>Hark! your word's confirmed</l>
             <l>Blessed be Christ, our Lord!</l>
@@ -2275,7 +2275,7 @@
             the truth of which indictment we have absolute knowledge. Therefore we admonish you to have the Jews killed in honor of God, so that Christendom be not enfeebled by them. Whatever responsibility you incur, we will assume with our Lord the Emperor, and with all other lords. Know also that we send to you Henry Schnetzen, our Governor of Salza, who shall publicly accuse your Jews of the above-mentioned crime. Therefore we beseech you to help him to do justice upon them, and we will singularly reward your good will.
             Given at Eisenach, the Thursday after St. Walpurgis, under our secret seal.</p>
           </sp>
-          <sp who="#counsellor">            
+          <sp who="#counsellor">
             <speaker>A COUNSELLOR ( DIETHER VON WERTHER).</speaker>
             <l>Fit silence welcomes this unheard-of wrong!</l>
             <l>So! Ye are men — free, upright, honest men,</l>
