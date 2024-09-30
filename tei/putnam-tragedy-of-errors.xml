@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000879" xml:lang="en">
+<TEI xml:id="am000879" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,7 +12,7 @@
             <surname>Putnam</surname>
           </persName>
           <idno type="wikidata">Q6780849</idno>
-          <idno type="pnd"></idno>
+          <idno type="pnd" />
         </author>
         <author>
           <persName>
