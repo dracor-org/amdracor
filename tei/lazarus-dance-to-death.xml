@@ -1,10 +1,18 @@
-<TEI xml:id="am000077" xml:lang="eng" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000077" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="main">The Dance to Death</title>
         <title type="sub">A Historical Tragedy in Five Acts.</title>
-        <author>Lazarus, Emma</author>
+        <author>
+          <persName>
+            <forename>Emma</forename>
+            <surname>Lazarus</surname>
+          </persName>
+          <idno type="wikidata">Q240959</idno>
+          <idno type="pnd">118779052</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -166,10 +174,10 @@
           <personGrp sex="UNKNOWN" xml:id="several_voices">
             <persName>SEVERAL VOICES</persName>
           </personGrp>
-            <person sex="UNKNOWN" xml:id="voice_4th">
+          <person sex="UNKNOWN" xml:id="voice_4th">
             <persName>4TH VOICE</persName>
           </person>
-            <person sex="UNKNOWN" xml:id="voice_from_below">
+          <person sex="UNKNOWN" xml:id="voice_from_below">
             <persName>VOICE FROM BELOW</persName>
           </person>
           <person sex="MALE" xml:id="liebhaid">
@@ -211,10 +219,10 @@
   <standOff>
     <listEvent>
       <event type="print" when="1889">
-        <desc/>
+        <desc />
       </event>
       <event type="written" when="1882">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -406,7 +414,9 @@
           <stage>Enter RABBI JACOB, and RABBI CRESSELIN led by CLAIRE. They walk across the stage, and disappear in the Synagogue.</stage>
           <sp who="#baruch">
             <speaker>BARUCH</speaker>
-            <l><stage>(exaltedly).</stage></l>
+            <l>
+              <stage>(exaltedly).</stage>
+            </l>
             <l>Blessed art thou, O Lord,</l>
             <l>King of the Universe, who teachest wisdom</l>
             <l>To those who fear thee!</l>
@@ -596,7 +606,9 @@
           </sp>
           <sp who="#rabbi_cresselin">
             <speaker>RABBI CRESSELIN</speaker>
-            <l><stage>(uttering a piercing shriek).</stage></l>
+            <l>
+              <stage>(uttering a piercing shriek).</stage>
+            </l>
             <l>Ah!</l>
             <l>Woe unto Israel! Lo, I see again,</l>
             <l>As the Ineffable foretold. I see</l>
@@ -610,7 +622,9 @@
           <stage>[He falls back dead. Confusion in the Synagogue.</stage>
           <sp who="#claire">
             <speaker>CLAIRE</speaker>
-            <l><stage>(from the gallery).</stage></l>
+            <l>
+              <stage>(from the gallery).</stage>
+            </l>
             <l>Father! My father!</l>
             <l>Let me go down to him!</l>
           </sp>
@@ -815,7 +829,9 @@
           <stage>[LIEBHAID offers him wine.</stage>
           <sp who="#prince_william">
             <speaker>PRINCE WILLIAM</speaker>
-            <l><stage>(drinking).</stage></l>
+            <l>
+              <stage>(drinking).</stage>
+            </l>
             <l>To thee!</l>
           </sp>
           <stage>[All take their seats at the table.
@@ -839,7 +855,9 @@
           </sp>
           <sp who="#süsskind">
             <speaker>SÜSSKIND</speaker>
-            <l><stage>(calmly).</stage></l>
+            <l>
+              <stage>(calmly).</stage>
+            </l>
             <l>Schnetzen is my foe,</l>
             <l>I know it, but I know a talisman,</l>
             <l>Which at a word transmutes his hate to love.</l>
@@ -1085,7 +1103,9 @@
             <speaker>LANDGRAVE.</speaker>
             <l>Himself shall say it.</l>
             <l>Ho, Gunther!</l>
-            <l><stage>(Enter a Lackey.)</stage></l>
+            <l>
+              <stage>(Enter a Lackey.)</stage>
+            </l>
             <l>Bid the Prince of Meissen here.</l>
           </sp>
           <stage>[Exit Lackey. The LANDGRAVE paces the stage in agitation.</stage>
@@ -1324,9 +1344,13 @@
           </sp>
           <sp who="#schnetzen">
             <speaker>SCHNETZEN</speaker>
-            <l><stage>(kisses FREDERICK'S hand).</stage></l>
+            <l>
+              <stage>(kisses FREDERICK'S hand).</stage>
+            </l>
             <l>Farewell, my master.</l>
-            <l><stage>(Aside.)</stage></l>
+            <l>
+              <stage>(Aside.)</stage>
+            </l>
             <l>Ah, vengeance cometh late, Süsskind von Orb,</l>
             <l>But yet it comes! My wife was burned through thee,</l>
             <l>Thou and thy children are consumed by me!</l>
@@ -1811,7 +1835,9 @@
           <sp who="#nordmann">
             <speaker>NORDMANN.</speaker>
             <l>I am unchanged</l>
-            <l><stage>(Save that the spirit of grace has fallen on me).</stage></l>
+            <l>
+              <stage>(Save that the spirit of grace has fallen on me).</stage>
+            </l>
             <l>Urged by one motive through these banished years,</l>
             <l>Fed by one hope, awake to realize</l>
             <l>One living dream — my long delayed revenge.</l>
@@ -1855,7 +1881,9 @@
           </sp>
           <sp who="#prior">
             <speaker>PRIOR</speaker>
-            <l><stage>(eagerly).</stage></l>
+            <l>
+              <stage>(eagerly).</stage>
+            </l>
             <l>What proof hast thou of this?</l>
           </sp>
           <sp who="#nordmann">
@@ -1912,8 +1940,7 @@
             <l>One moment.</l>
             <l>Mayhap this box which Süsskind sends the Prince</l>
             <l>Reveals more wonders.</l>
-
-          <stage>[He brings forth the Casket from the Cabinet, opens it, and discovers a golden cross and a parchment which he hastily overlooks.</stage>
+            <stage>[He brings forth the Casket from the Cabinet, opens it, and discovers a golden cross and a parchment which he hastily overlooks.</stage>
             <l>Hark! your word's confirmed</l>
             <l>Blessed be Christ, our Lord!</l>
             <stage>(reads).</stage>
@@ -1969,7 +1996,9 @@
           <sp who="#nordmann">
             <speaker>NORDMANN.</speaker>
             <l>Good-night, true friend. Devote a prayer to me.</l>
-            <l><stage>(Aside.)</stage></l>
+            <l>
+              <stage>(Aside.)</stage>
+            </l>
             <l>I will outwit you, serpent, though you glide</l>
             <l>Athwart the dark, noiseless and swift as fate.</l>
           </sp>
@@ -2240,12 +2269,16 @@
           </sp>
           <sp who="#schnetzen">
             <speaker>SCHNETZEN</speaker>
-            <l><stage>(to the clerk).</stage></l>
+            <l>
+              <stage>(to the clerk).</stage>
+            </l>
             <l>Read me these.</l>
           </sp>
           <sp who="#scrivener">
             <speaker>SCRIVENER</speaker>
-            <l><stage>(reads).</stage></l>
+            <l>
+              <stage>(reads).</stage>
+            </l>
             <l>"Beware, Lord Henry Schnetzen, of Süsskind's lying tongue! He will thrust a cuckoo's egg into your nest.</l>
             <stage>[Signed]% ONE WHO KNOWS."</stage>
           </sp>
@@ -2306,7 +2339,10 @@
             <l>Thunders his ban from Rome against all such</l>
             <l>As aid the poisoners. Your oath to God,</l>
             <l>And to the Prince enjoins— Death to the Jews.</l>
-            <l>A BURGHER <stage>(REINHARD ROLAPP).</stage></l>
+            <l>
+              A BURGHER
+              <stage>(REINHARD ROLAPP).</stage>
+            </l>
             <l>Why all this vain debate ? The Landgrave's brief</l>
             <l>Affirms the Jews fling poison in the wells.</l>
             <l>Shall we stand by and leave them unmolested,</l>
@@ -2350,7 +2386,9 @@
           <sp who="#tettenborn">
             <speaker>TETTENBORN.</speaker>
             <l>Give me your voices in the urn.</l>
-            <l><stage>(The votes are taken.)</stage></l>
+            <l>
+              <stage>(The votes are taken.)</stage>
+            </l>
             <l>One voice</l>
             <l>For mercy, all the rest for death.</l>
             <stage>(To an Usher.)</stage>
@@ -2403,7 +2441,9 @@
           </sp>
           <sp who="#rabbi_jacob">
             <speaker>RABBI JACOB</speaker>
-            <l><stage>(springing forward and clasping his hands).</stage></l>
+            <l>
+              <stage>(springing forward and clasping his hands).</stage>
+            </l>
             <l>I' the name of God,</l>
             <l>Your God and ours, have mercy!</l>
           </sp>
@@ -2585,7 +2625,9 @@
           </sp>
           <sp who="#süsskind">
             <speaker>SÜSSKIND</speaker>
-            <l><stage>(kneeling).</stage></l>
+            <l>
+              <stage>(kneeling).</stage>
+            </l>
             <l>Is there a God in heaven? I who ne'er knelt</l>
             <l>Until this hour to any man on earth,</l>
             <l>Tyrant, before thee I abase myself.</l>
@@ -2691,7 +2733,9 @@
             <l>Ah see, he comes. Great God! what woe has chanced?</l>
             <l>He totters on his staff; he has grown old</l>
             <l>Since he went forth this morn.</l>
-            <l><stage>(Enter SÜSSKIND).</stage></l>
+            <l>
+              <stage>(Enter SÜSSKIND).</stage>
+            </l>
           </sp>
           <sp who="#liebhaid">
             <speaker>LIEBHAID.</speaker>
@@ -2800,7 +2844,9 @@
           </sp>
           <sp who="#süsskind">
             <speaker>SÜSSKIND.</speaker>
-            <l><stage>(Aside.)</stage></l>
+            <l>
+              <stage>(Aside.)</stage>
+            </l>
             <l>What solace hast thou, God, in all thy heavens</l>
             <l>For such an hour as this? Yea, hand in hand</l>
             <l>We walk, my son, through fire, to meet the Lord.</l>
@@ -2848,7 +2894,9 @@
           </sp>
           <sp who="#voices">
             <speaker>VOICES</speaker>
-            <l><stage>(without).</stage></l>
+            <l>
+              <stage>(without).</stage>
+            </l>
             <l>Süsskind von Orb!</l>
           </sp>
           <sp who="#süsskind">
@@ -3244,7 +3292,9 @@
           </sp>
           <sp who="#süsskind">
             <speaker>SÜSSKIND</speaker>
-            <l><stage>(as he passes the platform).</stage></l>
+            <l>
+              <stage>(as he passes the platform).</stage>
+            </l>
             <l>Woe to the father</l>
             <l>Who murders his own child!</l>
           </sp>
@@ -3258,7 +3308,9 @@
           <stage>Enter Jewish youths and maidens.</stage>
           <sp who="#youths">
             <speaker>YOUTHS</speaker>
-            <l><stage>(in chorus).</stage></l>
+            <l>
+              <stage>(in chorus).</stage>
+            </l>
             <l>Let us rejoice, for it is promised us</l>
             <l>That we shall enter in God's tabernacle!</l>
           </sp>

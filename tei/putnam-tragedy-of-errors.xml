@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000879" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000879" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,10 +7,20 @@
           Tragedy of Errors
         </title>
         <author>
-          Putnam, Mary Lowell
+          <persName>
+            <forename>Mary Lowell</forename>
+            <surname>Putnam</surname>
+          </persName>
+          <idno type="wikidata">Q6780849</idno>
+          <idno type="pnd"></idno>
         </author>
         <author>
-          Bremer, Fredrika
+          <persName>
+            <forename>Fredrika</forename>
+            <surname>Bremer</surname>
+          </persName>
+          <idno type="wikidata">Q262145</idno>
+          <idno type="pnd">118514962</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -48,109 +58,109 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-<particDesc>
-    <listPerson>
-        <person xml:id="woman" sex="FEMALE">
+      <particDesc>
+        <listPerson>
+          <person xml:id="woman" sex="FEMALE">
             <persName>Woman</persName>
-        </person>
-        <person xml:id="alice" sex="FEMALE">
+          </person>
+          <person xml:id="alice" sex="FEMALE">
             <persName>Alice</persName>
-        </person>
-        <personGrp xml:id="voices" sex="UNKNOWN">
+          </person>
+          <personGrp xml:id="voices" sex="UNKNOWN">
             <persName>Voices</persName>
-        </personGrp>
-        <person xml:id="jubal" sex="MALE">
+          </personGrp>
+          <person xml:id="jubal" sex="MALE">
             <persName>Jubal</persName>
-        </person>
-        <person xml:id="philip" sex="MALE">
+          </person>
+          <person xml:id="philip" sex="MALE">
             <persName>Philip</persName>
-        </person>
-        <person xml:id="turpin" sex="MALE">
+          </person>
+          <person xml:id="turpin" sex="MALE">
             <persName>Turpin</persName>
-        </person>
-        <person xml:id="melas" sex="MALE">
+          </person>
+          <person xml:id="melas" sex="MALE">
             <persName>Melas</persName>
-        </person>
-        <person xml:id="boaz" sex="MALE">
+          </person>
+          <person xml:id="boaz" sex="MALE">
             <persName>Boaz</persName>
-        </person>
-        <person xml:id="woodford" sex="MALE">
+          </person>
+          <person xml:id="woodford" sex="MALE">
             <persName>Woodford</persName>
-        </person>
-        <person xml:id="hermann" sex="MALE">
+          </person>
+          <person xml:id="hermann" sex="MALE">
             <persName>Hermann</persName>
-        </person>
-        <person xml:id="hecate" sex="FEMALE">
+          </person>
+          <person xml:id="hecate" sex="FEMALE">
             <persName>Hecate</persName>
-        </person>
-        <person xml:id="peter" sex="MALE">
+          </person>
+          <person xml:id="peter" sex="MALE">
             <persName>Peter</persName>
-        </person>
-        <person xml:id="dorcas" sex="FEMALE">
+          </person>
+          <person xml:id="dorcas" sex="FEMALE">
             <persName>Dorcas</persName>
-        </person>
-        <person xml:id="perdita" sex="FEMALE">
+          </person>
+          <person xml:id="perdita" sex="FEMALE">
             <persName>Perdita</persName>
-        </person>
-        <personGrp xml:id="othervoices" sex="UNKNOWN">
+          </person>
+          <personGrp xml:id="othervoices" sex="UNKNOWN">
             <persName>Other Voices</persName>
-        </personGrp>
-        <person xml:id="stanley" sex="MALE">
+          </personGrp>
+          <person xml:id="stanley" sex="MALE">
             <persName>Stanley</persName>
-        </person>
-        <person xml:id="voice" sex="UNKNOWN">
+          </person>
+          <person xml:id="voice" sex="UNKNOWN">
             <persName>Voice</persName>
-        </person>
-        <person xml:id="theresa" sex="FEMALE">
+          </person>
+          <person xml:id="theresa" sex="FEMALE">
             <persName>Theresa</persName>
-        </person>
-        <person xml:id="oldman" sex="MALE">
+          </person>
+          <person xml:id="oldman" sex="MALE">
             <persName>Old Man</persName>
-        </person>
-        <person xml:id="ezekiel" sex="MALE">
+          </person>
+          <person xml:id="ezekiel" sex="MALE">
             <persName>Ezekiel</persName>
-        </person>
-        <person xml:id="sordel" sex="MALE">
+          </person>
+          <person xml:id="sordel" sex="MALE">
             <persName>Sordel</persName>
-        </person>
-        <person xml:id="flora" sex="FEMALE">
+          </person>
+          <person xml:id="flora" sex="FEMALE">
             <persName>Flora</persName>
-        </person>
-        <person xml:id="helen" sex="FEMALE">
+          </person>
+          <person xml:id="helen" sex="FEMALE">
             <persName>Helen</persName>
-        </person>
-        <person xml:id="roxana" sex="FEMALE">
+          </person>
+          <person xml:id="roxana" sex="FEMALE">
             <persName>Roxana</persName>
-        </person>
-        <person xml:id="emma" sex="FEMALE">
+          </person>
+          <person xml:id="emma" sex="FEMALE">
             <persName>Emma</persName>
-        </person>
-        <person xml:id="daffy" sex="FEMALE">
+          </person>
+          <person xml:id="daffy" sex="FEMALE">
             <persName>Daffy</persName>
-        </person>
-        <person xml:id="chloe" sex="FEMALE">
+          </person>
+          <person xml:id="chloe" sex="FEMALE">
             <persName>Chloe</persName>
-        </person>
-        <person xml:id="pyrrhus" sex="MALE">
+          </person>
+          <person xml:id="pyrrhus" sex="MALE">
             <persName>Pyrrhus</persName>
-        </person>
-        <person xml:id="milo" sex="MALE">
+          </person>
+          <person xml:id="milo" sex="MALE">
             <persName>Milo</persName>
-        </person>
-        <person xml:id="bella" sex="FEMALE">
+          </person>
+          <person xml:id="bella" sex="FEMALE">
             <persName>Bella</persName>
-        </person>
-        <person xml:id="many" sex="UNKNOWN">
+          </person>
+          <person xml:id="many" sex="UNKNOWN">
             <persName>Many</persName>
-        </person>
-        <person xml:id="avoice" sex="UNKNOWN">
+          </person>
+          <person xml:id="avoice" sex="UNKNOWN">
             <persName>A voice</persName>
-        </person>
-        <person xml:id="anothervoice" sex="UNKNOWN">
+          </person>
+          <person xml:id="anothervoice" sex="UNKNOWN">
             <persName>Another voice</persName>
-        </person>
-    </listPerson>
-</particDesc>
+          </person>
+        </listPerson>
+      </particDesc>
       <textClass>
         <keywords>
           <term subtype="am" type="genreTitle">
@@ -169,7 +179,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1862">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>

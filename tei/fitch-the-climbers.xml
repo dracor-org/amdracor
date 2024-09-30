@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000264" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000264" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Climbers
         </title>
         <author>
-          Fitch, Clyde
+          <persName>
+            <forename>Clyde</forename>
+            <surname>Fitch</surname>
+          </persName>
+          <idno type="wikidata">Q2980425</idno>
+          <idno type="pnd">118683772</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -130,7 +135,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1915">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -385,7 +390,7 @@
           </speaker>
           <p>
             Some millionnaires I've known
-            <pb n="475"/>
+            <pb n="475" />
             turned out poor as Job's turkey in their coffins!
           </p>
         </sp>
@@ -707,7 +712,7 @@
           </speaker>
           <p>
             Oh, yes, but that's weak and
-            <pb n="481"/>
+            <pb n="481" />
             foolish, Jessie. No, Blanche —
             <stage>
               [ Sitting again .]
@@ -790,7 +795,7 @@
             Well, you know he always found fault with my
             parties
             being too mixed. He
-            <pb n="482"/>
+            <pb n="482" />
             wouldn't realize I couldn't throw over all my old set when I married into his, — not that I ever acknowledged I was your father's inferior. I consider my family was just as good as his, only we were
             Presbyterians!
           </p>
@@ -1148,7 +1153,7 @@
           </speaker>
           <p>
             If the slipper fits! But I confess I haven't eaten much for several days; I couldn't
-            <pb n="487"/>
+            <pb n="487" />
             touch anything this morning, and I begin to feel exhausted; I must have food and, thank Heaven, I want it. Thank you.
           </p>
         </sp>
@@ -1210,7 +1215,7 @@
           </speaker>
           <p>
             I don't see how you could
-            <pb n="488"/>
+            <pb n="488" />
             bear it — staying; but you never had any heart, Ruth.
           </p>
         </sp>
@@ -1344,7 +1349,7 @@
               [ She almost breaks down, but she controls herself .]
             </stage>
             This funeral is enough, with its show and worldliness! I don't believe there was a soul in the church you didn't see! Look at your handkerchief!
-            <pb n="490"/>
+            <pb n="490" />
             Real grief isn't measured by the width of a black border. I'm ashamed of you, Florence! I never liked you very much, although I tried to for your husband's sake, but now I'm even more ashamed of you. My dear brother is gone, and there need be no further bond between us, but I want you to understand the true reason why, from to-day, I keep away from you. This funeral was revolting to me! — a show spectacle, a social function, and for
             him
             who you know
@@ -1354,7 +1359,7 @@
               [ She stops a moment to control her tears and her anger .]
             </stage>
             I saw the reporters there, and I heard your message to them, and I contradicted it. I begged them not to use your information, and they were gentlemen and promised me not to. You are, and always have been, a silly, frivolous woman. I don't doubt you loved your husband as much as you could any man, but it wasn't enough for me;
-            <pb n="491"/>
+            <pb n="491" />
             he was worth being adored by the best and noblest woman in the world. I've stood by all these years, trying with my love and silent sympathy to be some comfort to him — but I saw the disappointment and disillusionment eat away the very
             hope
             of happiness out of his heart. I tried to help him by helping you in your foolish ambitions, doing what I could to give my brother's wife the social position
@@ -1380,7 +1385,7 @@
             It was not my fault if my best friends found you intolerable;
             I
             couldn't blame them. Well, now it's over! George is at rest, please God. You are a rich woman to do what you please. Go, and do it! and Heaven forgive you for ruining my brother's life! I'm sorry to have said all this before your children. Blanche, you
-            <pb n="492"/>
+            <pb n="492" />
             know how dearly I love you, and I hope you have forgiven me by now for my opposition to your marriage.
           </p>
         </sp>
@@ -1951,7 +1956,7 @@
           </stage>
           <p>
             Oh, don't talk to me now! You always preferred your father,
-            <pb n="501"/>
+            <pb n="501" />
             and now you're punished for it! He has wilfully left your mother and sisters paupers!
           </p>
         </sp>
@@ -2521,7 +2526,7 @@
           </speaker>
           <p>
             I didn't know! I've been so completely ignored in this entire conversation. But there is one thing for the girls — the easiest possible way for them to earn their living —
-            <pb n="508"/>
+            <pb n="508" />
             which you don't seem for a moment to have thought of!
           </p>
         </sp>
@@ -2976,7 +2981,7 @@
           </stage>
           <p>
             But do you
-            <pb n="514"/>
+            <pb n="514" />
             think it's quite right for me to take up all Mr Warden's time?
           </p>
         </sp>
@@ -3033,7 +3038,7 @@
               [ He kisses her .]
             </stage>
             It's only because I've been terribly worried. I don't want to bother you
-            <pb n="515"/>
+            <pb n="515" />
             with business, but I've been in an awful hole for money. I tried to make a big coup in Wall Street the other day and only succeeded getting in deeper, and for the last few days I've been nearly distracted.
           </p>
         </sp>
@@ -3444,7 +3449,7 @@
           </stage>
           <p>
             Promise her, Dick, before
-            <pb n="521"/>
+            <pb n="521" />
             me — give her your word of honor — you will be faithful to Aunt Ruth's trust.
           </p>
         </sp>
@@ -3824,7 +3829,7 @@
           </speaker>
           <p>
             That I told you a pack of lies!
-            <pb n="526"/>
+            <pb n="526" />
             — that I haven't any security! — that I haven't anything but
             debts
             .
@@ -4577,7 +4582,7 @@
           </speaker>
           <p>
             Mrs. Hunter went to the
-            <pb n="536"/>
+            <pb n="536" />
             most expensive decorator in town, and told him, no matter what it cost, to go ahead and do his
             worst!
           </p>
@@ -4687,7 +4692,7 @@
           </speaker>
           <p>
             He'd have had to — or do without
-            <pb n="538"/>
+            <pb n="538" />
             me as a son-in-law — I wouldn't marry the Venus of Milo if her father didn't think I was good enough. I'm no Dodo bird!
           </p>
         </sp>
@@ -4749,7 +4754,7 @@
           </speaker>
           <p>
             Humph! Do you think you
-            <pb n="539"/>
+            <pb n="539" />
             can talk five minutes with Mrs. Hunter and not hit that topic? It's a bull's eye!
           </p>
         </sp>
@@ -5014,7 +5019,7 @@
               [ There is an awkward pause for a moment, no one knowing quite what to say. Both Miss Godesby and Miss Sillerton have started the conversation in the direction of clothing and are fearful of the topic being changed. As the pause becomes embarrassing, they look helplessly from one to the other, and all five, suddenly and at once, make an ineffectual effort to say something — or nothing. Out of the general confusion Mrs. Hunter comes to the front, mistress of the situation .]
             </stage>
             Are
-            <pb n="544"/>
+            <pb n="544" />
             you going to stay in New York this winter, Mr. Trotter?
           </p>
         </sp>
@@ -5250,7 +5255,7 @@
           </speaker>
           <p>
             By the way, you were speaking just now of your winter frocks. It occurs to me —
-            <pb n="547"/>
+            <pb n="547" />
             of course I don't know as I really want to dispose of them, but — er —
           </p>
         </sp>
@@ -5457,7 +5462,7 @@
           </stage>
           <p>
             O dear! It breaks my heart not to wear my ball dress, my dear Julia; it was designed specially for me. I told Marie to put it on, mama; my clothes fit her perfectly,
-            <pb n="550"/>
+            <pb n="550" />
             and I thought it would show so much better what it is.
           </p>
         </sp>
@@ -6190,7 +6195,7 @@
           </speaker>
           <p>
             Don't you dare interfere! I want the gown, but I know she'll come down, — if she doesn't, I'll make a bluff at going. Then
-            <pb n="559"/>
+            <pb n="559" />
             if she sticks to her price, I'll come back and pay it.
           </p>
         </sp>
@@ -6706,7 +6711,7 @@
           </speaker>
           <p>
             Mrs. Sterling, I'm glad they left us
-            <pb n="566"/>
+            <pb n="566" />
             alone, because Mr. Mason said he hadn't been able to manage it — to see you alone — and yet he wanted
             you only
             to examine these. They are private papers of Mr. Hunter; he thought they ought not to be destroyed without being read, and yet
@@ -7599,7 +7604,7 @@
           </speaker>
           <p>
             He ain't nobody; he hasn't any money; he was just asked to fill up. He's one of these
-            <pb n="583"/>
+            <pb n="583" />
             yere singing chaps what's asked to pass the time after dinner with a song or two
             gratis
             . This dinner'll last him for food for a week!
@@ -7986,7 +7991,7 @@
           </speaker>
           <p>
             Yes. The reason I'm no longer
-            <pb n="588"/>
+            <pb n="588" />
             his broker is he was ashamed to let me know about his dealings.
           </p>
         </sp>
@@ -8602,7 +8607,7 @@
           </speaker>
           <p>
             Oh, that present has almost been my death! Men are so hard to find things for! I had put in a gold pencil for his key chain, but to-night while we were eating our oysters, I saw him show a beauty that his mother had given him this morning! So I whispered to Jordan between the soup and fish to change Mr. Ryder's name to Mr. Trotter's stocking, and put Mr. Trotter's name on the one that had a cigarette case in it. I sneaked a message down to Dick on my dinner card — was it all right? — and he sent back word during the game that Trotter only smoked cigars; so before the ices were passed I shuffled Mr. Trotter's and Mr. Mason's names, — I'd given Mason the cigar case; — and just as Jordan signalled to me the
-            <pb n="598"/>
+            <pb n="598" />
             transfer had been successfully effected, I heard Trotter casually observe he'd been obliged to give up smoking entirely —
             doctor's orders!
           </p>
@@ -8656,7 +8661,7 @@
           </speaker>
           <p>
             You never saw such a lot of
-            <pb n="599"/>
+            <pb n="599" />
             decoration! The game have ribbon garters on their legs, and even the raw oysters wear corsage bouquets!
             <stage>
               [ To Mrs. Hunter .]
@@ -8800,7 +8805,7 @@
               [ Blanche crosses to her mother and they go to one side together; Blanche speaks in a lowered voice .]
             </stage>
             You've amazed and
-            <pb n="601"/>
+            <pb n="601" />
             shocked me! I will not tolerate such a thing; we'll talk it over to-night.
           </p>
         </sp>
@@ -9573,7 +9578,7 @@
             she? That's what I want to know. I ask you if you haven't her bonds, to tell us here now, — tell
             us
             , who have been and must be still the best friends, perhaps the only friends, you can have. Tell us where we all stand — are we the only ones to suffer or are there others who will perhaps be less generous in their treatment of you? Tell us now while there is time perhaps to save us from public scandal, from the disgrace which would stamp your wife as the wife of a thief, and send your boy out into the world
-            <pb n="612"/>
+            <pb n="612" />
             the son of a convict cheat.
             <stage>
               [ She breaks down, but in a moment controls herself. There is no answer . Sterling sinks into a chair, his arms on the table, his head on his arms. A moment's silence .]
@@ -9700,7 +9705,7 @@
           </stage>
           <p>
             Remember, to help you
-            <pb n="614"/>
+            <pb n="614" />
             to help ourselves, we must know everything. Go on.
           </p>
         </sp>
@@ -9742,7 +9747,7 @@
           </stage>
           <p>
             Don't, Blanche, or I can't finish. Well, I borrowed on some of
-            <pb n="615"/>
+            <pb n="615" />
             Aunt Ruth's bonds and speculated — I made a hundred thousand in a week! I put back the bonds. But it had been so easy! I could see those bonds grinning at me through the iron side of the vault box. They seemed to smile and beckon, to
             beg
             me to take them out into the air again! They grew to be like living things to me, servants of mine to get me gold — and finally I determined to make one bigger coup than ever! I took Aunt Ruth's bonds out and all the money available in my trust, and put it
@@ -10100,7 +10105,7 @@
           </speaker>
           <p>
             O dear! I think mama would find
-            <pb n="622"/>
+            <pb n="622" />
             that awfully dull. Go on, swing me!
             <stage>
               [ Trotter swings her .]
@@ -10147,7 +10152,7 @@
           </stage>
           <p>
             Say! if you think you are going to run me and the whole
-            <pb n="623"/>
+            <pb n="623" />
             family, you're a Dodo bird! Remember that you're my daughter; you must wait a little it you want to be a mother-in-law.
           </p>
         </sp>
@@ -10225,7 +10230,7 @@
           </stage>
           <p>
             Somebody else
-            <pb n="624"/>
+            <pb n="624" />
             arriving!
             That's queer — nobody comes here in the winter; that's why we chose it, because it would be quiet! Let's play this game.
           </p>
@@ -10863,7 +10868,7 @@
           </speaker>
           <p>
             The Godesbys are coming. Trotter,
-            <pb n="632"/>
+            <pb n="632" />
             there's skating on the river near here, and they've skates in the house — don't you want a spin?
           </p>
         </sp>
@@ -11233,7 +11238,7 @@
           </speaker>
           <p>
             That was to please her mother.
-            <pb n="636"/>
+            <pb n="636" />
             No, if my money's gone, Sterling's got to suffer, and the one slight consolation I shall have will be that Blanche Sterling will have to come off her high horse.
           </p>
         </sp>
@@ -11362,7 +11367,7 @@
           </speaker>
           <p>
             She told Blanche they would be glad to have her here at one o'clock for breakfast. Blanche ordered the sleigh at once and went away, leaving word for me I was
-            <pb n="638"/>
+            <pb n="638" />
             to open any message which might come for her.
           </p>
         </sp>
@@ -11648,7 +11653,7 @@
           </speaker>
           <p>
             Perhaps I have, but I don't
-            <pb n="542"/>
+            <pb n="542" />
             feel in a very generous mood; I've some excuse — so please forgive me.
           </p>
         </sp>
@@ -11719,7 +11724,7 @@
             <stage>
               [ To Warden .]
             </stage>
-            <pb n="643"/>
+            <pb n="643" />
             Don't you think, under the circumstances, the wedding breakfast had better be called off, and my brother and I go back to town?
           </p>
         </sp>
@@ -11763,7 +11768,7 @@
           </speaker>
           <p>
             Oh, come, you know what sort of friends we are, — for the amusement we can get out of each other. This is the case, — I trusted this man with my affairs. He was very attractive — I don't deny that; business with Dick Sterling became more or less of a pleasure — but that
-            <pb n="644"/>
+            <pb n="644" />
             doesn't cut any ice with me; he's stolen my money. To put it plainly, he's a common thief, and he ought to be punished; why should he go scot free and a lot of others not? You know perfectly well his note wouldn't be worth the paper it was written on; and, anyway, if he hasn't gone and sneaked out of the world, I won't lift my little finger to keep him from the punishment he deserves!
           </p>
         </sp>
@@ -11801,7 +11806,7 @@
           </speaker>
           <p>
             I'm not choosing any way at all; I'm striking right out from the shoulder. There
-            <pb n="645"/>
+            <pb n="645" />
             isn't time for beating round the bush! I'm pleading for the good name and honorable position of a perfectly innocent, a fine, woman, and for the reputation and unimpeded career of her son! And I make that appeal as man to man and woman!
           </p>
         </sp>
@@ -11821,7 +11826,7 @@
           </speaker>
           <p>
             Now look here, Miss Godesby, you belong to a pretty tough crowd in society, but I know at heart you're not a bad sort! What good will it do you? Granted even that you don't care for Mrs. Sterling, still don't tell me you're the kind of woman to take a cruel pleasure in seeing another woman suffer! I wouldn't believe it! You're not one of those catty creatures! You're a clever woman, and I don't doubt you can be a pretty
-            <pb n="646"/>
+            <pb n="646" />
             hard one, too, at times; but you're
             just
             — that's the point now — you're
@@ -12118,7 +12123,7 @@
           </speaker>
           <p>
             You'd be willing to lose —
-            <pb n="650"/>
+            <pb n="650" />
             <stage>
               [ A revelation comes to her .]
             </stage>
@@ -12280,7 +12285,7 @@
             have never heard a hint; you
             showed
             just now your real surprise at what circumstances revealed to you! I'd die sooner than bring the slightest shadow of a scandal on her, and I've hugged my secret tight. Have you any idea what such a love means? How it grows and grows, its strength shut in, held back,
-            <pb n="653"/>
+            <pb n="653" />
             doubling and redoubling its powers! — its ideality increasing, the passion
             suppressed
             , locked up! Good God! I tremble sometimes when I think — suppose some day it should burst out,
@@ -12742,7 +12747,7 @@
           </speaker>
           <p>
             And I've more good news for you.
-            <pb n="659"/>
+            <pb n="659" />
             Mrs. Sterling — the
             Godesbys
             , too;
@@ -13328,7 +13333,7 @@
           </speaker>
           <p>
             What I say — I learned it then from a paper of my father's. I shouldn't have kept my knowledge to myself — I see that now; but I did, for your sake, not for love of you — the love went for good that day. But here, a moment ago, I realized
-            <pb n="667"/>
+            <pb n="667" />
             for the first time that my old friend
             did
             love me, love me with an ideal devotion the noblest woman in the world might be proud of! I didn't tell him then I loved him, but now I take this chance, I
@@ -13578,7 +13583,7 @@
               [ Ruth nods .]
             </stage>
             Thank you. I wanted to
-            <pb n="672"/>
+            <pb n="672" />
             see you before I saw any one else. You must help me decide, only
             you
             can.
@@ -13806,7 +13811,7 @@
               [ Taking and folding Blanche's hand .]
             </stage>
             But I want her not to decide anything now; wait till the first blows over, and then — well, then I
-            <pb n="675"/>
+            <pb n="675" />
             feel sure she will do the strong, noble thing — the difficult thing — not the easy.
           </p>
         </sp>
@@ -13877,7 +13882,7 @@
           </speaker>
           <p>
             No, but I'm not strong enough to fight out an unhappy life for the sake of setting an
-            <pb n="676"/>
+            <pb n="676" />
             example to other women — women who
             don't want
             the example set!
@@ -14194,7 +14199,7 @@
           </speaker>
           <p>
             And if I may be permitted to suggest, you will find Mr. Trotter's advice always pretty good to follow. That young man has better qualities than we have suspected. I have something
-            <pb n="680"/>
+            <pb n="680" />
             to thank him for; will you be good enough to ask him to come and see me?
           </p>
         </sp>
@@ -14687,7 +14692,7 @@
           </speaker>
           <p>
             Is that all! Brace up, help
-            <pb n="687"/>
+            <pb n="687" />
             yourself a little, and we can soon make a man of you.
           </p>
         </sp>
@@ -15042,7 +15047,7 @@
           </speaker>
           <p>
             Yes! I must take the true advantage of this chance your goodness gives me. I must right myself, so that people need not hesitate to
-            <pb n="692"/>
+            <pb n="692" />
             speak of his father in Richard's presence.
             And this I will do
             .
@@ -15099,7 +15104,7 @@
           </speaker>
           <p>
             And found ourselves at sunset at the
-            <pb n="693"/>
+            <pb n="693" />
             top instead of below, by our hotel! Oh, yes, I remember! The world changed for me that day.
           </p>
         </sp>
@@ -15142,7 +15147,7 @@
               [ She gives a little exclamation, half a sob, half a laugh .]
             </stage>
             It was in the corner of the garden; I can
-            <pb n="694"/>
+            <pb n="694" />
             smell the lilacs now! And the raindrops fell from the branches as my happy tears did on father's shoulder that night, when I said, "Father, he will make me the happiest woman in the world!"
           </p>
         </sp>
@@ -15187,7 +15192,7 @@
             to culminate on the day of our wedding. You men don't,
             can't
             realize, what that service means to a girl. In those few moments she parts from all
-            <pb n="695"/>
+            <pb n="695" />
             that have cherished her, made her life, and gives her whole self, her love, her body, and even her soul sometimes — for love often overwhelms us women — to
             the
             man who, she believes, wants,
@@ -15225,7 +15230,7 @@
             a festival — our wedding anniversary. After a while we kept the twenty-eighth of
             every month!
             The second
-            <pb n="696"/>
+            <pb n="696" />
             year you were satisfied with the twenty-eighth of April only, and last year you forgot the day altogether. And yet what a happy first year it was!
           </p>
         </sp>
@@ -15452,7 +15457,7 @@
           </speaker>
           <p>
             Well, the truth is, my fool of a
-            <pb n="700"/>
+            <pb n="700" />
             brother has kicked up an infernal row, and refuses to hold his tongue.
           </p>
         </sp>
@@ -15584,7 +15589,7 @@
               [ Exchanging a serious and meaning look with Warden .]
             </stage>
             But my
-            <pb n="702"/>
+            <pb n="702" />
             idiot of a brother won't realize that, which is the point. One thing more — will you both dine with me next week, Thursday?
             <stage>
               [ There is an embarrassed pause, which, with quick intuition, she understands .]
@@ -15860,7 +15865,7 @@
             And you'll accept that sacrifice! You don't even
             love
             her. You're only thinking
-            <pb n="706"/>
+            <pb n="706" />
             of
             yourself
             now. Love, real love, forgets itself. You, after having spoilt half her life, are willing to spoil the rest, for
@@ -16222,7 +16227,7 @@
           <p>
             Kill them with hard work;
             you have
-            <pb n="711"/>
+            <pb n="711" />
             other heavy debts
             , you know. I came to see you about this business of your acknowledgments to Miss Godesby and Miss Hunter.
           </p>
@@ -16448,7 +16453,7 @@
               [ He waits a moment .]
             </stage>
             God in
-            <pb n="716"/>
+            <pb n="716" />
             heaven, what wouldn't I give for one friendly word just now! Some one to sort of say
             good-by
             to me — take my hand — even a
@@ -16526,7 +16531,7 @@
           </speaker>
           <p>
             Nothing — I'm half asleep, that's
-            <pb n="717"/>
+            <pb n="717" />
             all — the reaction — I'm worn out and I've changed my mind —
           </p>
         </sp>

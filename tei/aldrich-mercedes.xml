@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000654" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000654" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           Mercedes
         </title>
         <author>
-          Aldrich, Thomas Bailey
+          <persName>
+            <forename>Thomas Bailey</forename>
+            <surname>Aldrich</surname>
+          </persName>
+          <idno type="wikidata">Q922191</idno>
+          <idno type="pnd">118644521</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-<particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="padrejoséf" sex="MALE">
             <persName>Padre Joséf .</persName>
@@ -100,7 +105,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1884">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -183,7 +188,7 @@
             </speaker>
             <p>
               With eyes staring at nothing, like an Egyptian idol! This is not amusing. You are as
-              <pb n="12"/>
+              <pb n="12" />
               gloomy to-night as an undertaker out of employment.
             </p>
           </sp>
@@ -314,7 +319,7 @@
             </speaker>
             <p>
               This village of Arguano which we are to discipline,
-              <pb n="15"/>
+              <pb n="15" />
               as the brave Junot would say, is it much of a village?
             </p>
           </sp>
@@ -376,7 +381,7 @@
             </speaker>
             <p>
               Why, that was consorting with the enemy! The Church is our deadliest foe now. Since
-              <pb n="17"/>
+              <pb n="17" />
               the bull of Pius VII., excommunicating the Emperor, we all are heretical dogs in Spanish eyes. His Holiness has made murder a shortcut to heaven.
               By poniarding or poisoning a Frenchman, these fanatics fancy that they insure their infinitesimal souls.
             </p>
@@ -901,7 +906,7 @@
             </speaker>
             <p>
               Ay, ay, go with the good padre, dear. There is dancing on the plaza. The gitanos are there,
-              <pb n="31"/>
+              <pb n="31" />
               mayhap. I hear the music. I had ever an ear for tamborines and castanets. When I was a slip of a girl I used to foot it with the best in the cachuca and the bolera. I was a merry jade, Mercedes — a merry jade. Wear your broidered garters, dear.
             </p>
           </sp>
@@ -1153,7 +1158,7 @@
                 (Takes up the child.)
               </stage>
               See, she has a smile for grandmother
-              <pb n="35"/>
+              <pb n="35" />
               ... Ah, no, little one, I have no milk for thee; the trouble has taken it all. Nay, cry not, dainty, or that will break my heart.
             </p>
           </sp>
@@ -2064,7 +2069,7 @@
             </speaker>
             <p>
               It is you who have broken faith. I should be the last of men if I had deserted you. Why,
-              <pb n="50"/>
+              <pb n="50" />
               even a dog has gratitude. How could I now look you in the face?
             </p>
           </sp>
@@ -2102,7 +2107,7 @@
             </speaker>
             <p>
               If I do not speak the truth, despise me! Since I left Arguano I have been at Lisbon, Irun, Aranjuez, among the mountains — I know not where, but ever in some spot whence it was impossible to get you tidings. A wall of fire and steel shut me from you. Thrice I have had my letters brought back to me — with the bearers' blood upon them; thrice I have trusted to messengers whose treachery I now discover. For a chance bit of worthless gold they broke
-              <pb n="51"/>
+              <pb n="51" />
               the seals, and wrecked our lives! Ah, Mercedes, when my silence troubled you, why did you not read the old letter again? If the words you had of mine lost their value, it was because they were like those jewels in the padre's story, which changed their color when the wearer proved unfaithful.
             </p>
           </sp>
@@ -2129,7 +2134,7 @@
                 (The girl stands with her hands crossed upon her bosom and looks at him with a growing light in her eyes.)
               </stage>
               It was the day before yesterday that our brigade returned to Burgos — at last! at last! O, love, my eyes were hungry for you! Then that dreadful order came. Arguano had been
-              <pb n="52"/>
+              <pb n="52" />
               to me what Mecca is to the Mohammedan — a shrine to be reached through toil and thirst and death. O, what a grim freak it was of fate, that I should lead a column against Arguano — my shrine, my Holy Land!
             </p>
             <p>
@@ -2156,7 +2161,7 @@
             </speaker>
             <p>
               I shall take you with me, Mercedes. Do you understand? You are to go with me to Burgos.
-              <pb n="53"/>
+              <pb n="53" />
               <stage>
                 (Aside.)
               </stage>
@@ -2314,7 +2319,7 @@
                 (Advances and salutes Louvois, who is half kneeling beside the body of the woman.)
               </stage>
               My
-              <pb n="56"/>
+              <pb n="56" />
               captain!
               <stage>
                 (Aside.)

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000466" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000466" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Battle of Bunkers-Hill
         </title>
         <author>
-          Brackenridge, H. H. (Hugh Henry)
+          <persName>
+            <forename>Hugh Henry</forename>
+            <surname>Brackenridge</surname>
+          </persName>
+          <idno type="wikidata">Q973734</idno>
+          <idno type="pnd">118659707</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -74,7 +79,7 @@
           <person xml:id="gardiner" sex="MALE">
             <persName>Gardiner</persName>
           </person>
-	 	 <person xml:id="richardson" sex="MALE">
+          <person xml:id="richardson" sex="MALE">
             <persName>Richardson</persName>
           </person>
         </listPerson>
@@ -97,7 +102,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1776">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -129,7 +134,6 @@
       <p>
         It is my fervent wish, that the Ruler of the Universe may Crown with Success, the Cause of Freedom , and speedily relieve our bleeding Country in whose Service YOU have distinguishedly exerted YOUR eminent Abilities, by assisting HER Deliberations in the grand Council of the Empire.
       </p>
-      <!--THE AUTHOR.-->
       <head>
         PROLOGUE  TO THE  BATTLE  OF
                                                         BUNKERS-HILL.
@@ -2856,7 +2860,6 @@ Supposed to be spoken, immediately after the Battle; By
                                                         Lieutenant Colonel
                                                         Webb , Aid de camp to General
                                                         Putnam.
-
 The Field is their's, but dearly was it bought,
   Thus long defended and severely fought.
 Now pale-fac'd death fits brooding o'er the strand,
@@ -2905,22 +2908,15 @@ Kind pow'rs, beneath your all-protecting shield,
 I now unsheath my sword, and take the field,
 Sure of success, with this sweet comfort giv'n,
 Who fights for Freedom , — fights the cause of Heav'n.
-
-
 Soldier
 An
 ODE on the Battle of BUNKERS-HILL. Sung and Acted by a
-
                                                                                   in a Military Habit, with his
                                                                                 Firelock, &amp;.mp;c.
 In the same Measure with a Sea Piece, Entitled
                                                                                 the Tempest.
-
   — Cease rude BOREAS, blust'ring railer —
 I.
-
-
-
 You bold warriors, who resemble, Flames, upon the distant hill,At whose view, the heroes tremble, Fighting with unequal skill.Loud-sounding drums now with hoarse murmurs, Rouse the spirit up to war,Fear not, fear not, tho' their numbers, Much to ours, superior are.Hear brave Warren bold commanding, "Gallant souls and vet'rans brave,See the enemy just landing, From the navy-cover'd wave.Close the wings — advance the center —  Engineers point well your guns — Clap the matches, let the rent air, Bellow to Britannia's sons."Now think you see, three thousand moving, Up the brow of Bunkers-Hill ,Many a gallant vet'ran, shoving, Cowards on against their will.The curling volumes all behind them, Dusky clouds of smoke arise,Our cannon-balls, brave boys shall find them, At each shot a heroe dies.Once more Warren midst this
                                                                                         terror, "Charge brave soldiers charge again,Many an expert vet'ran warrior Of the enemy is slain.Level well your charged pieces, In direction to the town;They shake, they shake, their light'ning ceases, That shot brought fix standards down."Maids in virgin beauty blooming, On Britannia's sea-girt isle,Say no more your swains are coming, Or with songs the day beguile.For sleeping sound in death's embraces, On their clay-cold beds they lie,Death, grim death, alas defaces, Youth and pleasure which must die."March the right wing Gard'ner
                                                                                         yonder, Take th' assailing foe in flank,The heroe's spirit lives in thunder, Close there Serjeants, close that rank,The conflict now doth loudly call or Highest proof of martial skill,Heroes shall sing of them, who fall on, The slipp'ry brow of Bunkers-Hill
@@ -2931,7 +2927,6 @@ A SPEECH
 On his entering the Town of Boston ,
                                                         at the Head of the American Army , after the British Troops were by his skilful Approaches obliged
                                                         to abandon it.
-
 Auspicious day, of happiness unmix'd!
   When this fair City, without blood-shed won,
 Receives to her sweet bosom, once again,
@@ -2970,20 +2965,13 @@ Let your festivity, be mix'd with thought,
 And sober judgment, on this grand event.
 March on, and take true pleasure to your arms,
 You all are bridegrooms, to fair joy to day.
-
 ARMYA  MILLITARY SONG,  BY THE
-
                                                                                   :
 On General Washington's
                                                                                 victorious entry into the Town of Boston.
-
-
-
 Sons of valour, taste the glories; Of Celestial Liberty ,Sing a Triumph o'er the Tories, Let the pulse of joy beat high.Heaven this day hath foil'd the many, Fallacies of George their King,Let the echo reach Britan'y, Bid her mountain summits ring.See yon Navy swell the bosom, Of the late enraged sea,Where e're they go we shall oppose them; Sons of valour must be free.Should they touch at fair Rhode-Island
   There to combat with the brave,Driven, from east hill, and highland, They shall pursugh the purple wave.Should they thence, to fair Virgin'y
   Bend a squadron to Dunmore ,Still with fear and ignominy, They shall quit, the hostile shore.To Carolina or to Georg'y , Should they next advance their fame,This land of heroes shall disgorge the, Sons of tyranny and shame.Let them rove to climes far distant, Situate under Artic skies,Call on Hessian troops assistant, And the Savages to rise.Boast of wild brigades from Russia, To fix down the galling chain,Canada and Nova Scotia, Shall discharge these Hords again.In New-York State, rejoin'd by Clinton , Should their standards mock the air,Many a surgeon, shall put lint on, Wounds of death, received there.War fierce war shall break their forces, Nerves of tory men shall fail,Seeing Howe with alter'd courses, Bending to the western gale.Thus, from every bay of ocean, Flying back, with sails unfurl'd,Tost with ever-troubl'd motion, They shall quit, this smiling world.Like Satan banished, from Heaven , Never see, the smiling shore,From this land so happy, driven, Never Stain, its bosom more.
-
-
                                         THE END.
       </p>
     </back>

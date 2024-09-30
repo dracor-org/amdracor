@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000475" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000475" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           Old Heads and Young Hearts
         </title>
         <author>
-          Boucicault, Dion
+          <persName>
+            <forename>Dion</forename>
+            <surname>Boucicault</surname>
+          </persName>
+          <idno type="wikidata">Q582694</idno>
+          <idno type="pnd">118659464</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -96,7 +101,7 @@
           <term subtype="am" type="playtype">
             prose
           </term>
-          <term subtype="am" type="content"/>
+          <term subtype="am" type="content" />
         </keywords>
       </textClass>
     </profileDesc>
@@ -104,7 +109,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1845">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -1012,7 +1017,7 @@
           </speaker>
           <p>
             You, perhaps, may never see the world as I do, Charles,
-            <pb n="9"/>
+            <pb n="9" />
             because I am poor — but a rich man's view of life is bounded
             by his parasites — he feels but through his glove and thinks
             all things are soft.
@@ -1569,7 +1574,7 @@
             Reproach, nay, not so — Nature gave him a great
             mind, me only an honest one. He was born for greater things
             than I, and so he had all that wealth could lavish on him —
-            <pb n="12"/>
+            <pb n="12" />
             I didn't grudge it him — he fed from the silver plate, I from
             the wooden platter — I cared nuaw't for that; but at his grand
             school, why did he find the houses of my lord this, and marquis
@@ -3038,7 +3043,7 @@
           <p>
             Young man, take my advice; a woman never likes
             her lover to be more careful of her character than she is herself,
-            <pb n="19"/>
+            <pb n="19" />
             or too provident in his heart's economy; your sex
             arrogates too much on the solitary advantage, which nature
             has given it over ours.
@@ -3451,7 +3456,7 @@
             I picqueted her in the hall with the baggage — happy
             to make you acquainted sir, — brought her up for a soldier's
             wife — perfect in her facings as a light company, and can
-            <pb n="21"/>
+            <pb n="21" />
             manoeuvre a battalion with any adjutant in the service; look
             at her walk, thirty inches regulation pace — head up — left leg
             forward — perfection! that's the way to put a girl into the
@@ -4505,7 +4510,7 @@
           </stage>
           <p>
             Your ladyship, may I entreat your
-            <pb n="27"/>
+            <pb n="27" />
             sympathy and beneficence in favour of a subscription I am
             raising for a poor creature, a widow with eight children?
           </p>
@@ -4597,7 +4602,7 @@
           <stage>
             (aside to him)
           </stage>
-          <p/>
+          <p />
         </sp>
         <sp who="#alicehawthorn">
           <speaker>
@@ -5207,7 +5212,7 @@
           </speaker>
           <p>
             No! I could amuse myself with your old drolls, but
-            <pb n="30"/>
+            <pb n="30" />
             nothing appears to me so slow as your
             soi-disant
             fast man.
@@ -5857,7 +5862,7 @@
           </speaker>
           <p>
             I will get the Colonel's consent — I'll do it at once before
-            <pb n="33"/>
+            <pb n="33" />
             I see Littleton — not a word to him. Let me surprise him
             with it.
           </p>
@@ -6305,7 +6310,7 @@
             <stage>
               (seals the letter)
             </stage>
-            <pb n="35"/>
+            <pb n="35" />
             Spirituelle — ha!
             <stage>
               (kisses the ring and returns it to her finger kissing her hand).
@@ -7179,7 +7184,7 @@
             night beneath this noble roof — I've despatched orders to
             Corporal Stripe to have the guard out, in their old uniforms
             — my travelling carriage will be here in two hours — I'll
-            <pb n="40"/>
+            <pb n="40" />
             canvass the whole town before breakfast. Ho! ho! damme
             I've never been so excited since Bhurtpore.
           </p>
@@ -7689,7 +7694,7 @@
           </stage>
           <p>
             Fame speaks highly of you, Mr. Crawl, and parliament
-            <pb n="42"/>
+            <pb n="42" />
             has its eye on you. Fortune favoured me when, twenty
             years ago, I selected your firm for my solicitors.
           </p>
@@ -8202,7 +8207,7 @@
           </stage>
           <p>
             Young man — I — take some — little interest in your
-            <pb n="44"/>
+            <pb n="44" />
             — Robert — I
             <stage>
               (checks himself)
@@ -8703,7 +8708,7 @@
           <p>
             But, my lord — Lady Alice, what can this mean — any
             hour ago he told me that he designed Lord Charles for Lady
-            <pb n="46"/>
+            <pb n="46" />
             Hawthorn, now he would give anything to see him married to
             Miss Rocket. This is all very strange — if he agree to the
             match between his son and her ladyship, and the colonel consent
@@ -9764,7 +9769,7 @@
             — she refused me a seat inside her carriage, damme, I'll take
             one outside her horse, and give Craft the slip — this is glorious
             — where is the livery, in the harness-room, I know, all right.
-            <pb n="51"/>
+            <pb n="51" />
             <stage>
               Enter Rural .
             </stage>
@@ -10609,7 +10614,7 @@
               (reads)
             </stage>
             —
-            <pb n="56"/>
+            <pb n="56" />
             "Express. — Elopement in high life. — Enormous fortune won
             by a young barrister. — We understand, from the best authority,
             that an elopement took place last night from the Opera.
@@ -11857,7 +11862,7 @@
           <p>
             A'm — a — a man of few words, and I don't think you
             loike me less for being honest. A've none of the ways
-            <pb n="61"/>
+            <pb n="61" />
             that the gay young fellows about town cultivate to win
             women's hearts with — because I never in my life intended
             to win but one, and I meant that should be my wife's.
@@ -12081,7 +12086,7 @@
             <stage>
               (points to the paper)
             </stage>
-            <pb n="62"/>
+            <pb n="62" />
             between ourselves, not a word, not even to minister; such
             things should be sacred, as our mother's grave — not a word.
           </p>

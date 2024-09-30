@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000320" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000320" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,10 +7,20 @@
           The Charity Ball
         </title>
         <author>
-          De Mille, Henry Churchill
+          <persName>
+            <forename>Henry Churchill</forename>
+            <surname>De Mille</surname>
+          </persName>
+          <idno type="wikidata">Q3784910</idno>
+          <idno type="pnd">172042658</idno>
         </author>
         <author>
-          Belasco, David
+          <persName>
+            <forename>David</forename>
+            <surname>Belasco</surname>
+          </persName>
+          <idno type="wikidata">Q562719</idno>
+          <idno type="pnd">118657984</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -115,7 +125,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1942">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -356,7 +366,7 @@
           </stage>
           <p>
             Oh, dear, no! He turns back and carries my books for me to Sixty-seventh
-            <pb n="206"/>
+            <pb n="206" />
             Street and then takes the elevated. Brother John caught us one morning. He knows we are sweethearts!
           </p>
         </sp>
@@ -1758,7 +1768,7 @@
               [ Throwing small handbag on table, C. ]
             </stage>
             I can't stir from
-            <pb n="213"/>
+            <pb n="213" />
             that office that Franklin Cruger doesn't take advantage of my absence. Creighton, your delay has cost us half a million.
           </p>
         </sp>
@@ -1939,7 +1949,7 @@
               [ Exit Creighton, C. ]
             </stage>
             The old fool! But I made my first step with his money. When I am through with him, I'll give him a pension. I'm shaking as though I had a chill! Not over the
-            <pb n="214"/>
+            <pb n="214" />
             voyage yet, I suppose.
             <stage>
               [ Takes out flask of brandy from handbag, pours brandy in cup, as he continues ]
@@ -2899,7 +2909,7 @@
           </stage>
           <p>
             When father died and your brother said I must come here, I felt like going down on my knees and telling him of our
-            <pb n="218"/>
+            <pb n="218" />
             love. Nothing but my promise to you kept me silent. Dick, don't say I did wrong to come — don't!
           </p>
         </sp>
@@ -6251,7 +6261,7 @@
           </stage>
           <p>
             Mr. Van Buren, that was a terrible shaking up you gave the old man today. Oh, we don't call you the "Earthquake" for nothing! When
-            <pb n="232"/>
+            <pb n="232" />
             I saw Mr. Cruger hanging over the ticker in the office, and making the air blue, in an undertone, I unloaded my two shares of Great Western preferred to auntie.
           </p>
         </sp>
@@ -6638,7 +6648,7 @@
               [ Looking off, into ballroom, L.2. ]
             </stage>
             The most remarkable thing about it is that she moves with perfect ease. I must interrogate Alexander further on the subject. I wonder where he disappeared to? Christmas day I managed to struggle through the dinner — I don't know what I ate. I was trying to avoid looking at Mrs. De Peyster. Every time she moved, I imagined I could hear it squeak! Dinner over, I made my excuses. The next morning I was on the Limited Express, bound for Chicago. Two days afterwards, she accepted me, by letter. She has
-            <pb n="234"/>
+            <pb n="234" />
             made our engagement public, and tonight I have been congratulated by dozens of people. Here's a dilemma! Linked for life to a fraction of a woman! After two weeks of investigation, I find that even Chicago cannot grapple with a case like this!
             <stage>
               [ Badge falls ]
@@ -10213,7 +10223,7 @@
           </stage>
           <p>
             "Out in the cold world, out in the street." Pretty severe storm this, Mr. Van Buren. Thought I would go to my room this way. Little shorter than through the parish buildings. Been playing chess for the last two hours with old Joe Randolph. He's a good player, but, lor! — he can't hold a candle to me. We had a spirited argument about a certain move which we
-            <pb n="248"/>
+            <pb n="248" />
             agreed to leave to you. You see my king's pawn tried to take his king's castle. By the way, how did you leave Matheson?
           </p>
         </sp>
@@ -11756,7 +11766,7 @@
               [ Comes down to Dick who sits in armchair before fireplace. Sits on his lap affectionately ]
             </stage>
             Dick, did you think I could tell all the others and forget you? Dick, I'm going to be a bride — a real one. I told brother John, and he sent me to angel. I didn't come to you
-            <pb n="256"/>
+            <pb n="256" />
             because I knew anything I wanted, you'd let me have — even if it were a husband. Guess whom I'm engaged to?
           </p>
         </sp>

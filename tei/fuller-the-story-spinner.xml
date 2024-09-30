@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000236" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000236" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Story-Spinner
         </title>
         <author>
-          Fuller, Henry Blake
+          <persName>
+            <forename>Henry Blake</forename>
+            <surname>Fuller</surname>
+          </persName>
+          <idno type="wikidata">Q4493340</idno>
+          <idno type="pnd">118703552</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-        <particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="bridegroom" sex="MALE">
             <persName>Bridegroom</persName>
@@ -94,7 +99,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1896">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -169,7 +174,7 @@
         </speaker>
         <p>
           I have never spoken of these matters to a
-          <pb n="162"/>
+          <pb n="162" />
           human soul before. I feel that I should have spoken earlier, or not at all.
         </p>
       </sp>
@@ -237,7 +242,7 @@
           I
           was
           to blame. Yet if ever there were excuse ...! This house was attacked at night. We fled — the chances of war. The babe and I were separated from its parents. I plunged frantically into the wood, with that week-old child; all was dark, save for our
-          <pb n="163"/>
+          <pb n="163" />
           burning roofs. I hid the child and sought long for food and shelter. These I found at length — but the child, never. I groped my way back toward her — I searched vainly for the spot. I saw her no more; I did not see her parents for a year. Then the wars were over; our household was once more gathered together. I returned, too. And I brought a child with me.
         </p>
       </sp>
@@ -349,7 +354,7 @@
         </speaker>
         <p>
           Proceed? Have I not said enough? That
-          <pb n="164"/>
+          <pb n="164" />
           night in the forest — the loss of my charge — that year of remorseful wanderings — that bartering with the gipsy band — the odious and lasting lies that followed my return — the finding, years after, of those little bones — the death of all those other innocents from the pestilence — Is not that enough? Are you insatiable?
         </p>
       </sp>
@@ -588,7 +593,7 @@
         </speaker>
         <p>
           I am one who is fond of a good story.
-          <pb n="166"/>
+          <pb n="166" />
           And I am always on the side of youth and love and beauty.
         </p>
       </sp>
@@ -896,7 +901,7 @@
         </stage>
         <p>
           My hand is now in the
-          <pb n="169"/>
+          <pb n="169" />
           flames, indeed!
           <stage>
             ( To the Uncle , with increased dignity .)
@@ -1442,7 +1447,7 @@
         </speaker>
         <p>
           Well and good. The boy was brought there by one of the monks. The monk had received him at the hands of a robber chief. The robber, dying, confessed to the monk that the boy, the son of noble parents,
-          <pb n="173"/>
+          <pb n="173" />
           had been stolen away by his own band. I was lodging in the monastery when the monk and his young charge arrived. I know that youth's whole history. He stands this moment between you, and he is the heir not of Montegrifone but of Belcaro — not your son, but
           yours
           .

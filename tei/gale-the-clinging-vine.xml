@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000231" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000231" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Clinging Vine
         </title>
         <author>
-          Gale, Rachel E. (Baker)
+          <persName>
+            <forename>Rachel Elizabeth</forename>
+            <surname>Baker Gale</surname>
+          </persName>
+          <idno type="wikidata">Q17421725</idno>
+          <idno type="pnd">1013546938</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-<particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="mrsredding" sex="FEMALE">
             <persName>Mrs. Redding</persName>
@@ -127,7 +132,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1913">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -801,7 +806,7 @@
             ( All the members rise with great decision .)
           </stage>
           Contrary minded?
-          <pb n="8"/>
+          <pb n="8" />
           <stage>
             ( Members have resumed their seats .)
           </stage>
@@ -973,7 +978,7 @@
         </stage>
         <p>
           Why! The members seem to
-          <pb n="9"/>
+          <pb n="9" />
           be divided. Has there been any trouble? I hope that I have not
           missed
           anything.
@@ -1086,7 +1091,7 @@
             ( Members on the right show great interest — PRIS. seated at right of table; beside her should be a chair for MRS. REDDING.)
           </stage>
           Miss Peabody and Miss Dane, we have called you here to help us to decide a very important question. One of our members,
-          <pb n="10"/>
+          <pb n="10" />
           a former president, has broken her vows to support the principles, which make for this club its high standard of progress and equal suffrage.
         </p>
       </sp>
@@ -1232,7 +1237,7 @@
         </speaker>
         <p>
           Mrs. Redding, when you became a member of this club, you pledged yourself to observe its rules and regulations.
-          <pb n="11"/>
+          <pb n="11" />
           You were a leader among us. An honored president.
           <stage>
             ( Turns and sees BRID.)
@@ -1680,7 +1685,7 @@
         </stage>
         <p>
           Madam President and members of the Bartonville Woman's Club, upon this table are three articles
-          <pb n="13"/>
+          <pb n="13" />
           which we believe will prove that Mrs. Redding has violated the laws of this club.
           <stage>
             ( Holds up the different articles in turn .)
@@ -2886,7 +2891,7 @@
           For one whole year the influence of Mrs. Redding's lack of interest has been felt and is doing a great deal of harm to this club. This matter had to be stirred up, and I was the only one who had the backbone to do it. If I
           have
           made a cap, a shirt and a loaf of bread, I have not neglected the club. Suppose that every member did not attend for a whole year. What would become of your
-          <pb n="19"/>
+          <pb n="19" />
           Municipal League? I can take care of my family, and the club, too.
         </p>
       </sp>
@@ -3312,7 +3317,7 @@
         </speaker>
         <p>
           Yas, I has de 'formation an' it am 'portant, too. If de ladies ob dis yere club think dat ma Miss Jane ain't doin'
-          <pb n="22"/>
+          <pb n="22" />
           nuffin dese yere days — ain't doin' her duty to de world, I jest wants to tell 'em dat
           she
           am de pusson what am gwine to build de place for de little indignant chillun.

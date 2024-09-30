@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000659" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000659" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           Captive of Castile
         </title>
         <author>
-          Alcott, Louisa May
+          <persName>
+            <forename>Louisa May</forename>
+            <surname>Alcott</surname>
+          </persName>
+          <idno type="wikidata">Q185696</idno>
+          <idno type="pnd">118644475</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -79,7 +84,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1893">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -123,7 +128,7 @@
           </speaker>
           <p>
             This summer sky, darkened by storm, is a fit emblem of my life. O happy England, why did I leave thee; why let dreams of fame and honor win me from a home, to wander now a lonely and bewildered fugitive? But why do I repine? Life, health, and a brave heart yet are mine; and 'mid all my peril, God may send some joy to cheer me on to happiness and honor. Hist! a footstep. 'T is a light one, but a Moorish foe steals like
-            <pb n="98"/>
+            <pb n="98" />
             a serpent on his prey. I'll hide me here, and if need be I'll sell my life as a brave man should
             <stage>
               [ conceals himself among the trees ].
@@ -187,7 +192,7 @@
           </speaker>
           <p>
             It were uncourteous to refuse thy bidding, lady. Ernest L'Estrange is the name now honored by the poor service I may do thee. In the Spanish army I came hither, and fear I have seen the last
-            <pb n="100"/>
+            <pb n="100" />
             of home or friends. The Moors now seek my life, and ere I can rejoin my ranks, I may be a slave. But the storm draws nearer. Let me lead thee to some shelter, lady.
           </p>
         </sp>
@@ -232,7 +237,7 @@
           </speaker>
           <p>
             Joyful tidings. Zara! Grenada is free. Here, love, are gems for thee; they have shone on many a fair lady's neck, but none more fair than thine. And here are things more precious far to me than all their gold and gems, — a goodly
-            <pb n="102"/>
+            <pb n="102" />
             list of prisoners taken in the fight, and sent to cool their Spanish blood in our deepest cells. Ah, many a proud name is here, — Ferdinand Navarre, Carlos of Arragon, Lord L'Estrange, and Baron Lisle. But, child, what ails thee?
           </p>
         </sp>
@@ -263,7 +268,7 @@
               [ kneels ].
             </stage>
             Be merciful! Leave not the English lord to the dark and fearful doom that
-            <pb n="103"/>
+            <pb n="103" />
             waits him. I know too well the life-long captivity, more terrible than death itself, that is his fate. Oh, speak! Say he is forgiven, Father!
           </p>
         </sp>
@@ -282,7 +287,7 @@
           </speaker>
           <p>
             Father, thou hast often told me woman's lot was 'mid the quiet scenes of home, and that no thoughts of fame or glory should lie within a heart where only gentleness and love should dwell; but I have learned to honor bravery and noble deeds, and I would pledge my troth for the
-            <pb n="104"/>
+            <pb n="104" />
             noble stranger. See the English knight, and if he win thee not to gratitude, thou art not the tender father who, through long years, hath so loved and cherished thy motherless child.
           </p>
         </sp>
@@ -306,7 +311,7 @@
             Ah, there was a time when Zara's lightest wish was gladly granted. This cruel war hath sadly changed my father; he hath forgotten all his generous pity for suffering and sorrow. But my work is yet undone, and the stranger is a captive. He
             shall
             be free, and I will pay the debt of gratitude I owe him. I will brave my father's anger; but whom can
-            <pb n="105"/>
+            <pb n="105" />
             I trust to aid me? Ha! Selim! He is old and faithful, and will obey
             <stage>
               [ claps her hands ].
@@ -350,7 +355,7 @@
           </speaker>
           <p>
             Listen, Selim, while I tell thee what I seek. Thou knowest an English soldier saved and led me from the forest yonder, and thou knowest how my father thanked and blessed the unknown friend who had so aided me. Yet now, when it is in his power to show the gratitude he felt, he will not, and has doomed the man he
-            <pb n="106"/>
+            <pb n="106" />
             once longed to honor to a lonely cell to pine away a brave heart's life in sorrow and captivity. I would show that gentle stranger that a woman never can forget. I would free him. Thou hast the keys. This is the service I now crave of thee.
           </p>
         </sp>
@@ -409,7 +414,7 @@
           </speaker>
           <p>
             Thanks, good Selim, thanks; thou shalt find a grateful friend in her thou hast served so well. I will disguise me as a female slave, and thou shalt lead me to the cell. Now go; I will join
-            <pb n="108"/>
+            <pb n="108" />
             thee anon.
             <stage>
               [ Exit Selim .]
@@ -647,7 +652,7 @@
           </stage>
           <p>
             Not for thy life, child! Revenge is sweet, and I have waited long for mine. The king hath granted this; were it destroyed, the captives might escape ere I could win another. Nay, Zara, this is dearer to me than thy most priceless gems. To-night it shall be well guarded 'neath my pillow. Go to thy flowers, child. These things are not for thee, — thou art growing pale and sad.
-            <pb n="117"/>
+            <pb n="117" />
             Remember, Zara, thou art nobly born, and let no foolish pity win thee to forget it.
           </p>
         </sp>
@@ -669,7 +674,7 @@
             be! When this wild hate hath passed, my father will repent. Alas! 't will be too late.
             I
             will save him from that sorrow when he shall find he hath wronged a noble heart, and slain the friend he should have saved. But stay! how shall I best weave my plot? That fatal paper, once destroyed, I will implore and plead so tenderly, my father will repent; and ere another scroll can reach his hands, I will have won thy freedom, Ernest!
-            <pb n="118"/>
+            <pb n="118" />
             This night beneath his pillow it will be; and I, like a midnight thief, must steal to that couch, and take it hence. Yet, it shall be done, for it will save thee, Father, from a cruel deed, and gain a brave heart's freedom. Ernest, 't is for thee! for thee!
           </p>
         </sp>
@@ -744,7 +749,7 @@
           </speaker>
           <p>
             I have trusted thee as few would trust a child. Thou art fair and gentle, and I had thought true. Never, Zara, till now hast thou deceived me; and if thou wouldst keep thy father's love and trust, I bid thee answer truly. Didst thou, in the dead of night steal to my pillow, and bear hence the paper I had told thee would be there? Thy slave girl, Zillah,
-            <pb n="121"/>
+            <pb n="121" />
             missed thee from thy couch, and saw thee enter there. She feared to follow, but none other came within my chamber, and this morn the scroll is gone. Now answer, Zara! Didst thou take the warrant, and where is it now?
           </p>
         </sp>
@@ -766,7 +771,7 @@
           </speaker>
           <p>
             Thou canst plead well for thy father's and thy country's foe. What strange fancy hath possessed thee, Zara? Thou hast never wept, tho' many a Christian
-            <pb n="122"/>
+            <pb n="122" />
             knight hath pined and died within these walls; and even now, methinks, thou speakest more of gratitude than mercy, and seem strangely earnest for the English lord who did thee some small service long ago. Speak, Zara! wouldst thou save them
             all?
             Were I to grant thee all their lives save his, wouldst thou be content to let
@@ -801,7 +806,7 @@
           </speaker>
           <p>
             Never! I will not forget the love that like a bright star hath come to
-            <pb n="123"/>
+            <pb n="123" />
             cheer my lonely heart. I will
             not
             forget the noble friend who, 'mid his fiercest foes, could brave all dangers to restore an unknown maiden to her home. And when I offered liberty (for I have disobeyed and dared to seek his cell), he would not break the word he had plighted, Father, unto thee. He bade me tempt him not, for death were better than dishonor. Ah, canst thou doom him to a felon's death? Then do it; and the hour that sees that true heart cease to beat, that hour thou hast lost the child who would have loved and clung to thee through life.
@@ -822,7 +827,7 @@
           </speaker>
           <p>
             'T is all I ask; grant me but
-            <pb n="124"/>
+            <pb n="124" />
             this, and I will give thee all the gratitude and love this poor heart can bestow.
           </p>
         </sp>
@@ -902,7 +907,7 @@
           </speaker>
           <p>
             Then swear by all thou dost hold most dear, and by thy mother's spirit, to
-            <pb n="126"/>
+            <pb n="126" />
             wed one only of thy father's race; and through joy and sorrow, thro' youth and age, to keep thy vow unbroken until death.
           </p>
         </sp>
@@ -933,7 +938,7 @@
           </speaker>
           <p>
             'T is over! The bright dream is past. Oh, Ernest! few will love thee as I have done; few suffer for thee all that I so gladly bear; and none can honor thy true, noble heart more tenderly than she whose hard lot it is to part from thee forever. Still amid my blighted hopes one thought can brighten my deep sorrow, — this sacrifice
-            <pb n="127"/>
+            <pb n="127" />
             but renders me more worthy of thee, Ernest. Now farewell, love; my poor heart may grieve for its lost joy, and look for comfort but in Heaven.
           </p>
         </sp>
@@ -1094,7 +1099,7 @@
           </speaker>
           <p>
             Ernest, I sought to save thee; for I had learned to love the noble stranger who had done so kind a deed for me. I sought to win my father back to gratitude. I wept and sued in vain, — he would not grant thy life, the boon for which I prayed. Alone I watched above thee, and when the warrant for thy death was sent, I took it from his pillow and destroyed it. Thou wast safe. My father charged me with the deed; and when I told him all, he bid me love no more, and leave thee to thy fate. He bid me show how strong my woman's heart could be, and told me if I yet desired thy freedom, I might win it if I took a solemn vow to
-            <pb n="132"/>
+            <pb n="132" />
             wed none but of my father's race. I took the vow, and thou art free. Ah, no more! — and let us part while yet I have the strength to say farewell.
           </p>
         </sp>
@@ -1114,7 +1119,7 @@
           </speaker>
           <p>
             Ernest, tempt me not. By that sad vow I swore by all my future hopes, and by my dead mother's spirit, I would never listen to thy words of love. And stern and cruel tho' my father be, I cannot leave him now. Deep and bitter though this sorrow be, 't is nobler far to bear the burden than to cast it down and seek in idle joys to banish penitence; for thorns would lie amid the flowers. Farewell! Forget me, and in happy England find some other heart to gladden with thy love. Oh,
-            <pb n="133"/>
+            <pb n="133" />
             may she prove as fond and faithful as thy Moorish Zara.
           </p>
         </sp>
@@ -1141,7 +1146,7 @@
               [ Weeps .]
             </stage>
             I will seek the good priest who hath so long watched above the motherless child. I
-            <pb n="134"/>
+            <pb n="134" />
             must find rest in some kind heart, and he will cheer, and teach me how to suffer silently. I will seek old Hernando's cell.
           </p>
         </sp>
@@ -1183,7 +1188,7 @@
           </speaker>
           <p>
             No, no; we shall never meet again on earth. Ah, holy father, they who told thee of my love for one who well might win the noblest heart, have told thee but the lightest part of the deep grief that bears me down. Listen to me, Father,
-            <pb n="136"/>
+            <pb n="136" />
             and then give me comfort if thou canst. To win my lover's freedom, I have sworn a solemn oath to wed none but of my father's race. Ernest came from sunny England, and I am the daughter of a Moorish lord. Alas, 't is vain to hope! The vow is given, and must be kept.
           </p>
         </sp>
@@ -1210,7 +1215,7 @@
           </speaker>
           <p>
             Calm thyself, poor child; it will be well with thee, and thou shalt yet blossom in thy loveliness beside the heart thou hast won. I will tell thee the true tale of thy fair mother's life. She loved and wed a stranger, and thus won the hatred
-            <pb n="137"/>
+            <pb n="137" />
             of her Moorish kindred, who sought to win her for their prince's bride. And when she fled away with him to whom her true heart's love was given, they vowed a fierce revenge. Years passed away; she drooped and died. Thy father perished bravely on the field of battle, and left his child to me. I stood beside thy mother's dying bed, and vowed to guard her babe till thou wert safe among thy Moorish kindred. I have watched thee well, and thou art worthy all the happiness thy true heart hath won. Bernardo of Castile is but thy mother's friend; thy father was an English lord, and thou canst keep thy vow, and yet wed the brave young Englishman who hath won thy love.
           </p>
         </sp>
@@ -1229,7 +1234,7 @@
           </speaker>
           <p>
             Thy joy, dear child, is my reward. When thou art safe with him thou
-            <pb n="138"/>
+            <pb n="138" />
             lovest, my task on earth is done, and I shall pass away with happy thoughts of the sweet flower that bloomed beside the old man's path through life, and cheered it with her love. Bless thee, my Zara, and may the spirit of thy mother watch above thee in the happy home thou hast gained by thy noble sacrifice.
           </p>
         </sp>
@@ -1281,7 +1286,7 @@
           </p>
           <p>
             Brave and true unto the last! O heart! thou mayst well beat proudly, for thou hast won a noble prize in the love of Ernest L'Estrange. Time flies; this night the city is betrayed, and we must fly.
-            <pb n="140"/>
+            <pb n="140" />
             Bernardo, lord of fair Castile, is a traitor. Ah, thank Heaven he is
             not
             my father! Yet for the love I bore him as a child, he shall be saved; and I will cheer and comfort him now that the dark hour of his life has come.
@@ -1322,7 +1327,7 @@
           </speaker>
           <p>
             Thou wouldst betray, and art thyself betrayed; and were it not for him whom thou hast wronged and hunted, ere to-morrow's dawn thou wouldst be no more, and I a homeless wanderer. Here!
-            <pb n="141"/>
+            <pb n="141" />
             read the scroll, and see how well the false king keeps his word he plighted thee for thy deed of treachery.
           </p>
         </sp>
@@ -1366,7 +1371,7 @@
           </stage>
           <p>
             And thus do I use it! No eye shall ever read these words that do betray thee; no tongue call clown dishonor on thy head. Thy plot is
-            <pb n="142"/>
+            <pb n="142" />
             not yet known, and ere to-night the gates may be well guarded. Thou mayst fly in safety, and none ever know the stain upon thy name. Thou whom I once called father, this is my revenge. I know all the wrong thou hast done me, — the false vow I made to save the life of him I loved. Zara's pity and forgiveness are thine, freely given; and her prayer is that thou mayst find happiness in some fair land where only gentle thoughts and loving memories may be thine.
           </p>
         </sp>
@@ -1393,7 +1398,7 @@
           </speaker>
           <p>
             'T is well; and now, my Zara, ere
-            <pb n="143"/>
+            <pb n="143" />
             the dawn of another day we must be far beyond the city gates. Selim shall guide us, and once free, together we will seek another and a happier home. Courage, my child, and haste thee. I will prepare all for our flight. Remember, when the turret bell strikes seven, we meet again.
           </p>
         </sp>
@@ -1471,7 +1476,7 @@
           </speaker>
           <p>
             Then let us hence. All is prepared; thy father shall be saved. This night shall see us on our way to liberty; and in a fairer land we may forget the danger, sorrow, and captivity that have
-            <pb n="145"/>
+            <pb n="145" />
             been ours. Come, dearest, let me lead thee.
           </p>
         </sp>

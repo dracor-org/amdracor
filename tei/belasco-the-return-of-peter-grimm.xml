@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000515" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000515" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Return of Peter Grimm
         </title>
         <author>
-          Belasco, David
+          <persName>
+            <forename>David</forename>
+            <surname>Belasco</surname>
+          </persName>
+          <idno type="wikidata">Q562719</idno>
+          <idno type="pnd">118657984</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-        <particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="catherine" sex="FEMALE">
             <persName>CATHERINE</persName>
@@ -91,7 +96,6 @@
           </person>
         </listPerson>
       </particDesc>
-
       <textClass>
         <keywords>
           <term subtype="am" type="genreTitle">
@@ -110,7 +114,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1928">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -436,7 +440,7 @@
           </speaker>
           <p>
             James: there's a good opportunity for a young
-            <pb n="414"/>
+            <pb n="414" />
             man like you in our Florida house. I think that if I spoke for you —
           </p>
         </sp>
@@ -967,7 +971,7 @@
               ( Then changing .)
             </stage>
             Is it — er — a good offer? Is Hicks willing to
-            <pb n="418"/>
+            <pb n="418" />
             make it worth while?
             <stage>
               ( Catching his uncle's astonished eye — apologetically .)
@@ -1295,7 +1299,7 @@
           </stage>
           <p>
             Uncle Peter, I think you're unfair to James. We used to have him to dinner very
-            <pb n="420"/>
+            <pb n="420" />
             often before he went away. Now that he's back, you treat him like a stranger.
           </p>
         </sp>
@@ -1798,7 +1802,7 @@
           </speaker>
           <p>
             No, I don't. You're a great expert in your line, Mr.
-            <pb n="423"/>
+            <pb n="423" />
             Grimm, and I have the greatest respect for your opinion; but you can't mate people as you'd graft tulips. And more than once, I've — I've caught her crying and I've thought perhaps ...
           </p>
         </sp>
@@ -1975,7 +1979,7 @@
           </speaker>
           <p>
             What? You who were so glad to come back! James,
-            <pb n="425"/>
+            <pb n="425" />
             you need a holiday. Close your desk. Go out and busy yourself with those pet vegetables of yours. Change your ideas; then come back sane and sensible, and attend to your work.
             <stage>
               ( Giving a kit shot at James as he passes into the office and Frederik re-enters .)
@@ -2575,7 +2579,7 @@
           </speaker>
           <p>
             My God, Peter! That dog is fifteen years
-            <pb n="429"/>
+            <pb n="429" />
             old now. Do you expect nothing to change in your house? Man, you're a home worshipper. However, I — I see no reason why —
             <stage>
               ( lying )
@@ -2775,7 +2779,7 @@
           <p>
             You ask me why? Why can't a telegram travel on a fence instead of on a wire? Your friends
             could
-            <pb n="431"/>
+            <pb n="431" />
             come back to you if you could put yourself in a receptive condition; but if you cannot, you must depend upon a medium — a sensitive.
           </p>
         </sp>
@@ -2908,7 +2912,7 @@
             And they can't tuck it
             all
             on telepathy.
-            <pb n="432"/>
+            <pb n="432" />
             Telepathy cannot explain the case of a spirit-message giving the contents of a sealed letter known only to the person that died. Here's another interesting case.
           </p>
         </sp>
@@ -3543,7 +3547,7 @@
           </stage>
           <p>
             Ah, my dear friend! Many thanks for the flowers William brought us, and the noble cheque you sent
-            <pb n="437"/>
+            <pb n="437" />
             me. We're still enjoying the vegetables you generously provided. I
             did
             relish the squash.
@@ -4192,7 +4196,7 @@
           </stage>
           <p>
             That wasn't my reason for detaining you,
-            <pb n="441"/>
+            <pb n="441" />
             Andrew.
             <stage>
               ( With a twinkle in his eye .)
@@ -5067,7 +5071,7 @@
               ( With a change of manner — earnestly — looking at Frederik .)
             </stage>
             Frederik, I don't want to go away. I don't want to go to Europe. If only I could stay quietly
-            <pb n="448"/>
+            <pb n="448" />
             here in —
             <stage>
               ( tears in her voice as she looks around the room )
@@ -6469,7 +6473,7 @@
             You were perfectly right about it, Thomas, I
             should
             have made a will ... I — suppose
-            <pb n="459"/>
+            <pb n="459" />
             it
             is
             a little too late, isn't it? ... It would be — er — unusual to do it now, wouldn't it?
@@ -6573,7 +6577,7 @@
               ( He goes to his own particular peg in the vestibule and hangs up his hat. He glances at the wedding presents. Presently he sees the flowers which Catherine has placed on the desk. With a smile, he touches the flowers. Marta enters with another lamp, which she places on a table. As Peter's eyes rest on Marta, he nods and smiles in recognition, waiting for a response .)
             </stage>
             Well, Marta? ... Don't you know your old master? ...
-            <pb n="460"/>
+            <pb n="460" />
             No? ... No? ...
             <stage>
               ( She winds the clock and leaves the room .)
@@ -6666,7 +6670,7 @@
           </stage>
           <p>
             Hello? ... You don't
-            <pb n="461"/>
+            <pb n="461" />
             feel well, you say?
             <stage>
               ( Then echoing the purport of Hicks' answer .)
@@ -6796,7 +6800,7 @@
               ( She sits in a reverie. Peter continues with the air of a returned traveler relating his experiences .)
             </stage>
             She heard that I had crossed over and there she was — waiting for me. You're
-            <pb n="463"/>
+            <pb n="463" />
             thinking of it, aren't you? Wondering if we met. ... Yes, that was the first interesting experience. She knew me at once. "You were Peter Grimm," she said, "before you knew better" — that's what
             they
             call leaving
@@ -6976,7 +6980,7 @@
           </speaker>
           <p>
             That's odd: so have I! Been as restless
-            <pb n="465"/>
+            <pb n="465" />
             as a hungry mouse. Something seemed to draw me down here — can't explain it.
           </p>
         </sp>
@@ -7405,7 +7409,7 @@
           </speaker>
           <p>
             But I will say it — I will speak my mind. I don't care how fond you were of your uncle or how much he did for you
-            <pb n="469"/>
+            <pb n="469" />
             — it wasn't right to ask this of you. It wasn't fair. The whole thing is the mistake of a
             very
             obstinate old man.
@@ -7840,7 +7844,7 @@
               ( Frederik rises — in deep thought .)
             </stage>
             Yes! Call her! Tell her the truth. Give her back her promise. ... Give her back her home. ... Close the door on a peaceful, happy, silent room and go. Think — think
-            <pb n="473"/>
+            <pb n="473" />
             of that moment when you give her back her freedom! Think of her joy, her gratitude, her affection. It's worth living for, lad. Speak! Make haste and call her, Fritz.
             <stage>
               ( Frederik takes several steps — then turns back to the desk. He tears the letter in two, muttering to himself , "Damn the woman," and sinks into his chair .)
@@ -8408,7 +8412,7 @@
             Think of what most of us have to endure before
             we
             know better! Why, William,
-            <pb n="478"/>
+            <pb n="478" />
             you're going into the circus without paying for a ticket. You're laying down the burden before you climb the hill. And in your case, William, you are fortunate indeed; for there are some little soldiers in this world already handicapped when they begin the battle of life. ... Their parents haven't fitted them for the struggle. ... Like little moon moths, — they look in at the windows; they beat at the panes; they see the lights of happy firesides — the lights of home; but they never get in. ... You are one of these wanderers, William. ... And so, it is well for you that before your playing time is over — before your man's work begins, — you're going to know the great secret. Happy boy! No coarsening of your child's heart, until you stand before the world like Frederik; no sweat and toil such as dear old James is facing; no dimming of the eye and trembling of the hand such as the poor old Doctor shall know in time to come; no hot tears to blister your eyes, ... tears such as Katie is shedding now; but, in all your youth, your faith — your innocence, — you'll fall asleep and oh! the awakening, William! ... "It is well with the
             child
             ."
@@ -10358,7 +10362,7 @@
           </stage>
           <p>
             "To be forwarded to the 'London Society for Psychical Research': Dr.
-            <pb n="490"/>
+            <pb n="490" />
             Hyslop: Dear Sir: This evening at the residence of Peter — "
             <stage>
               ( pauses and inserts "the late" and continues to read after inserting the words )
@@ -10566,7 +10570,7 @@
           </stage>
           <p>
             Marget, I'm at Peter's. I
-            <pb n="492"/>
+            <pb n="492" />
             mean — I'm at the Grimms'. Send me my bag. I'll stay the night with William. Bye.
           </p>
         </sp>
@@ -10683,7 +10687,7 @@
           </speaker>
           <p>
             Let us hope that there's not a word of truth in it. Don't you think, Doctor — mind, I'm not
-            <pb n="493"/>
+            <pb n="493" />
             opposing your ideas as a clergyman,, — I'm just echoing what
             everybody else
             thinks — don't you believe these spiritualistic ideas, leading
@@ -10797,7 +10801,7 @@
           </speaker>
           <p>
             I think so, my boy. I think several in
-            <pb n="494"/>
+            <pb n="494" />
             this house have come to their senses. Catherine has, for one. I'm very glad to see you back, Frederik. I have a few questions to put to you.
           </p>
         </sp>
@@ -10897,7 +10901,7 @@
           </speaker>
           <p>
             And just before I — I saw him — I — I had the ... the strangest impulse to go to the foot of the stairs and
-            <pb n="495"/>
+            <pb n="495" />
             call Kitty — give her the house — and run — run — get out of it.
           </p>
         </sp>
@@ -11149,7 +11153,7 @@
           </stage>
           <p>
             — Yes! How do you think I got the money? I went to jail for it — jail, jail. Every day I've been in this house has been spent in prison. I've been doing time. Do you think it didn't get on my nerves? I've gone
-            <pb n="497"/>
+            <pb n="497" />
             to bed at nine o'clock and thought of what I was missing in New York. I've got up at cock-crow to be in time for grace at the breakfast table. I took charge of a class in Sabbath-school, and I handed out the infernal cornucopias at the church Christmas tree, while he played Santa Claus. What more can a fellow do to earn his money? Don't you call that sweating? No, sir; I've danced like a damned hand-organ monkey for the pennies he left me, and I had to grin and touch my hat and make believe I liked it. Now I'm going to spend every cent for my own personal pleasure.
           </p>
         </sp>
@@ -11240,7 +11244,7 @@
           </speaker>
           <p>
             That's the big mystery! ... Who can tell? But any man who works with flowers and things that grow —
-            <pb n="498"/>
+            <pb n="498" />
             knows there is no such thing as death — there's nothing but life — life and always life. I'll be back in the morning. ... Won't you ... see me to the door?
           </p>
         </sp>
@@ -11333,7 +11337,7 @@
               ( Humorously .)
             </stage>
             Y — es; I
-            <pb n="499"/>
+            <pb n="499" />
             saw you. I heard ... I know. ... Here on some sunny, blossoming day when, as a wife, you look out upon my gardens — every flower and tree and shrub shall bloom enchanted to your eyes. ... All that happens — happens again. And if, at first, a little knock of poverty taps at the door, and James finds the road hard and steep — what is money? — a thing, — a good thing to have, — but still a thing ... and happiness will come without it. And when, as a mother, you shall see my plantings with new eyes, my Catherine, — when you explain each leaf and bud to your little people — you will remember the time when
             we
             walked together through the leafy lanes and I taught you — even as you teach them — you little thing! ... So, I shall linger in your heart. And some day, should your children wander far away and my gardens blossom for a stranger who may take my name from off the gates, — what
@@ -11361,7 +11365,7 @@
             waited upon
             them
             . Lean back in your carriage — you've
-            <pb n="500"/>
+            <pb n="500" />
             earned it!" And towards the end —
             <stage>
               ( sitting on a chair by her side and looking into her face )

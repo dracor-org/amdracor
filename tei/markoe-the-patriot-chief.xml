@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000030" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000030" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Patriot Chief
         </title>
         <author>
-          Markoe, Peter
+          <persName>
+            <forename>Peter</forename>
+            <surname>Markoe</surname>
+          </persName>
+          <idno type="wikidata">Q62091338</idno>
+          <idno type="pnd"></idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-<particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="otanes" sex="MALE">
             <persName>Otanes</persName>
@@ -109,14 +114,12 @@
   <standOff>
     <listEvent>
       <event type="print" when="1784">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
   <text>
     <front>
-      <!--
--->
       <div type="Dramatis_Personae">
         <castList>
           <head>

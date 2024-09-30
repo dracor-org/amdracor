@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000743" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000743" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           In Far Bohemia
         </title>
         <author>
-          Sutherland, Evelyn Greenleaf Baker
+          <persName>
+            <forename>Evelyn Greenleaf Baker</forename>
+            <surname>Sutherland</surname>
+          </persName>
+          <idno type="wikidata">Q1381749</idno>
+          <idno type="pnd">1062454499</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -82,7 +87,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1900">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -142,7 +147,7 @@
             ( Stands looking down at her .)
           </stage>
           I know bloomin' well what 'asn't come to ye, — fire, nor food nor drink 'asn't come to ye, till yer 'ands is baby-bird claws an' yer eyes is at the bottom o' wells! 'Ere! Lucky as I
-          <pb n="39"/>
+          <pb n="39" />
           knows what'll bring you to life!
           <stage>
             ( She opens the door of the cupboard and takes down a whisky bottle and glass .)
@@ -176,7 +181,7 @@
             ( Karen mechanically takes glass, but sets it down without tasting its contents .)
           </stage>
           Providence, my dear, ever guides us to our needs, if we keeps our heyes open. Pennypacker 'e says to me many and many a time before he got his decree habsolute, — which was soon after we came to Hamerica, my dear! — "'Arriet," 'e says, "in some things you 'ave a hinstinct! That's hall we can call it — a hinstinct!" An' it was my hinstinct,
-          <pb n="40"/>
+          <pb n="40" />
           under Providence, my dear, that led me to McLaren's cupboard.
         </p>
       </sp>
@@ -243,13 +248,13 @@
             ( Produces a stumpy black pipe, cleans it, fills it from a tobacco-box on mantel, and smokes, as she talks .)
           </stage>
           M'ybe you won't mind my 'avin' a whiff, my dear; it combines wonderful with the other medicine
-          <pb n="41"/>
+          <pb n="41" />
           to quiet the 'art; an' bein' McLaren's own 'baccy, 'e caiyn't grumble at the smell! ... Yes, McLaren's made a 'it. 'Twas me 'usband's nephew, — leastways me 'usband's cousin's nephew, as stys with me an' is the comfort of me age — 'im as is right wing man down at the Globe Theayter where McLaren made 'is 'it to-night, as come back and told me. You see McLaren 'e's been twenty years a utility hactor. Wot's that? Wy, wen you're a utility hactor, you plays comic servants in the city for fifteen a week, an' Uncle Tom on the road for twenty-five a week, and 'Amlet, for fun, whenever you gets a chance — an' comes 'ome hon yer huppers! That's wot McLaren's been a-doin', an' 'e hall the time a character hactor fit to kill! Character! Anybody could see it with 'arf a heye, — hanybody but a manager! Managers! Faugh! If managers 'adn't been a set o'bloomin' fools, wouldn't I 'a 'ad my whack at Juliet, any day these forty years? Just because McLaren's got
           character
           written all over 'im, featured in the bill — display type — character's the one thing they wouldn't let 'im at!
           Managers!
           ... Well, to-night they put on "Fetters of Flesh" — big play — first night — great part, written a-puypus for Algerson, leading comedy of the Meonian Co. — great part! — Gent 'oo's struck with paralysis in the prolouge, while 'e an' another vilyun, 'is pal, is foolin' with some pypers that mix things up for heverybody — mix up love-interest,
-          <pb n="42"/>
+          <pb n="42" />
           money-interest, heverythink — see? 'E knows it all, an' wants to straighten it all, an' carnt — bloomin' paralysis — fettered by flesh, — see? Tries to make 'em understand — with one 'and — all 'e's got, — see? Best of 'im stiff — an' one side of 'is face! See? Just in the end, wen the vilyun is 'avin everythink 'is own way, paralyzed party busts fetters o' flesh — see? Takes a big brace — speaks — moves — gives the 'ole damn thing away — gives away his pal — straightens things out — dies! — See! O, the part's a corker! 'Ole play belongs to that part! And to-night — second call — no Algerson. Not in theayter — no — where! Manager wild — tearing! Three overtures. In comes Algerson — full as a tick — dead, howlin', tearin', fool drunk! Braced up for the first night — overdid it — See? Manager wild — raving! "'Oo's his d — d understudy?" says 'e? "Understudy?" 'owls the author. "Understudy go on in the biggest character part written for twenty years — smash my play? Smash
           me?
           Not if I" —
@@ -263,7 +268,7 @@
             ( Imitates worse rage of swearing .)
           </stage>
           McLaren, pretty white around the gills — his chance just jumping down his throat: "I've understudied Algerson, sir, an' I think I can play the part." Humble apology to 'ouse — sudden and painful illness of Mr. Algerson — hindulgence
-          <pb n="43"/>
+          <pb n="43" />
           hasked for Mr. McLaren — ting-a-ling-a-ling! Curtain hup! Hit went through the bloomin' lot! Fish in water — man where he belonged — McLaren in character work! Three calls hafter the prologue! Five calls hafter the second hact! All 'ell hafter the third hact! Author — McLaren — speech — 'owls — 'andkerchiefs — a 'it! — McLaren's made!
           That's
           hall!
@@ -322,7 +327,7 @@
         </stage>
         <p>
           O, I know,
-          <pb n="44"/>
+          <pb n="44" />
           Mrs. Pennypacker, I know! To-morrow, — perhaps — to-morrow! —
           <stage>
             ( She crosses totteringly to chair and falls into it .)
@@ -532,7 +537,7 @@
             ( Rises .)
           </stage>
           Woman! Woman! Gather up the fragments of yourself and talk sense! English you can't talk — I don't ask it of you, knowing you came from England! — but sense you
-          <pb n="47"/>
+          <pb n="47" />
           can talk, now and then, with an effort! Brace up! Make your effort! What's happened to that little girl across the hall?
         </p>
       </sp>
@@ -691,7 +696,7 @@
         </stage>
         <p>
           Right you are, Pennypacker! We're pennies of a pattern! Wytin'! Yes, that's what I've been doing, — waiting — and that little girl wearing away like a snow-wreath before my eyes, day after day — her dear, blue eyes getting bigger and bigger, and her poor little wrists
-          <pb n="49"/>
+          <pb n="49" />
           getting smaller and smaller —
           starving
           — and I wallowing in luxury — and having luxury left over for Pennypacker to wallow in! Damn it all! What can I do? What could I ever do? Proud as — as a decent little girl should be; no more take a cent from me than that confounded cat — by the way, that reminds me.
@@ -810,7 +815,7 @@
         </speaker>
         <p>
           O, well, I'm rattled, that's a fact; but there's nothing worse the matter with me. I only want you to stay where you are. It's warm; that
-          <pb n="51"/>
+          <pb n="51" />
           room I took you from is a refrigerator! Child, you were lying —
           <stage>
             ( He stops, choking with emotion .)
@@ -925,7 +930,7 @@
           Hold on! Lie still! I'm not through yet. I'd like to adopt you — I'd
           rather
           adopt you — but I can't. The world is full of people — mostly Pennypackers — and it wouldn't go down. But if I marry you, it'll be nobody's business, will it? I've made a hit — you didn't know that, maybe? Wait till the morning papers come out! I've made a hit; and I go with the company to New York to-morrow, to play the biggest character-part the American stage has seen in twenty years, at
-          <pb n="53"/>
+          <pb n="53" />
           a salary of several figures. That's settled. Well, then! What's the matter with your going to school? There isn't a Kindergarten department in the country wouldn't be proud of you! What's the matter with your studying Art, — Paris — you know — anywhere? I'll insure my life to-day, — you may be a widow before you've grown up! You needn't be afraid of my bothering you, you know. I made my hit in a character-part — I won't tackle Romeo just yet! You shall be as free as if I'd adopted you; and if you ever, after you're grown up, run across Romeo — why — I'll see you get a decree absolute with alimony! Come now, Little 'Un? It's a bargain? Ah? Do it for charity! Think what a mercy it'll be to a man who hasn't anything in this world but a damned unsocial cat!
         </p>
       </sp>
@@ -970,7 +975,7 @@
         </speaker>
         <p>
           Pities her? Doesn't want her near him?
-          <pb n="54"/>
+          <pb n="54" />
           Little 'Un, I love the ground under your poor blessed worn-out little shoes! Don't want her near me? Little 'Un, I've stood half the night with my face against your door! But — I've no business to tell you such things! I never meant to tell you such things! You're a child! You were born a lady! You'll grow up — a lady! And I — I — Child! I've been a strolling player for twenty years!
         </p>
       </sp>
@@ -1032,7 +1037,7 @@
             ( He takes her hands and kisses them very tenderly; then he leads her to the couch and tucks her in .)
           </stage>
           You'll
-          <pb n="55"/>
+          <pb n="55" />
           sleep till I come with the parson?
           <stage>
             ( Spent and exhausted, she sleeps. Looks toward window .)

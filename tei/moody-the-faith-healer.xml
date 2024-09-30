@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000968" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000968" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           The Faith Healer
         </title>
         <author>
-          Moody, William Vaughn
+          <persName>
+            <forename>William Vaughn</forename>
+            <surname>Moody</surname>
+          </persName>
+          <idno type="wikidata">Q1122901</idno>
+          <idno type="pnd">118784684</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -45,7 +50,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-    <particDesc>
+      <particDesc>
         <listPerson>
           <person xml:id="uncleabe" sex="MALE">
             <persName>Uncle Abe</persName>
@@ -121,7 +126,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1912">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -656,7 +661,7 @@
           </speaker>
           <p>
             Well, for instance, he throws a rope up in the air, right up in the empty air, with nothing for
-            <pb n="183"/>
+            <pb n="183" />
             it to catch on, and then — he — climbs — up — the — rope!
           </p>
         </sp>
@@ -1985,7 +1990,7 @@
           </stage>
           <p>
             All my life long I have walked in the light of something to come, some labor, some mission, I
-            <pb n="203"/>
+            <pb n="203" />
             have scarcely known what — but I have risen with it and lain down with it, and nothing else has existed for me. — Nothing, until — I lifted my eyes and you stood there. The stars looked down from their places, the earth wheeled on among the stars. Everything was as it had been, and nothing was as it had been; nor ever, ever can it be the same again.
           </p>
         </sp>
@@ -2032,7 +2037,7 @@
           </stage>
           <p>
             A great table of stone, rising five hundred feet out of the endless waste of sand. A little
-            <pb n="204"/>
+            <pb n="204" />
             adobe house, halfway up the mesa, with the desert far below and the Indian village far above. A few peach trees, and a spring — a sacred spring, which the Indians worshipped in secret. A little chapel, which my father had built with his own hands. He often spent the night there, praying. And there, one night, he died. I found him in the morning, lying as if in quiet prayer before the altar.
           </p>
         </sp>
@@ -2723,7 +2728,7 @@
           </p>
           <p>
             Look at him! Do you think he'll ever get to Jerusalem? Not this trip! He hears the pipes o' Pan. He hears women callin' and fiddles squeakin' love-tunes in the woods. It'll take more than a monk's robe on his back and a shaved head on his shoulders to keep him
-            <pb n="215"/>
+            <pb n="215" />
             straight, I reckon. He'll call to mind that young fellows had blood in their veins when Adam was a farmer, and whoop-la! he'll be off to the county fair, to dance ring-around-a-rosy with Matildy Jane!
           </p>
           <p>
@@ -2946,7 +2951,7 @@
           </stage>
           <p>
             Blamed if I can remember. Only seen him once. But I tell you, he's smart as tacks. Chuck full of Jamaica ginger. The very kind I'd have swore you'd take to, a while back, before you lost your fun and your spirit. When I first saw you on your father's farm out in Kansas,
-            <pb n="219"/>
+            <pb n="219" />
             you was as wild a little gypsy as I ever set eyes on. I said then to your dad, "There's a filly that'll need a good breakin'." I never thought I'd see you takin' up with these Gospel pedlers.
           </p>
         </sp>
@@ -3574,7 +3579,7 @@
           </speaker>
           <p>
             That's what they says, Mis' Martha. Folks calls 'im Laz'rus in refence to de Bible chil'
-            <pb n="229"/>
+            <pb n="229" />
             what riz up jes' same way lak', outen de daid col' tomb.
           </p>
         </sp>
@@ -5582,7 +5587,7 @@
           </stage>
           <p>
             It has never begun. Many times I have thought, "Now," and some man or woman has risen up healed, and looked at me with eyes of prophecy.
-            <pb n="263"/>
+            <pb n="263" />
             But a Voice would cry, "On, on!" and I would go forward, driven by a force and a will not my own. — I didn't know what it all meant, but I know now.
           </p>
           <p>
@@ -5683,7 +5688,7 @@
           </p>
           <p>
             I knew a young Indian once, a Hopi boy, who made songs and sang them to his people. One
-            <pb n="265"/>
+            <pb n="265" />
             evening we sat on the roof of the chief's house and asked him to sing. He shook his head, and went away in the starlight. The next morning, I found him among the rocks under the mesa, with an empty bottle by his side. — He never sang again! Drunkenness had taken him. He never sang again, or made another verse.
           </p>
         </sp>
@@ -6210,7 +6215,7 @@
           </stage>
           <p>
             You make up well as one of the Wise Virgins, whose lamps are trimmed and burning for the
-            <pb n="274"/>
+            <pb n="274" />
             bridegroom to pass by. I hope that personage won't disappoint you, nor the several hundred others, out yonder, whose lamps are trimmed and burning.
           </p>
         </sp>
@@ -6431,7 +6436,7 @@
           </stage>
           <p>
             Don't have to go to professional medicine for cases. They're lying around loose. Why, when I was at Ann Arbor — in a fraternity initiation — we bared a chap's shoulders, showed him a white-hot poker, blindfolded him, told him to stand steady, and — touched him with a piece of ice. A piece of ice, I tell you! What happened? Damned if it — pardon me, Mr.
-            <pb n="278"/>
+            <pb n="278" />
             Culpepper — blessed if it didn't
             burn
             him — carries the scars to this day. Then there was that case in Denver. Ever hear about that? A young girl, nervous patient. Nails driven through the palms of her hands, — tenpenny nails, — under the hypnotic suggestion that she wasn't being hurt. Didn't leave a cicatrice as big as a bee sting! Fact!
@@ -7195,7 +7200,7 @@
           </speaker>
           <p>
             Once that little life in my hand would have been as clay in the hands of the potter. If I cannot
-            <pb n="290"/>
+            <pb n="290" />
             help now, it is because my ministry has been taken from me and given to another, who will be strong where I am weak, and faithful where I am unfaithful.
           </p>
         </sp>
@@ -7281,7 +7286,7 @@
           </p>
           <p>
             I know a place out there, high in the great
-            <pb n="292"/>
+            <pb n="292" />
             mountains. Heaven-piercing walls of stone, a valley of trees and sweet water in the midst — grass and flowers, such flowers as you have never dreamed could grow. — There we will take our happiness. A year — a month — a day — what matter? We will make a lifetime of each hour!
           </p>
         </sp>
@@ -7890,7 +7895,7 @@
           </stage>
           <p>
             Thank ye, Mistah Beelah, thank ye. I'll wo'k
-            <pb n="306"/>
+            <pb n="306" />
             fur ye and I'll slave fur ye, long as the worl' stan's. Maybe it ain't goin' to stan' much longer aftah all. Maybe de chariot's comin' down in de fiery clouds fo' great while. An' what'll yo' ole Uncle Abe be doin'? He'll be on his knees 'fore a big roarin' fire, singing hallelujah, an' a-jammin' red-hot needles right plum' frough dis heah black devil's breas' bone! I'se got him now! I'll fix'm.
           </p>
           <p>
@@ -8644,7 +8649,7 @@
           </speaker>
           <p>
             I was young then, wild-hearted, pitifully ignorant. I thought that love had come to me.
-            <pb n="318"/>
+            <pb n="318" />
             Girls are so eager for love. They snatch at the shadow of it. — That is what I did. — I am not trying to plead for myself. — Some things are not to be forgiven. — Somewhere in my nature there was a taint — a plague-spot. — If life is given me, I shall find it and root it out. I only ask for time to do that. But meanwhile I have done what I could. I have told you the truth. I have set you free. I have given you back your mission.
           </p>
         </sp>
@@ -8685,7 +8690,7 @@
           </speaker>
           <p>
             Glad to accommodate a fellow practitioner, even if he is in a side line. Some folks think your
-            <pb n="319"/>
+            <pb n="319" />
             way of business is a little shady, but Lord, if they knew the secrets of
             our
             charnel-house!
@@ -8963,7 +8968,7 @@
           </stage>
           <p>
             What I am is no matter. What this girl is, though you lived a thousand years, you would never have the grace to imagine. She gave you her young love, in childish blindness, not knowing what she did, and you killed it idly, wantonly, as a beast tortures its frail victim, for sport. You find her again, still weak and bleeding from her wounds, and you fling her marriage, in words whose every syllable is an insult. Marriage! When every fibre of her nature must cry out against you, if she is woman. Take your words and your looks from her, and that instantly, or you will curse the
-            <pb n="324"/>
+            <pb n="324" />
             day you ever brought your evil presence into her life.
           </p>
           <p>
@@ -9301,7 +9306,7 @@
           </speaker>
           <p>
             I have shaken off my burden. Do you shake off yours. What is pain but a kind of selfishness? What is disease but a kind of sin?
-            <pb n="330"/>
+            <pb n="330" />
             Lay your suffering and your sickness from you as an out-worn garment. Rise up! It is Easter morning. One comes, needing you. Rise up and welcome her!
           </p>
         </sp>

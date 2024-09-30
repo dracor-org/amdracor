@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000304" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000304" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           Andre
         </title>
         <author>
-          Dunlap, William
+          <persName>
+            <forename>William</forename>
+            <surname>Dunlap</surname>
+          </persName>
+          <idno type="wikidata">Q2578528</idno>
+          <idno type="pnd">118672754</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -112,7 +117,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1798">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -242,7 +247,6 @@
       <p>
         If this Play is successful, it will be a proof that recent events may be so managed in tragedy as to command popular attention; if it is unsuccessful, the question must remain undetermined until some more powerful writer shall again make the experiment. The Poem is now submitted to the ordeal of closet examination, with the Author's respectful assurance to every reader, that as it is not his interest, so it has not been his intention to offend any; but, on the contrary, to impress, through the medium of a pleasing stage exhibition, the sublime lessons of Truth and Justice upon the minds of his countrymen.
       </p>
-      <!--1798.-->
       <head>
         PROLOGUE.  Spoken by Mr. Martin.
       </head>
@@ -7084,9 +7088,7 @@ Presuming that the readers of the foregoing Drama would be gratified by
                                                         manner, according to the natural order of time.
 LETTERS
 Addressed to Miss Seward by Major Andre , when he was a youth of eighteen.
-
 Clapton, October 3, 1769.
-
 From their agreeable excursion to Shrewsbury my friends are by this time returned to their
                                                         beloved Lichfield. Once again have they beheld those
                                                         fortunate spires, the constant witnesses of all their pains and
@@ -7157,7 +7159,6 @@ My mother and sisters will go to Putney in a few days, to stay some time
                                                         Spearman, and am twing'd with the idea of these epistles being
                                                         confronted, and that I shall recall to your memory the fat knight's love
                                                         letters to Mrs. Ford and Mrs. Page.
-
 Julia , perhaps thou fanciest I am merry — Alas! But I
                                                         do not with to make you as doleful as myself; and besides, when I would
                                                         express the tender feelings of my soul, I have no language which does
@@ -7187,7 +7188,6 @@ My sisters' Penserosos were dispersed on their arrival in town, by the
                                                         not old enough for me to be afraid of in the rival way, else I should
                                                         keep him aloof, for his heart is formed of those affectionate materials,
                                                         so dear to the ingenuous taste of Julia and her Honora.
-
 I sympathize in your resentment against the Canonical Dons, who stumpify
                                                         the heads of those good green people, [Footnote:
                                                                         1Kb
@@ -7215,9 +7215,7 @@ Mr. and Mrs. Seward will accept my most affectionate respects — My male
 Your affectionate and faithful friend,
 J. ANDRE.
 LETTER II.
-
 London, October 19, 1769.
-
 From the midst of books, papers, bills, and other
                                                         implements of gain, let me lift up my drowsy head a while, to converse
                                                         with dear Julia. And first, as I know she has a
@@ -7316,9 +7314,7 @@ How sorry I am to bid you adieu! Oh let me not be forgot by the friends
                                                         and least of all their devoted
 JOHN ANDRE.
 LETTER III.
-
 Clapton, November 1, 1769.
-
 My ears still ring with the sounds of oh Jack! oh
                                                         Jack! How do the dear Lichfieldians? — What do they say? — What are they
                                                         about? — What did you do while you were with them? — Have patience, said
@@ -7447,7 +7443,6 @@ In the year 1780 Major André amused himself and his friends by writing
                                                         the Court-martial in their decision on the trial of its author!
 THE  COW CHACE.
 CANTO I.
-
 To drive the kine one summer's morn,
   The tanner took his way;
 The calf shall rue that is unborn
@@ -7597,7 +7592,6 @@ And why should Titus Hooper die,
   Ah die — without a rope?
 Apostate Murphy, thou to whom
   Fair Shela ne'er was cruel,
-
 In death shalt hear her mourn thy doom,
   Auch wou'd you die my jewel?
 Thee Nathan Pumpkin I lament,
@@ -7671,10 +7665,6 @@ So Roman Anthony, they say,
   Disgraced the imperial banner,
 And for a gypsy lost the day,
   Like Anthony the tanner.
-
-
-
-
 When drums and colours, cow and calf,
   Came down the read amain:
 All in a cloud of dust were seen
@@ -7723,7 +7713,6 @@ As he had done at Staten-Island,
   With frost-bit Alexander.
                                                 [Footnote: 1Kb
                                                 Lord Stirling before mentioned.
-
                                                 In his dismay the frantic priest
   Began to grow prophetic,
 You'd swore, to see his lab'ring breast,
@@ -7756,7 +7745,6 @@ TRIAL  OF  MAJOR JOHN ANDRE.
 Extracts of Letters from General Washington to
                                                         the President of Congress.
 Robinson's House, in the Highlands, Sept. 26, 1780.
-
 SIR,
 I HAVE the honor to inform Congress, that I arrived here yesterday about
                                                         twelve o'clock, on my return from Hartford. Some hours previous to my
@@ -7789,7 +7777,6 @@ I HAVE the honor to inform Congress, that I arrived here yesterday about
                                                         in such a manner upon the occasion, as does them the highest honor, and
                                                         proves them to be men of great virtue. As soon as I know their names, I
                                                         shall take pleasure in transmitting them to Congress.
-
 Paramus, October 7, 1780.
 SIR,
 I have the honor to enclose Congress a copy of the proceedings of a Board
@@ -7804,7 +7791,6 @@ I have now the pleasure to communicate the names of the three persons who
                                                         the most earnest importunities and assurances of a liberal reward on his
                                                         part. Their names are, John Paulding, David Williams
                                                         , and Isaac Van Wert.
-
 Proceedings of a Board of General Officers, held by order of
                                                         his Excellency General Washington , Commander in
                                                         Chief on the Army of the United States of America, respecting Major Ander , Adjutant-General of the British Army,
@@ -7838,7 +7824,6 @@ The names of the officers composing the Board were read to Major André,
                                                         acknowledged by Major André to have been written by him, which letter is
                                                         as follows:
 Salem, September 24, 1780.
-
 SIR,
 WHAT I have as yet said concerning myself, was in the justifiable attempt
                                                         to be extricated; I am too little accustomed to duplicity to have
@@ -7947,7 +7932,6 @@ A letter signed John Anderson , dated September 7,
                                                                 intelligence. was also laid before the Board, and shewn to
                                                         Major André, which he acknowledged to have been
                                                         written by him , and is as follows:
-
 New-York, the 7th Sept . 1780.
 SIR,
 I AM told my name is made known to you, and that I
@@ -7994,7 +7978,6 @@ The following letters were laid before the Board, and read: — Benedict
                                                         letter of the same date from Benedict Arnold) to General Washington.
 On board the Vulture, Sept. 25,
                                                                 1780.
-
 SIR,
 THE heart which is conscious of its own rectitude, cannot attempt to
                                                         palliate a step which the world may censure as wrong; I have ever acted
@@ -8027,7 +8010,6 @@ N.B. In justice to the gentlemen of my family, Colonel Varick and Major
                                                         the public.
 Vulture, off Sinsinck, Sept. 25,
                                                                 1780.
-
 SIR,
 I AM this moment informed that Major André, Adjutant-General of his
                                                         Majesty's army in America, is detained as a prisoner by the army under
@@ -8046,7 +8028,6 @@ I am, Sir, not forgetting former acquaintance,  Your very
                                                         humble servant,  BEV. ROBINSON, Col. Loyal Americans.
 His Excellency General Washington.
 New-York, Sept. 26, 1780.
-
 SIR,
 BEING informed that the King's Adjutant-General in America has been stopt
                                                         under Major-General Arnold's passports, and is detained a prisoner in
@@ -8061,7 +8042,6 @@ I have the honor to be, your Excellency's  most obedient
                                                         and most humble servant.  H. CLINTON.
 His Excellency General Washington.
 New-York. Sept. 26, 1780.
-
 SIR,
 IN answer to your Excellency's message, respecting your Adjutant-General,
                                                         Major André, and desiring my idea of the reasons why he is detained,
@@ -8113,9 +8093,7 @@ APPENDIX.
 Copy of a Letter from Major André, Adjutant-General, to
                                                         Sir Henry Clinton, K.B. &amp;.mp;c.&amp;.mp;c.
 Tappan, Sept 29, 1780.
-
 SIR,
-
 Your Excellency is doubtless already apprized of the
                                                         manner in which I was taken, and possibly of the serious light in which
                                                         my conduct is considered, and the rigorous determination that is
@@ -8150,7 +8128,6 @@ His Excellency Gen. Sir Henry Clinton, K. B.&amp;.mp;c. &amp;.mp;c.
 Copy of a Letter from his Excellency General Washington, to
                                                         his Excellency Sir Henry Clinton.
 Head-Quarters, Sept. 30, 1780.
-
 SIR,
 IN answer to your Excellency's letter of the 26th instant, which I had
                                                         the honor to receive, I am to inform you, that Major André was taken
@@ -8174,7 +8151,6 @@ His Excellency Sir Henry Clinton.
 In this letter, Major André's of the 29th of September to Sir Henry
                                                         Clinton was transmitted.
 New-York, 29 th Sept. 1780.
-
 SIR,
 PERSUADED that you are inclined rather to promote than prevent the
                                                         civilities and acts of humanity, which the rules of war permit between
@@ -8195,7 +8171,6 @@ Major André, who visited an officer commanding in a district at his own
 I am, Sir, your Excellency's  Most obedient humble
                                                         servant,  JAMES ROBERTSON, Lieutenant-General.
 His Excellency General Washington.
-
 Tappan, Sept. 30, 1780.
 SIR,
 I HAVE just received your letter of the 29th. Any delay which may have
@@ -8210,7 +8185,6 @@ I am, Sir,  Your most obedient humble servant,  G.
                                                         WASHINGTON.
 His Excellency Lieut. Gen. Robertson, New-York.
 New-York, Sept. 30, 1780.
-
 SIR,
 FROM your Excellency's letter of this date, I am persuaded the Board of
                                                         General Officers, to whom you referred the case of Major André, cannot
@@ -8238,7 +8212,6 @@ Lieut. General Robertson, Mr. Elliot, and Mr. Smith, came up in a flag
                                                         Robertson mentioned to him in substance what is contained in his letter
                                                         of the 2d of October to General Washington.
 New-York, October 1, 1780.
-
 SIR,
 I TAKE this opportunity to inform your Excellency, that I consider myself
                                                         no longer acting under the commission  of Congress: Their
@@ -8254,7 +8227,6 @@ I have the honor to be, very respectfully,  Your
 His Excellency General Washington.
 Greyhound Schooner, Flag of Truce.
 Dobb's Ferry, Oct. 2, 1780.
-
 SIR
 A NOTE I have from General Greene, leaves me in doubt if his memory had
                                                         served him to relate to you, with exactness, the substance of the
@@ -8303,7 +8275,6 @@ I have the honor to be your Excellency's  Most obedient,
                                                         and most humble servant,  JAMES ROBERTSON.
 His Excellency General Washington.
 New-York, October 1, 1780.
-
 SIR,
 THE polite attention shewn by your Excellency and the gentlemen of your
                                                         family to Mrs. Arnold, when in distress,  demands my
@@ -8357,7 +8328,6 @@ I have the honor to be, with due respect,  Your
                                                         ARNOLD.
 His Excellency General Washington.
 Tappan, October 1, 1780.
-
 SIR,
 BUOY'D above the terror of death, by the consciousness of a life devoted
                                                         to honorable pursuits, and stained with no action that can give me
@@ -8392,7 +8362,6 @@ Published by Order of Congress,
 EXTRACT from a LETTER which appeared in the Pennsylvania Gazette, dated
                                                         October 25, 1780. The Author supposed to be Colonel
                                                                 Hamilton , Aid-de-Camp to General Washington.
-
 Never , perhaps, did a man suffer death with more
                                                         justice, or deserve it less. The first step he took after his capture
                                                         was to write a letter to General Washington, conceived in terms of
@@ -8499,7 +8468,6 @@ I speak not to Andre's conduct in this affair as a philosopher, but as a
                                                         this scale we acquit Andre. while we could not but condemn him if we
                                                         were to examine his conduct by the sober rules of philosophy and moral
                                                         rectitude.
-
                                         THE END.
       </p>
     </back>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000044" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000044" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           Jeanne d'Arc
         </title>
         <author>
-          MacKaye, Percy
+          <persName>
+            <forename>Percy</forename>
+            <surname>MacKaye</surname>
+          </persName>
+          <idno type="wikidata">Q1650288</idno>
+          <idno type="pnd">119313561</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -313,14 +318,12 @@
   <standOff>
     <listEvent>
       <event type="print" when="1906">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
   <text>
     <front>
-      <!--
--->
       <p>
         To
       </p>
@@ -14533,7 +14536,7 @@
           </speaker>
           <p>
             But it is time to instruct you more fully, my lords and judges, on the offences, excesses, crimes, and misdemeanours committed by the accused, Jeanne d'Arc, in many and diverse places. In her childhood she was not instructed in the beliefs and principles of our Faith; but by certain old women she was initiated in the science of witchcraft, divination, superstitious
-            <pb n="155"/>
+            <pb n="155" />
             doings, and magical arts — so much so that, in these interrogations before you, touching her visions and the apparitions of fairies, she hath confessed that even now she doth not know if these fairies were evil spirits or not.
           </p>
           <p>
@@ -14604,7 +14607,7 @@
           </speaker>
           <p>
             Of Robert de Baudricourt Jeanne asked to have made for her a man's dress and armour appropriate. These garments and armour being furnished, Jeanne, rejecting and abandoning women's clothing, her hair cut around like a young coxcomb, took tunic, doublet,
-            <pb n="156"/>
+            <pb n="156" />
             surcoat, close-cut cap, buskins, spurs, sword, lance, and other arms in fashion of a man, affirming that in this she was executing the order of God as had been prescribed to her by God's messenger.
           </p>
         </sp>

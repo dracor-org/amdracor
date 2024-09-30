@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xml:id="am000234" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xml:id="am000234" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,7 +7,12 @@
           A King's Daughter
         </title>
         <author>
-          Gale, Rachel E. (Baker)
+          <persName>
+            <forename>Rachel Elizabeth</forename>
+            <surname>Baker Gale</surname>
+          </persName>
+          <idno type="wikidata">Q17421725</idno>
+          <idno type="pnd">1013546938</idno>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -106,7 +111,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1893">
-        <desc/>
+        <desc />
       </event>
     </listEvent>
   </standOff>
@@ -451,7 +456,7 @@
           </speaker>
           <p>
             Yes, Miss Rebecca. Then comes a familiar step. The woman rises with outstretched arms, her eyes bright with the
-            <pb n="5"/>
+            <pb n="5" />
             light of love, her lips eager to form the words of welcome.
             <stage>
               ( Girls laugh .)
@@ -4545,7 +4550,7 @@
               ( Reads .)
             </stage>
             "Dear Sir, — My natural modesty and delicacy prompt me to write this letter. I know that you love and have loved for years Miss Rebecca Spencer of this town. Yet why this long silence? I will wait no longer. I, too, love this fair maiden, and have told her of my love. Bid farewell to your fondest hopes. I now await the answer of one who, with her grace and beauty, for me turns darkness into light,
-            <pb n="25"/>
+            <pb n="25" />
             sadness into joy. Adieu, and think of me as one who will possess the heart and hand of the woman, who, but for want of courage, might have been yours. From one that loves Rebecca."
           </p>
         </sp>
@@ -4768,7 +4773,7 @@
           </stage>
           <p>
             Yes, Polly, you
-            <pb n="26"/>
+            <pb n="26" />
             will. Remember, I know my duty better than you.
             <stage>
               ( Arm about POLLY, draws her down to front of stage .)
@@ -5785,7 +5790,7 @@
             Share it with you? You know not what you ask. Be patient, and when you have reached
             my
             years of discretion,
-            <pb n="31"/>
+            <pb n="31" />
             this happiness may come to you.
             <stage>
               (GIRLS convulsed; aside .)
@@ -6257,7 +6262,7 @@
               ( Soft music .)
             </stage>
             If I secure my appointment as teacher, we will have a cosey home together. Just large
-            <pb n="33"/>
+            <pb n="33" />
             enough for us. Oh, we must not forget Polly. She will always be welcome. In the summer, honeysuckle and wood-vine will twine itself about our door and we will have our supper in the garden.
             <stage>
               ( Arm about AUNT C.)
@@ -6880,7 +6885,7 @@
           </stage>
           <p>
             What shall I do? There is no other position. The Deacon says that if I wish, I can give mine to Miss
-            <pb n="36"/>
+            <pb n="36" />
             Grant. Oh, I can't do that.
             <stage>
               ( Hesitates; AUNT C. watches her .)
@@ -8434,7 +8439,7 @@
           </speaker>
           <p>
             Only think of Aunt Clarissa and Nan living together
-            <pb n="44"/>
+            <pb n="44" />
             in the little cottage at the end of the town. Nan is working hard for Miss Long the milliner, and she seems as happy as a queen. Where is Helen?
           </p>
         </sp>
@@ -8604,7 +8609,7 @@
           </speaker>
           <p>
             The very air breathes mystery and romance. As I wander beneath the trees whose rustling leaves bid me a silvery welcome, I dare not give utterance to my thoughts for fear he is hovering near. Aroused by the pangs of jealousy, the Deacon has all but spoken; yet I withhold the one bit of encouragement that he is waiting for, hoping that my fond and mysterious lover, who calls himself my "Romeo," may come to me. A sweet delicious uncertainty. A fortunate woman you are indeed, Rebecca.
-            <pb n="45"/>
+            <pb n="45" />
             Two lovers who wait, each eager to call me his. Often my fancy leads me to picture myself coming unawares upon my would-be hero.
             <stage>
               ( Crosses stage; sees pair of boots and man's hat on R. side of mound R. half hidden by the hay; screams .)
@@ -8834,7 +8839,7 @@
           </stage>
           <p>
             There goes the Deacon now in the
-            <pb n="46"/>
+            <pb n="46" />
             direction of your house. What a pity to have him disappointed in his call.
           </p>
         </sp>
@@ -9067,7 +9072,7 @@
               ( Sinks upon mound .)
             </stage>
             I can hardly realize that I am the same Nan Graham who lived a month ago. The sun seems to shine brighter, the earth looks lovelier to me, and all because I am happy. It is the old story of Cinderella and her fairy godmother. Aunt Clarissa does not send me to balls in a coach and four; no
-            <pb n="47"/>
+            <pb n="47" />
             glass slipper to lead the way to a royal husband; but with her love and kindness, she has transformed my life from one of drudgery to one of peace and contentment.
             <stage>
               ( Rises .)
@@ -9488,7 +9493,7 @@
           </speaker>
           <p>
             You see, we are both happy and contented, Eleanor. Your measure was a harsh one, but the sorrow of that day has beer wiped out a hundred fold by the peacefulness and happiness of our
-            <pb n="49"/>
+            <pb n="49" />
             lives. Unwittingly, you gave to me the love of a girls heart which had been hungry so long. I came into her life when she needed me most, and the wealth of her affection is mine. You may think of me as poor, but no richer legacy can come to a woman than the love which I now possess.
           </p>
         </sp>
@@ -10460,7 +10465,7 @@
           </stage>
           <p>
             I have a birthday gift for you, my dear. Let me be the fairy godmother and send you to the ball
-            <pb n="54"/>
+            <pb n="54" />
             to-night. You will find a Cinderella, gown at home; put it on and dance to your heart's content.
             <stage>
               (GIRLS come down .)
@@ -11288,7 +11293,7 @@
           </speaker>
           <p>
             She will be happy now. What can Aunt Clarissa mean
-            <pb n="58"/>
+            <pb n="58" />
             by writing me such a note? This gown is too beautiful for her scanty purse. Everything seems surrounded in mystery.
           </p>
         </sp>
