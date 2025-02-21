@@ -51,6 +51,12 @@
           <person xml:id="president" sex="MALE">
             <persName>PRESIDENT</persName>
           </person>
+		  <person xml:id="chorus-amita" sex="UNKNOWN">
+            <persName>FOLLOWERS OF AMITA</persName>
+          </person>
+		  <person xml:id="chorus-americana" sex="UNKNOWN">
+            <persName>FOLLOWERS OF AMERICANA</persName>
+          </person>
           <person xml:id="americana" sex="FEMALE">
             <persName>AMERICANA</persName>
           </person>
@@ -101,6 +107,9 @@
           </person>
           <person xml:id="liberta" sex="FEMALE">
             <persName>LIBERTA</persName>
+          </person>      
+		  <person xml:id="congress" sex="MALE">
+            <persName>CONGRESS</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -236,7 +245,7 @@
               peaceful scene in view.
             </p>
           </sp>
-          <sp who="#amita #chorus">
+          <sp who="#amita #chorus-amita">
             <speaker>
               AMITA, and
                                                                                                 Chorus.
@@ -764,16 +773,11 @@
           </stage>
           <sp who="#oldwig #youngwig">
             <speaker>
-              O. and Y.
+              O. and Y. Wig.
             </speaker>
             <l n="30">
               The wig you see
             </l>
-          </sp>
-          <sp who="#wig">
-            <speaker>
-              Wig.
-            </speaker>
             <l n="31">
               Was bought by me,
             </l>
@@ -1962,7 +1966,7 @@
               and I'm denied relief.
             </p>
           </sp>
-          <sp who="#americana #chorus">
+          <sp who="#americana #chorus-americana">
             <speaker>
               AMERICANA
             </speaker>

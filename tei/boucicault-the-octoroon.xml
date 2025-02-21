@@ -3807,7 +3807,7 @@
         <stage>
           Enter Thibodeaux and Sunnyside , R. U. E.
         </stage>
-        <sp who="#thibo">
+        <sp who="#thibodeaux">
           <speaker>
             Thibo.
           </speaker>
@@ -3977,7 +3977,7 @@
             Paul!
           </p>
         </sp>
-        <sp who="#thibo">
+        <sp who="#thibodeaux">
           <speaker>
             Thibo.
           </speaker>
@@ -4138,7 +4138,7 @@
             soft to the old woman; perhaps it wouldn't go well, would it?
           </p>
         </sp>
-        <sp who="#thibo">
+        <sp who="#thibodeaux">
           <speaker>
             Thibo.
           </speaker>
@@ -6154,7 +6154,7 @@
             Eight.
           </p>
         </sp>
-        <sp who="#thibo">
+        <sp who="#thibodeaux">
           <speaker>
             Thibo.
           </speaker>
@@ -6764,7 +6764,7 @@
           <stage>
             Enter Thibodeaux and Caillon , L.
           </stage>
-          <sp who="#thibo">
+          <sp who="#thibodeaux">
             <speaker>
               Thibo.
             </speaker>

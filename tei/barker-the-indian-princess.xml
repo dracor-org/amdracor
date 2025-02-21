@@ -91,7 +91,7 @@
           <person xml:id="indian" sex="UNKNOWN">
             <persName>Indian</persName>
           </person>
-          <person xml:id="lieutenantrolfe" sex="MALE">
+          <person xml:id="rolfe" sex="MALE">
             <persName>Lieutenant Rolfe</persName>
           </person>
           <person xml:id="talman" sex="UNKNOWN">
@@ -112,7 +112,7 @@
           <person xml:id="walter" sex="MALE">
             <persName>Walter</persName>
           </person>
-          <person xml:id="captainsmith" sex="MALE">
+          <person xml:id="smith" sex="MALE">
             <persName>Captain Smith</persName>
           </person>
           <personGrp xml:id="adventurers" sex="UNKNOWN">
@@ -282,7 +282,7 @@
                                                                                         blust'ring sea.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -334,7 +334,7 @@
               He burthens us with favours till we sweat.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -365,7 +365,7 @@
               Where Nature holds more sweet varieties.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -391,7 +391,7 @@
               When most we fear'd destruction from the blast.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -425,7 +425,7 @@
               Ay, and be scalp'd and roasted by the Indians.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1197,7 +1197,7 @@
           <stage>
             — A Forest. Smith enters, bewildered in its mazes. Music, expressive of his situation.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1303,7 +1303,7 @@
               Art thou not then a God?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1323,7 +1323,7 @@
               will thou be the friend of the great Powhatan?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1340,7 +1340,7 @@
               Wonderful man, where is thy country?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1358,7 +1358,7 @@
               then from behind the sun?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1376,7 +1376,7 @@
               sun rise each morning.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1394,7 +1394,7 @@
               Where sleeps the sun then?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1418,7 +1418,7 @@
               waves never fail to swallow them up.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1436,7 +1436,7 @@
               My brother, will you teach the red men?
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -1892,7 +1892,7 @@
           <stage>
             Enter Rolfe and Percy.
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -1911,7 +1911,7 @@
               I shall, sir.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -1956,7 +1956,7 @@
               Shall I along?
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -1981,7 +1981,7 @@
               I'd lose myself to do our captain service.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2008,7 +2008,7 @@
           <stage>
             Exeunt Walter, Larry, Alice.
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2047,7 +2047,7 @@
               You never lov'd.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2092,7 +2092,7 @@
               Well!
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2108,7 +2108,7 @@
               Call you this loving?
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2164,7 +2164,7 @@
               Love is no longer catholic religion.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2195,7 +2195,7 @@
               Most false!
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2239,7 +2239,7 @@
               Yet what I can I will; by heaven! I will.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2264,7 +2264,7 @@
               Your hand, my friend; now will I act the man.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2284,7 +2284,7 @@
               Thinkst thou our captain lives?
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2315,7 +2315,7 @@
               I fear me he has fallen.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2551,7 +2551,7 @@
               Father, O father!
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -2652,7 +2652,7 @@
           <stage>
             Music. General joy is diffused — Miami and Grimosco only appear discontented. The prince Nantaquas congratulates Smith. The princess shows the most extravagant emotions of rapture.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -2730,7 +2730,7 @@
               son to thy friendship.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -2754,7 +2754,7 @@
           <stage>
             Enter Percy, Rolfe.
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2770,7 +2770,7 @@
               Ay, to the death.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2804,7 +2804,7 @@
               Fair as the day.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -2857,7 +2857,7 @@
                                                                                                     fair!
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3160,7 +3160,7 @@
           <stage>
             Enter Smith, Pocahontas, Nantaquas, Percy, Rolfe, Nima and Indians, Larry , and Walter.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -3198,7 +3198,7 @@
           <stage>
             bashfully
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3361,7 +3361,7 @@
           <stage>
             Rolfe and Percy come forward.
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3439,7 +3439,7 @@
               Methinks the drowsy god gets up apace.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3447,7 +3447,7 @@
               Say'st thou?
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -3485,7 +3485,7 @@
           <stage>
             the princess appears dejected.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -3528,7 +3528,7 @@
               Stranger, wilt thou too come to Werocomoco?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3547,7 +3547,7 @@
               O yes!
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3564,7 +3564,7 @@
               cars to hear thee, stranger.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3584,7 +3584,7 @@
               stranger.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3602,7 +3602,7 @@
               Ah, no!
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3630,7 +3630,7 @@
               name is not thine — thou art —
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3647,7 +3647,7 @@
               cannot speak it.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3664,7 +3664,7 @@
               princess?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3681,7 +3681,7 @@
               me?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3706,7 +3706,7 @@
               lover.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3726,7 +3726,7 @@
               and my heart to beat! Mark it.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3756,7 +3756,7 @@
               now! O now! — Lover why is it so?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3775,7 +3775,7 @@
               Love!
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3798,7 +3798,7 @@
               Does thy heart beat?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3818,7 +3818,7 @@
               be left. Sir, my master, hadn't we better —
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3838,7 +3838,7 @@
               coming up.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3854,7 +3854,7 @@
               Thou wilt not go?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3870,7 +3870,7 @@
               I do not wish thee to leave me.
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3886,7 +3886,7 @@
               Soon — very soon?
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -3903,7 +3903,7 @@
               beats. Oh, lover!
             </p>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -4841,7 +4841,7 @@
           <stage>
             Enter Smith, Percy, Nantaquas, Larry , &amp;.mp;c.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -4881,7 +4881,7 @@
               Not to remain your debtors?
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -4909,7 +4909,7 @@
               Accompanied the princess to her father's.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -4944,7 +4944,7 @@
               Of your long-wish'd for coming.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -5209,7 +5209,7 @@
               Nay, let me on —
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5231,7 +5231,7 @@
               Mated with her beloved? Ah! lover, no.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5266,7 +5266,7 @@
               As once you did.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5316,7 +5316,7 @@
               Wilt thou surely come?
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5338,7 +5338,7 @@
               Go then, but ah! forget not —
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5403,7 +5403,7 @@
               Should dare to press thy cheek.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5486,7 +5486,7 @@
               And bid my swelling bosom beat with love!
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5505,7 +5505,7 @@
               My idle prattle holds thee from thy purpose.
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -5527,7 +5527,7 @@
               The sooner to return —
             </l>
           </sp>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -7481,7 +7481,7 @@
               fearful people.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7588,7 +7588,7 @@
           <stage>
             Powhatan is transfixed with confusion.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7607,7 +7607,7 @@
               angry Spirit, I was to massacre my friends.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7632,7 +7632,7 @@
               Miami's tortures shall not feast your eyes!
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7659,7 +7659,7 @@
               Oh, if the false Powhatan might —
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7704,7 +7704,7 @@
                                                                                 acquaintance.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7726,7 +7726,7 @@
               Behold the brilliant star that led us on.
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -7762,7 +7762,7 @@
           <stage>
             turning to Rolfe.
           </stage>
-          <sp who="#lieutenantrolfe">
+          <sp who="#rolfe">
             <speaker>
               Rol.
             </speaker>
@@ -7770,7 +7770,7 @@
               My dearest love!
             </l>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -8051,7 +8051,7 @@
               than our neighbours.
             </p>
           </sp>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               Sm.
             </speaker>
@@ -8113,7 +8113,7 @@
           <stage>
             Finale.
           </stage>
-          <sp who="#captainsmith">
+          <sp who="#smith">
             <speaker>
               [Sm.]
             </speaker>

@@ -61,7 +61,7 @@
           <person xml:id="patentdressinggirl" sex="FEMALE">
             <persName>Patent Dressing Girl</persName>
           </person>
-          <person xml:id="frantic" sex="UNKNOWN">
+          <person xml:id="franticamsoupgirl" sex="FEMALE">
             <persName>Frantic American Soup Girl</persName>
           </person>
           <person xml:id="washingpowdergirl" sex="FEMALE">
@@ -1955,7 +1955,7 @@
             Dears, I'm going to learn everything about housekeeping, and you must help me. And then — I'm going to marry the Billy's Shaving Soap man, and you shall come to live with us forever.
           </p>
         </sp>
-        <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicylegirl">
+        <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicyclegirl">
           <speaker>
             ALL.
           </speaker>
