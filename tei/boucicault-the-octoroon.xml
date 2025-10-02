@@ -36,16 +36,19 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>
-            Project Gutenberg
+            Internet Archive
           </name>
           <idno>
-            https://www.gutenberg.org/ebooks/46091
+            https://archive.org/details/octoroonplayinfo00bouciala/
           </idno>
         </bibl>
         <bibl type="originalSource">
-          <title>
-            The Octoroon; or, Life in Louisiana. A Play in Five acts by Dion Boucicault
-          </title>
+          <title type="series">Dicks' London Acting Edition of Standard English Plays and Comic Dramas</title>
+          <publisher>John Dicks</publisher>
+          <pubPlace>London</pubPlace>
+          <publisher>The De Witt Publishing House</publisher>
+          <pubPlace>33 Rose Street, New-York</pubPlace>
+          <note>Contains: The Octoroon; or, Life in Louisiana. A Play in Four acts, by Dion Boucicault, Esq.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
