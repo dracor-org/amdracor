@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000646" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000646" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -128,7 +128,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1776">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -412,7 +412,7 @@
             <p>
               O, is that all; I shall attend; in the mean
               time, go to the Commissary of Rum and get my canteens
-              <pb n="7" />
+              <pb n="7"/>
               filled; and by all means, my good Joe, be at
               home when I return.
             </p>
@@ -510,7 +510,7 @@
             <p>
               That I am not unworthy of the trust, you
               are to know, that nine of our sloops will, this day, be
-              <pb n="8" />
+              <pb n="8"/>
               discharged from the continental service: to-morrow,
               they will be ready at the ferry to receive the spoil.
               Every fifth beast, by lot, is to be the wages of their safe
@@ -1025,7 +1025,7 @@
               would have done; his not forbidding that insult to humanity,
               at New-York, was countenancing an act of
               harbarism; and none, but a little-minded barbarian,
-              <pb n="12" />
+              <pb n="12"/>
               would have suffered the Arts to be trampled under foot,
               as he did, in the case of the King's statue.
             </p>
@@ -1114,7 +1114,7 @@
               in ordering that road to be flanked with breast-works,
               is now apparent. Lord Stirling, with his usual intrepidity
               and precision, has reconnoitered their numbers.
-              <pb n="13" />
+              <pb n="13"/>
               which he finds to be about seven thousand. General
               Sullivan has appointed the hill with exquisite judgment;
               where the Brigades under him and Lord Stirling, are
@@ -1302,7 +1302,7 @@
               the expence of all that is dear and sacred to them as
               men! — but avaunt reflection! Our hope, my dear Sullivan,
               is in you; every command of ground is ours, with
-              <pb n="15" />
+              <pb n="15"/>
               a perfect knowledge of all the woods and defiles: these
               advantages, at the least, double the strength of our men;
               and if we cannot defend these, I know of no place we
@@ -1392,7 +1392,7 @@
               make free with those Gentlemen. We have long beheld,
               with a jealous eye, the growing power of the Episcopal
               Clergy; and considered them as the only obstacle
-              <pb n="16" />
+              <pb n="16"/>
               so our becoming the heads of the Church, in America;
               a dignity, that so properly belongs to the Elect, and
               for which, they have had the assurance to contend with
@@ -2570,7 +2570,7 @@
               Noah, I congratulate you, on your safe arrival into
               your old quarters; neither hol'd by musquet balls. nor
               swelled up with salt-water and creek mud. Thanks
-              <pb n="25" />
+              <pb n="25"/>
               to my activity, that I am not crab's meat with the
               rost.
             </p>
@@ -2705,7 +2705,7 @@
             <p>
               And some hundreds of the common people,
               has he influenced to their end, this day. — — But, for
-              <pb n="26" />
+              <pb n="26"/>
               God's sake, Noah, how came a man of your understanding,
               in the capacity of this fellow's servant?
             </p>

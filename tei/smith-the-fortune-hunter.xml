@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000806" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000806" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -141,7 +141,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1929">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -1648,7 +1648,7 @@
           </stage>
           <p>
             Where you're — well, here,
-            <pb n="15" />
+            <pb n="15"/>
             you can't go just yet. I haven't had a chance to talk to you.
           </p>
         </sp>
@@ -2121,7 +2121,7 @@
               ( shakes glass to cool drink )
             </stage>
             You see they
-            <pb n="18" />
+            <pb n="18"/>
             did'nt know that other people made me any offers.
             <stage>
               ( looks up at HARRY)
@@ -2554,7 +2554,7 @@
           </speaker>
           <p>
             I will, before I'll sponge on you any longer. But on the level I'd rather try the East River or turn
-            <pb n="21" />
+            <pb n="21"/>
             the gas on. What's the use? That's the way I feel.
             <stage>
               ( looks front )
@@ -2885,7 +2885,7 @@
             Then let me tell you. The boys, who've got stuff in 'em, get out and become the biggest men in our cities. The Yaps stay there and clerk in father's store. But it's not so easy for the
             girls
             to get away. A few of them do by going to boarding schools and colleges and meeting and marrying some chaps from a City, but most of them have to stay at home. Why, by the time kids are old enough to think of getting married there isn't a small country town in America where you won't find four times as many girls as boys, and such boys! There isn't one in ten, that a girl who's got any sense at all could force herself to marry. Do you see? Demand forty
-            <pb n="23" />
+            <pb n="23"/>
             times the supply. Do you know there are twenty times as many good looking old maids in country towns as there are in the cities. It's a fact, because when they were young they couldn't lower themselves enough to accept what was left in the local market. Do you see what I'm getting at?
           </p>
         </sp>
@@ -2980,7 +2980,7 @@
           </speaker>
           <p>
             Well, then, first pick out your town, one of about two thousand inhabitants. Most all of 'em have a few rich men with daughters, but we'll make
-            <pb n="24" />
+            <pb n="24"/>
             sure of that when we select one. Of course the town that is the suburb of a city is barred.
           </p>
         </sp>
@@ -3156,7 +3156,7 @@
           </stage>
           <p>
             I
-            <pb n="25" />
+            <pb n="25"/>
             knew there was a catch in it. You mean I must get a job?
           </p>
         </sp>
@@ -3369,7 +3369,7 @@
           </speaker>
           <p>
             Now if you follow these rules not only will all the girls in town be falling over themselves to get you, but their fathers and mothers will be helping them. Then all you've got to do is to pick
-            <pb n="27" />
+            <pb n="27"/>
             out the one with the most coin and let her propose to you.
           </p>
         </sp>
@@ -3647,7 +3647,7 @@
           </stage>
           <p>
             Note for you
-            <pb n="31" />
+            <pb n="31"/>
             from the Lockwood's, Betty, Josey asked me to bring it around.
           </p>
         </sp>
@@ -3792,7 +3792,7 @@
           </speaker>
           <p>
             Oh, fiddle, you don't ketch no Noo York young feller a settlin' down in Radville 'less he's
-            <pb n="32" />
+            <pb n="32"/>
             crazy or somethin' worse but tain't no use tellin' Hetty Carpenter that, if anybody says a word again' him, she shuts 'em righ up.
           </p>
         </sp>
@@ -4558,7 +4558,7 @@
           </stage>
           <p>
             Oh, that needn't bother you. Sam Graham's the easiest thing in the world. Ask anybody in town if he ain't. He had plenty of money when he first came here and he's always worked hard, but he kept lendin' and lendin' and endorsin'
-            <pb n="37" />
+            <pb n="37"/>
             notes for people. He ain't got a penny now, and if you offer him anything for that burner he'll grab it, you see if he don't.
           </p>
         </sp>
@@ -4678,7 +4678,7 @@
           </stage>
           <p>
             Oh
-            <pb n="38" />
+            <pb n="38"/>
             well, it may amount to something.
             <stage>
               ( crosses R. C.)
@@ -6263,7 +6263,7 @@
               ( turns and sees NAT)
             </stage>
             Oh, this gentleman is
-            <pb n="48" />
+            <pb n="48"/>
             going to be with us in the store. This is my daughter Mr. —
           </p>
         </sp>
@@ -6559,7 +6559,7 @@
           </stage>
           <p>
             Because I've been up against it myself for five years and I know how it Seels to see other people getting along when you're not
-            <pb n="50" />
+            <pb n="50"/>
             getting along; to know they have things you don't have. Why I've kept out of the way for days and days rather than to let my successful friends see how shabby I looked. Many a time I've run across the street to avoid meeting some pal who I knew would invite me to have dinner or luncheon or a drink — of soda — or something for fear he would find out that I couldn't "treat" in return. Many a time I've gone hungry and slept in the park until an old friend found me and took me home with him.
           </p>
         </sp>
@@ -7716,7 +7716,7 @@
           </stage>
           <p>
             Suppose you told your firm that there's a young fellow here who'd like to give this store a
-            <pb n="57" />
+            <pb n="57"/>
             boom. Say he wants a little credit because — because Mr. Graham wouldn't allow him to put up any cash —
           </p>
         </sp>
@@ -8230,7 +8230,7 @@
           </stage>
           <p>
             Keep away from
-            <pb n="60" />
+            <pb n="60"/>
             there.
             <stage>
               ( goes up L. Door opens quickly and PETE WILLING, SHERIFF, enters noisily, goes R. C.)
@@ -9147,7 +9147,7 @@
               ( coming down )
             </stage>
             I guess you don't know it but I heard at the Bank they wasn't going to extend the
-            <pb n="66" />
+            <pb n="66"/>
             time on that note of yours and I thought this five hundred would come in handy and I wanted to help you out.
           </p>
         </sp>
@@ -9448,7 +9448,7 @@
           </stage>
           <p>
             Oh, yes, that note. I'll go right over there. I never had so many things
-            <pb n="68" />
+            <pb n="68"/>
             happen to me in one day bfore in all my life
             <stage>
               ( exit )
@@ -9903,7 +9903,7 @@
           </speaker>
           <p>
             Well, by gosh, you are, all right! And
-            <pb n="74" />
+            <pb n="74"/>
             I told him please to let you alone and pick out anyone o' the others.
           </p>
         </sp>
@@ -11789,7 +11789,7 @@
               ( he pauses long enough to have it appear that he has been called to the phone, then speaks in natural voice pleasantly )
             </stage>
             Hello! Hello! Josie — what? Why I came right over here from church. Yes, I know you were — with Roland — Tracey told me. Because you were talking to him, so I didn't wait. Well I couldn't know that could I? How? I say how could I tell you didn't prefer to have him see you
-            <pb n="85" />
+            <pb n="85"/>
             home?
             <stage>
               ( makes a wry face, as if it were an effort to say it )
@@ -11904,7 +11904,7 @@
           </speaker>
           <p>
             I don't. This is for the firm, we are going to do some business for him. He wired me to come to the house, but I shan't stay there — after
-            <pb n="86" />
+            <pb n="86"/>
             I've seen him I'll come back here and go to the hotel. I'm going to hang around here a couple of days with you.
           </p>
         </sp>
@@ -13971,7 +13971,7 @@
               ( springing up behind soda counter )
             </stage>
             Well, the rules are off! I can have a drink — I can have a million drinks — .if I want them.
-            <pb n="100" />
+            <pb n="100"/>
             <stage>
               ( gets bottle of whiskey from counter, pours out big drink, takes a swallow, makes a wry face, sets glass glass down )
             </stage>
@@ -15427,7 +15427,7 @@
           </stage>
           <p>
             Well, I've managed somehow.
-            <pb n="110" />
+            <pb n="110"/>
             But Nat tells me this matter is entirely your affair —
             <stage>
               ( taking telegram from his pocket )
@@ -15554,7 +15554,7 @@
           </stage>
           <p>
             Well, I'll tell you. Suppose you were an old man, Mr. Kellogg, who'd failed at everything you'd undertaken — suppose you had a little motherless girl that you loved but because of your inability she went about so shabby and forlorn that all the young folks laughed at her and wouldn't have anything to do with her. Suppose you'd come to the end and were about to be turned out of your store when along comes a young fellow and gave you every dollar he had in the world to start you over again and then he worked with all his might — day after day until he'd made everything comfortable and easy for you, suppose he changed your shabby little girl into
-            <pb n="111" />
+            <pb n="111"/>
             a beautiful young woman and then a patent that you'd have sold for $500, only for him suddenly brought you in a whole lot of money, who would you think it belonged to?
           </p>
         </sp>
@@ -15716,7 +15716,7 @@
           </speaker>
           <p>
             To break her heart? Don't flatter yourself. It isn't that she loves you — it's because you're the best chance she's seen. My system would have
-            <pb n="112" />
+            <pb n="112"/>
             worked just as well if anyone else had tried it.
             <stage>
               ( going down R.)

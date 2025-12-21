@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000944" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000944" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -132,7 +132,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1819">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -245,7 +245,7 @@
               cultivated a small farm on the borders of the
               canal of Midi. I was useful, though young; we
               were well enough to live, and I received from
-              <pb />
+              <pb/>
               the parish school a good education, was taught
               to love my country, my parents, and my friends;
               a happy temper, a common advantage in my
@@ -303,7 +303,7 @@
             <p>
               I did. We had a boisterous passage to
               America, and endured many hardships during
-              <pb />
+              <pb/>
               the revolution. I was wounded at Yorktown,
               which long disabled me, but what then? I served
               under great men, and for a great cause; I saw
@@ -444,7 +444,7 @@
             <p>
               You know Jerry Mayflower, the wealthy
               farmer; he has offered to marry my Christine.
-              <pb n="11" />
+              <pb n="11"/>
               Girls must not remain single if they can get husbands,
               and I have consented to the match, and
               he will be here to-day to claim her hand.
@@ -542,7 +542,7 @@
               and, let me add, to love. Be serious then,
               dear Christine, and tell me what I have to hope:
               even now I expect orders from my commanding
-              <pb n="13" />
+              <pb n="13"/>
               officer, requiring my immediate presence at
               the camp; we are on the eve of a battle —
               Speak!
@@ -940,7 +940,7 @@
               Yes — there's Bob Short, the tanner;
               Nick Anvil, the blacksmith; Patty, the weaver's
               daughter — and the rest of 'em; come here.
-              <pb n="19" />
+              <pb n="19"/>
               Patty, make a curtchey to the old soger —
               <stage>
                 ( Patty comes forward )
@@ -1131,7 +1131,7 @@
             <p>
               I pray you pardon me. I am an old soldier,
               and fought for the liberty which you enjoy,
-              <pb n="22" />
+              <pb n="22"/>
               and therefore claim some privilege in expressing
               my opinion. But come, your friends are idle,
               let us have breakfast before our cottage door. —
@@ -1365,7 +1365,7 @@
               day, when I were out training, that I held up
               my head more like a soger than any body in the
               ranks: come now, let's make up; you'll always
-              <pb n="25" />
+              <pb n="25"/>
               find me a dutiful husband, and if I ever flog you
               then my name's not Jerry.
             </p>
@@ -1539,7 +1539,7 @@
               So they do — the little independent
               creatures as they are — but what Miss Crissy
               could see in me to refuse, hang me if I can tell.
-              <pb n="27" />
+              <pb n="27"/>
               I'm call'd as sprightly a fellow as any in our
               county, and up to every thing — always ready
               for fun, and perfectly goodnatured.
@@ -1675,7 +1675,7 @@
               I am delighted to see you, dear Lenox;
               you are still as gay and amiable as when you
               taught your little Adela to conjugate verbs, and
-              <pb n="29" />
+              <pb n="29"/>
               murder French; I heard of your gallantry and
               wounds, and imagined I should see you limping
               on crutches, with a green patch over one eye,
@@ -1803,7 +1803,7 @@
               so that in the conclusion of this little affair, I
               gained a feather in my cap, though the enemy
               carried off the plume; and I found myself at last
-              <pb n="31" />
+              <pb n="31"/>
               on the field of battle, as cool as any hero in the
               army.
             </p>
@@ -2055,7 +2055,7 @@
               I did fight at the battaile de Vittoria, com un
               diable, like littel devil. I did kill beaucop d'
               Anglais. Mai my maitre, le capitain, he did
-              <pb n="35" />
+              <pb n="35"/>
               give me a dam tump on my head wis his rapier,
               and did knock me down from on top of my horse,
               and make a me von prisonier.
@@ -2136,7 +2136,7 @@
             <p>
               Dam de little bell, I will not come:
               mon maitre he always interrupt me ven I make
-              <pb n="36" />
+              <pb n="36"/>
               de love to the pretti ladi, he be jealous, begar I
               vill not come.
             </p>
@@ -2470,7 +2470,7 @@
             <p>
               The officer who is to be under
               my command. Well sir, you have lately arrived
-              <pb n="40" />
+              <pb n="40"/>
               from across the great waters: How did you
               leave my father, the king of England?
             </p>
@@ -2627,7 +2627,7 @@
               Ay, sir; your general, at my request,
               has ordered you here to take command of a company
               of my warriors; but you must not appear in
-              <pb n="42" />
+              <pb n="42"/>
               that dress: change it quickly, or they will not be
               commanded by you; they are men, and fight under
               the orders of men.
@@ -2679,7 +2679,7 @@
               ne plus ultra
               , of Bondstreet,
               the very mirror of fashion and elegance?
-              <pb n="43" />
+              <pb n="43"/>
               Sir, I beg you to observe, that I am not to be
               treated in this manner — I shall resent this insult.
               Damme, I shall report you to the commander in
@@ -3512,7 +3512,7 @@
               and, tortured by jealousy, enlisted, was mutinous,
               and sentenced to die; but who, to save a miserable
               life, avowed her situation, and recorded
-              <pb n="53" />
+              <pb n="53"/>
               her disgrace at once? Never, never! let me
               die, and forever be forgotten — 'tis but a blow,
               and it will end the pangs which torment me here.
@@ -3594,7 +3594,7 @@
             <p>
               And so I got together all my neighbours,
               and, with music, went to the old soger's to get my
-              <pb n="54" />
+              <pb n="54"/>
               sweetheart, when, lo and behold! after all my
               trouble, she refused me plump.
             </p>
@@ -3679,7 +3679,7 @@
             </speaker>
             <p>
               Now, my dear jailor, do let me escape,
-              <pb n="55" />
+              <pb n="55"/>
               and I'll give you the prettiest little pig in my farm
               yard.
             </p>
@@ -3868,7 +3868,7 @@
               our artillery under Towson, issued in all his
               force from his entrenchments. It was a gallant
               sight, to see his solid columns and burnished
-              <pb n="57" />
+              <pb n="57"/>
               arms advance on the margin of the river, and his
               cavalry, with lightning's force, dart on our flanks
               to turn and throw them into confusion: but they
@@ -3928,7 +3928,7 @@
               them on;
               Jessup
               and his third battalion turned
-              <pb n="58" />
+              <pb n="58"/>
               the right flank of the enemy after a dreadful conflict;
               Ketchum
               had kept up a cross and ruinous
@@ -4086,7 +4086,7 @@
               and in disguise? A man of rank and fashion, and
               a soldier, changing his complexion, his nature
               and his character — herding with savages — infuri
-              <pb n="60" />
+              <pb n="60"/>
               ating their horrid passions, and whetting their
               knives and tomahawks against their defenceless
               prisoners? Impossible! And who are you, sir?
@@ -4159,7 +4159,7 @@
               Par example, dis Yankee Doodel is
               von very pretti spoken jeune gentiman, I will
               give him de encouragement. Sair, I will be ver
-              <pb n="61" />
+              <pb n="61"/>
               happy to serve you en my contree, to take un
               tasse de caffee at de Palais Royale en Paris wid
               you, to dress your hair, or pull your corso
@@ -4252,7 +4252,7 @@
             </speaker>
             <p>
               And have you discovered that any difference
-              <pb n="62" />
+              <pb n="62"/>
               exists in the last affair in which you have
               been engaged?
             </p>
@@ -4430,7 +4430,7 @@
             <p>
               'Tis well, sir; behold in me your captive,
               who has fallen into your power after a resistance
-              <pb n="64" />
+              <pb n="64"/>
               becoming a warrior. I am ready to
               meet that death which I know awaits me.
             </p>
@@ -4487,7 +4487,7 @@
               you into our cabins; we hunted for you, toiled
               for you; our wives and daughters cherished and
               protected you; but when your numbers increased,
-              <pb n="65" />
+              <pb n="65"/>
               you rose like wolves upon us, fired our
               dwellings, drove off our cattle, sent us in tribes
               to the wilderness, to seek for shelter; and now
@@ -4544,7 +4544,7 @@
               urged by powerful wrongs? No, white man,
               no! the Great Spirit whom we worship, is also
               the God whom you adore; for friends we cheerfully
-              <pb n="66" />
+              <pb n="66"/>
               lay down our lives; but against foes, our
               lives are staked with desperation. Had I taken
               you prisoner, death should have been your portion;
@@ -4606,7 +4606,7 @@
               remove their jealousies. Do this, and the red
               man is your friend. I have urged you far to
               end my life: you have tempered your passions
-              <pb n="67" />
+              <pb n="67"/>
               with mercy, and we are no longer foes. Farewell!
             </p>
           </sp>
@@ -4686,7 +4686,7 @@
               Why sir, if war was not my profession,
               I'd sell out; but it's always my maxim to obey
               orders, whatever they may be: therefore shall
-              <pb n="68" />
+              <pb n="68"/>
               be happy to have a brush with you in war, and
               equally happy to crack a bottle of Burgundy with
               you in peace; a flash in the pan in one way, or
@@ -4758,7 +4758,7 @@
               painted? where is that content and love which
               gleamed through the casement of our cottage,
               when my dear father smiled on his child, and
-              <pb n="69" />
+              <pb n="69"/>
               entwined around her his protecting arms: when
               the false Lenox, too, with honeyed lips, and
               tones soft as zephyrs. vow'd eternal love? Let

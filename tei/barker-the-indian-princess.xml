@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000530" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000530" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -141,7 +141,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1808">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -545,7 +545,7 @@
             <p>
               Troth now, the mussulmans may have
               been mightily amused by the caper; but for my
-              <pb n="10" />
+              <pb n="10"/>
               part I should modestly prefer skipping to the simple
               jig of an Irish bag-pipe.
             </p>
@@ -782,7 +782,7 @@
               Cheerly, girl; our captain will make the
               red rogues scamper like so many dun deer. Savages,
               quotha! at sight of him, their copper skins will
-              <pb n="12" />
+              <pb n="12"/>
               turn pale as silver, with the very alchemy of fear.
               Come, a few kisses, en passant, and then away!
               cheerly, my dainty Alice.
@@ -1147,7 +1147,7 @@
               bear; my club felled them to the ground, and I
               tore their skins from their backs. The fierce carcajou
               had wound himself around the tree, ready to
-              <pb n="16" />
+              <pb n="16"/>
               dart upon the hunter; but the hunter's eyes were
               not closed, and the carcajou quivered on the point
               of my spear. I heard the wolf howl as he looked at
@@ -1318,7 +1318,7 @@
             <p>
               Then art thou a man like a God; thou shalt
               be the brother of Nantaquas. Stranger, my father
-              <pb n="18" />
+              <pb n="18"/>
               is king of the country, and many nations obey him:
               will thou be the friend of the great Powhatan?
             </p>
@@ -1826,7 +1826,7 @@
               their ambuscado started full three hundred black
               fiends, with a yell that might have appaled Lucifer,
               and whiz came a cloud of arrows about our ears.
-              <pb n="22" />
+              <pb n="22"/>
               Three tall fellows of ours fell; Cassen, Emery, and
               Robinson. Our lieutenant, with Percy and myself,
               fought our way to the water side, where, leaving
@@ -2432,7 +2432,7 @@
             <p>
               Brothers, this stranger is of a fearful
               race of beings; their barren hunting grounds lie
-              <pb n="27" />
+              <pb n="27"/>
               beneath the world, and they have risen, in monstrous
               canoes, through the great water, to spoil
               and ravish from us our fruitful inheritance. Brothers,
@@ -2487,7 +2487,7 @@
               bore him away. But oh! my father, he must not
               die; for he is not a war captive; I promised that
               the chain of friendship should be bright between us.
-              <pb n="28" />
+              <pb n="28"/>
               Chieftains, your prince must not falsify his word;
               father, your son must not be a liar!
             </p>
@@ -2645,7 +2645,7 @@
               <stage>
                 Plaintive music. She bows her head to his feet. Powhatan, after some deliberation, looking on his daughter with tenderness, presents her with a string of white wampum. Pocahontas, with the wildest expression of joy, rushes forward with Smith, presenting the beads of peace.
               </stage>
-              <pb n="30" />
+              <pb n="30"/>
               Captive! thou art free! —
             </p>
           </sp>
@@ -3762,7 +3762,7 @@
             </speaker>
             <p>
               Angel of purity! thou didst to day feel pity
-              <pb n="39" />
+              <pb n="39"/>
               and now — O rapturous task to teach thee the difference!
               — now, thou dost feel love.
             </p>
@@ -4371,7 +4371,7 @@
               braved your king, and defied him with the crimson
               tomahawk. Warriors! we will not bury it till his
               nation is extinct. Ere we tread the war-path, raise
-              <pb n="44" />
+              <pb n="44"/>
               to or god Aresqui the song of battle, then march
               to triumph and to glory.
             </p>
@@ -5886,7 +5886,7 @@
             <p>
               Do you want proof of the white man's hatred
               to the red? Follow him along the bay; count
-              <pb n="56" />
+              <pb n="56"/>
               the kings he has conquered, and the nations that his
               sword has made extinct.
             </p>
@@ -5965,7 +5965,7 @@
               English sit at that banquet from which they shall
               never rise; when their eyes read nothing but
               friendship in thy looks, there shall hang a hatchet
-              <pb n="57" />
+              <pb n="57"/>
               over each victim head, which, at the silent signal of
               Grimosco —
             </p>
@@ -6055,7 +6055,7 @@
               And at last, when the angel of death obeys
               his call of anguish, whither will go his condemned
               soul? Not to the fair forests, where his brave fathers
-              <pb n="58" />
+              <pb n="58"/>
               are. O! never will Powhatan clasp the dear
               ones who have gone before him. His exiled, solitary
               spirit will for ever how; on the barren heath
@@ -6600,7 +6600,7 @@
             </speaker>
             <p>
               Ay, do be telling me — but stop every now
-              <pb n="62" />
+              <pb n="62"/>
               and then, that I may point your story with a grammatical
               kiss.
             </p>

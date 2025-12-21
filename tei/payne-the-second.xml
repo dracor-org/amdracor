@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000923" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000923" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -93,7 +93,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1829">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -262,7 +262,7 @@
               Would you have me whine when my sovereign calls
               for a jolly song? No, no, my lady, that might have
               done in the days of the Roundheads; but times are
-              <pb n="4" />
+              <pb n="4"/>
               altered. We have a merry monarch to reign over us —
               A merry monarch, makes a merry court — so God save
               the jovial king, and send him boon companions!
@@ -424,7 +424,7 @@
             <p>
               A pretty task I have undertaken,
               truly! I — Rochester — become reformer! I who am
-              <pb n="5" />
+              <pb n="5"/>
               considered by all the pious saints about Court, as the
               ringleader of all mischief. And, then, the convert I
               have to work upon? Charles, who glories in all kinds
@@ -532,7 +532,7 @@
             </speaker>
             <p>
               Nay, a truce with all description. But who,
-              <pb n="6" />
+              <pb n="6"/>
               pray, is the object of this honest attachment?
             </p>
           </sp>
@@ -681,7 +681,7 @@
             <p>
               Worse and worse! Some old buccaneer, tired
               of playing the part of monster at sea, has turned
-              <pb n="7" />
+              <pb n="7"/>
               shork on shore. And do you dare to appear in such
               a house with the dress of a royal page?
             </p>
@@ -1259,7 +1259,7 @@
             <p>
               No, no: Lord Rochester must assist me — He
               has a particular talent for affairs of this nature. —
-              <pb n="11" />
+              <pb n="11"/>
               <stage>
                 ( In a low tone to Rochester )
               </stage>
@@ -1362,7 +1362,7 @@
                 ( attempts to sing )
               </stage>
               — no, I can't — it's all out of my head —
-              <pb n="12" />
+              <pb n="12"/>
               well, so much the better! I suppose he is teaching it
               to some fine lady scholar — let him, I don't care — I
               don't believe he'll find her so apt a scholar.
@@ -1501,7 +1501,7 @@
             <p>
               Avast there — what, trust thee in the way of
               two such rovers? No, no, I recollect too well what it
-              <pb n="13" />
+              <pb n="13"/>
               was to get on shore after a long voyage. The first
               glimpse of a petticoat — whew! up boarding-pikes and
               grappling-irons! —
@@ -1635,7 +1635,7 @@
             <p>
               Oh no, on no account; I dare
               say he is not well, some accident has happened. Besides,
-              <pb n="14" />
+              <pb n="14"/>
               there is no other teacher in town equal to him,
               he sings with such feeling.
             </p>
@@ -2178,7 +2178,7 @@
             </speaker>
             <p>
               Innocent motives bring you and the king, at
-              <pb n="18" />
+              <pb n="18"/>
               night to a tavern in Wapping, where there is a beautiful
               girl? Ah! my lord, my lord —
             </p>
@@ -2348,7 +2348,7 @@
             </speaker>
             <p>
               Hum — I can't say I see much-resemblance.
-              <pb n="19" />
+              <pb n="19"/>
               He is taller than Edward, and older, and the expression
               of his countenance is not the same.
             </p>
@@ -2921,7 +2921,7 @@
               </stage>
               no harm done — Come, lads,
               take your seats —
-              <pb n="22" />
+              <pb n="22"/>
               <stage>
                 ( They seat themselves. Edward attempts to place himself by Mary — Charles interferes and takes the place; Edward then attempts to place himself at Mary's left hand, Rochester pops himself into the chair. )
               </stage>
@@ -3558,7 +3558,7 @@
               And why not? What, tho'
               I'm
               a dunce,
-              <pb n="26" />
+              <pb n="26"/>
               that's no reason that Mary Copland should be a fool.
               Her father was a man of parts.
             </p>
@@ -3720,7 +3720,7 @@
               To keep more in port, anchor himself at
               home, and turn that fellow, Rochester, adrift — there
               might then be some hopes of him. — But, come, 'tis
-              <pb n="27" />
+              <pb n="27"/>
               getting late — now, friends, it's time to turn out, and
               turn in — these are late hours for the Grand Admiral,
               come, a parting cup. —
@@ -4228,7 +4228,7 @@
               </stage>
               —
               Charles, Charles! wilt thou never learn wisdom? —
-              <pb n="30" />
+              <pb n="30"/>
               <stage>
                 ( a noise of unlocking the door )
               </stage>
@@ -4615,7 +4615,7 @@
             </stage>
             <p>
               Will this consultation
-              <pb n="32" />
+              <pb n="32"/>
               never end! I dread the arrival of the officers.
             </p>
           </sp>
@@ -4841,7 +4841,7 @@
             </speaker>
             <p>
               I'll manage that; only say as I say, and fear
-              <pb n="33" />
+              <pb n="33"/>
               nothing. Stop thief! stop thief!
               <stage>
                 ( To Mary )
@@ -5092,7 +5092,7 @@
             </stage>
             <p>
               So, the page already in waiting.
-              <pb n="35" />
+              <pb n="35"/>
               Deuce take him! he is exactly in the door-way
               of my chamber. So, so! Lady Clara coming! Oh,
               then, all's over.
@@ -5856,7 +5856,7 @@
               </stage>
               My lord,
               you will please to present yourself in my study at
-              <pb n="40" />
+              <pb n="40"/>
               two o'clock. I have something particular to say to
               you.
             </p>
@@ -6546,7 +6546,7 @@
             </speaker>
             <p>
               Not I, thank heaven! But I only said, what
-              <pb n="44" />
+              <pb n="44"/>
               everybody says — and what everybody says, you know,
               must be true.
             </p>
@@ -6877,7 +6877,7 @@
                 [ Copp stops, and looks fiercely at him.
               </stage>
               It is true, I am Rochester — a sad fellow, no doubt,
-              <pb n="46" />
+              <pb n="46"/>
               since all the world says so — but there is one grievous
               sin which I will not take to my conscience, for it is
               against beauty. I am not the Rochester who disclaimed

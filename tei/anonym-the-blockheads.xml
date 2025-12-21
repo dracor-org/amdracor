@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000643" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000643" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -134,7 +134,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1782">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -239,7 +239,7 @@
               human love! — protectress of the
               spring renewing fields, and bounteous
               fruits — Accept these offerings of our earliest
-              <pb />
+              <pb/>
               produce — May each returning year
               renew our grateful praise, and keep the
               peaceful scene in view.
@@ -331,7 +331,7 @@
               extend it's baneful power — discord shall
               reign and rule this hapless land — friendship
               shall fly — plenty shall be no more —
-              <pb n="4" />
+              <pb n="4"/>
               all the delights of peace shall vanish —
               the awful time is come when wretched
               mortals, weltering in blood, shall add sad
@@ -512,7 +512,7 @@
               shall poor expiring victims pant to quit
               their native land, in hope to meet with
               peace in death. — Alas! why heaves my
-              <pb n="8" />
+              <pb n="8"/>
               bosom thus? till now I never felt the
               power of love; freedom had taken possession
               of my heart, but fancy's wings
@@ -606,7 +606,7 @@
             <p>
               I must this moment hence — The signal's
               given, and all repair — the standard's
-              <pb n="10" />
+              <pb n="10"/>
               fix'd — reas'nings in vain — The scene begins,
               and merriment's no more — Freedom
               forgets her mother's care — Love
@@ -919,7 +919,7 @@
               What's the matter with your sight?
               your ancestors saw clear without French
               spectacles — they lived to a good old age,
-              <pb n="16" />
+              <pb n="16"/>
               and scorned the assistance of a French occulist
               — take the advice of a friend, throw
               off your Gallic assistants, and I'll answer
@@ -1654,7 +1654,7 @@
               from the Cape of Good Hope. —
               Your steerage is gone — you beat about
               like a skiff in a squall. — Lay hold of this
-              <pb n="32" />
+              <pb n="32"/>
               hawfer — I'll take ye in tow, and moor
               you safe in port.
             </p>
@@ -1746,7 +1746,7 @@
             <p>
               It is too late to shift the blame. — A
               Frenchman is like a maggot in a nut —
-              <pb n="34" />
+              <pb n="34"/>
               put him in the middle, he'll work his way
               through, and leave you nothing but the
               shell to whistle to.

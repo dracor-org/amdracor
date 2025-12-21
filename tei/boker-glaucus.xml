@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000504" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000504" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -134,7 +134,7 @@
           <term subtype="am" type="playtype">
             verse
           </term>
-          <term subtype="am" type="content" />
+          <term subtype="am" type="content"/>
         </keywords>
       </textClass>
     </profileDesc>
@@ -142,7 +142,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1940">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>

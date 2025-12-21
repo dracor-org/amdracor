@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000380" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000380" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,7 +96,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1925">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -185,7 +185,7 @@
             ( She picks up a tablet of engagements, reads .)
           </stage>
           Wednesday, ten
-          <pb n="84" />
+          <pb n="84"/>
           a.m., committee for new carpet, Miss Norton, Miss Knox, Miss Trimball, Hump! much
           she
           knows about carpet.
@@ -316,7 +316,7 @@
             ( Seeing the Rector as he passes the window .)
           </stage>
           Here he
-          <pb n="85" />
+          <pb n="85"/>
           is now.
           <stage>
             ( Rising .)
@@ -1068,7 +1068,7 @@
         </stage>
         <p>
           Did
-          <pb n="91" />
+          <pb n="91"/>
           you say — Oh! I beg your pardon —
           <stage>
             ( realizing he has interrupted .)
@@ -1212,7 +1212,7 @@
           Oh, nonsense! That
           is
           a farce
-          <pb n="92" />
+          <pb n="92"/>
           — waiting for Victoria Knox. I have everything all settled, and it will only take a few minutes.
           <stage>
             ( The bell rings , MARGARET and MR. HERRESFORD both start toward the door .)
@@ -1333,7 +1333,7 @@
           particular about
           my
           dresses. She says I —
-          <pb n="93" />
+          <pb n="93"/>
           Oh, what do you think, she's making Hilda Martin's wedding dress, and it's —
         </p>
       </sp>
@@ -1467,7 +1467,7 @@
         </stage>
         <p>
           As the chairman of the committee, I have deemed it wise to obtain these samples of the material which may be procured for the price within our limit. Now, the short aisle, leading across the front of the church at the left, is never seen, and almost never used; and in
-          <pb n="94" />
+          <pb n="94"/>
           considering the matter I have decided that it would be a useless and wasteful expenditure to put carpet on that.
         </p>
       </sp>
@@ -2358,7 +2358,7 @@
             ( Turning back to her .)
           </stage>
           Margaret,
-          <pb n="100" />
+          <pb n="100"/>
           Miss Margaret, you're very wise — if you're not gray-headed. Sit down. I so often wonder where it all came from — your strength and judgment. Every one turns to you intuitively for guidance, and I also wonder what you are going to do with it all; if you don't sometimes rebel at this little narrow life and want something freer, broader, where you can
           use
           that beautiful mind of yours.
@@ -2470,7 +2470,7 @@
           <stage>
             ( After a pause .)
           </stage>
-          <pb n="101" />
+          <pb n="101"/>
           I can't believe it! I can't
           believe
           it! Oh! I'm so sorry for you, and so ashamed — for
@@ -2830,7 +2830,7 @@
         </stage>
         <p>
           Thank
-          <pb n="104" />
+          <pb n="104"/>
           you. That was so good. I was so thirsty. Well, I must go now.
           <stage>
             ( She drops her glove and they both stoop to pick it up .)

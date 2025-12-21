@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000860" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000860" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -11,8 +11,8 @@
             <forename>Amelia</forename>
             <surname>Sanford</surname>
           </persName>
-          <idno type="wikidata" />
-          <idno type="pnd" />
+          <idno type="wikidata"/>
+          <idno type="pnd"/>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -105,7 +105,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1900">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -1060,7 +1060,7 @@
           </speaker>
           <p>
             Well, how would you like to work with me for awhile? I have to clean house, anyway, and if I had such a
-            <pb n="12" />
+            <pb n="12"/>
             number of nice smart young ladies with me, I could keep a hotel right through the winter.
           </p>
         </sp>

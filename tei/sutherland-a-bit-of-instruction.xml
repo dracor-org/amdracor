@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000749" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000749" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +85,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1900">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -317,7 +317,7 @@
             ( Yawns .)
           </stage>
           I beg your
-          <pb n="108" />
+          <pb n="108"/>
           pardon, but I'm rather done up. It is late, as you say — and matinee day.
         </p>
       </sp>
@@ -898,7 +898,7 @@
         </speaker>
         <p>
           O, but we are, then. You see, Ethel has
-          <pb n="114" />
+          <pb n="114"/>
           written a play, and we were going to give that; but she thought we didn't have time to do it justice, and we'd better do something from Shakespeare.
         </p>
       </sp>
@@ -1367,7 +1367,7 @@
           look like that, — she
           will
           look like that — thank God and Shakespeare — as long as youth is youth. And you stand there, worshiping her, and
-          <pb n="119" />
+          <pb n="119"/>
           aching for her; — and one minute you want to crush her — here —
           <stage>
             ( With a motion of straining a woman to his breast .)
@@ -1443,7 +1443,7 @@
         </speaker>
         <p>
           I can't stand it! O, I see now, — I understand it — she couldn't help it. Poor little Ethel — she
-          <pb n="120" />
+          <pb n="120"/>
           couldn't help it! And it — it may not be so bad. You're a gentleman — if you are an actor, you're a gentleman, — but if you don't — if you're not good to her, — by God — I —
         </p>
       </sp>
@@ -1527,7 +1527,7 @@
         </speaker>
         <p>
           I mean to say, my dear fellow, that I suppose at a hundred or so matinees a year there are a
-          <pb n="121" />
+          <pb n="121"/>
           hundred or so such girls; and I never saw one of them.
         </p>
       </sp>
@@ -1618,7 +1618,7 @@
             ( Opens table drawer .)
           </stage>
           I remember. I brought home a pocketful of things; and I was so fagged, I fired them all in
-          <pb n="122" />
+          <pb n="122"/>
           here, and then cold forgot them.
           <stage>
             ( He gathers up a number of letters, from drawer, and holds them all out, to Newbury .)
@@ -1690,7 +1690,7 @@
         </stage>
         <p>
           See that? Well, that is the little girl I'm going to marry, if ever the Lord
-          <pb n="123" />
+          <pb n="123"/>
           and the managers let us stay in the same town long enough. Satisfied?
         </p>
       </sp>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000642" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000642" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -203,7 +203,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1819">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -392,7 +392,7 @@
           <p>
             — Do you think I am afraid of Indians?
             They'll soon have to make their escape, I warrant you, and
-            <pb />
+            <pb/>
             take up their residence on the other side of the Mississippi.
             There was a whole township of them destroyed last year,
             by a Capt. Wright, I think it was; and others will have to
@@ -492,7 +492,7 @@
             of a people who have never been taught to forgive injuries?
             I hope if you go to the state of Mississippi, you will
             have occular demonstration of the practicability of civilizing
-            <pb />
+            <pb/>
             the Savages. For there is in that vicinity, a missionary
             station at a place called Brainard, where the work has
             been most auspiciously commenced.
@@ -1870,7 +1870,7 @@
               (They all advance and make obeisance.)
             </stage>
             You are fond of
-            <pb n="14" />
+            <pb n="14"/>
             living in this missionary family I conclude.
           </p>
         </sp>
@@ -2165,7 +2165,7 @@
           </speaker>
           <p>
             I am highly pleased with the school. The children
-            <pb n="16" />
+            <pb n="16"/>
             behave well — with much more propriety than I expected.
           </p>
         </sp>
@@ -2445,7 +2445,7 @@
             as an arrow, or you can make it bend to the north, to the
             south — to the east, to the west, just as your mind is — It is so
             with our children. Not long since, some of our young men
-            <pb n="19" />
+            <pb n="19"/>
             shook hands, and all agreed not to drink any more — not to
             be wild — agreed to invite schools — They said they were
             tired of Indian ways. If fathers, mothers, and young
@@ -2516,7 +2516,7 @@
             and wept in compassion to you. And when, by constant
             and repeated abuse, they make "your poor men wretched,
             and induce your rich men to move away," still farther from
-            <pb n="20" />
+            <pb n="20"/>
             the light of the gospel "our hearts sink within us, and we
             feel constrained to weep — we seek where to weep; we enter
             our closets and weep there." Think not, my brethren,
@@ -2756,7 +2756,7 @@
               [ Exit Catharine .]
             </stage>
             Your daughter
-            <pb n="22" />
+            <pb n="22"/>
             is very dear to us; she has improved surprisingly since her
             residence here. We intend to have her well educated before
             she leaves us.
@@ -2921,7 +2921,7 @@
           </speaker>
           <p>
             The thought of leaving you here, hurts us as bad
-            <pb n="23" />
+            <pb n="23"/>
             — I like Missionaries too — I wish we live here — but we
             must go to Arkansas — Come fix away.
           </p>

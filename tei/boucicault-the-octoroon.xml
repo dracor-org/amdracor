@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000477" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000477" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -134,7 +134,7 @@
           <term subtype="am" type="playtype">
             prose
           </term>
-          <term subtype="am" type="content" />
+          <term subtype="am" type="content"/>
         </keywords>
       </textClass>
     </profileDesc>
@@ -142,7 +142,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1866">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -469,7 +469,7 @@
               Guess they nebber was born — dem tings! what dem?
               — get away! Born here — dem darkies? What on Terrebonne!
               Don't believe it, Mas'r George — dem black tings never was
-              <pb n="8" />
+              <pb n="8"/>
               born at all; dey swarmed one mornin' on a sassafras tree in
               the swamp — I cotched 'em, dey aint no count. Don't b'lieve
               dey'll turn out niggers when dere growed — dey'll come out
@@ -816,7 +816,7 @@
             </speaker>
             <p>
               No, it ain't, because, just then, what does the Judge
-              <pb n="10" />
+              <pb n="10"/>
               do but hire another overseer — a Yankee — a Yankee named
               Salem Scudder.
             </p>
@@ -994,7 +994,7 @@
             </speaker>
             <p>
               Look here; I can't stand that gal! if I stop here, I
-              <pb n="11" />
+              <pb n="11"/>
               shall hug her right off.
               <stage>
                 (sees Pete , who has set his pail down L. C. up stage, and goes to sleep on it)
@@ -1253,7 +1253,7 @@
             </speaker>
             <p>
               Ask him, I want to know; don't say I told you to
-              <pb n="12" />
+              <pb n="12"/>
               enquire, but find out — Minnie, fan me, it is so nice — and his
               clothes are French, ain't they?
             </p>
@@ -1487,7 +1487,7 @@
             </speaker>
             <p>
               It's a shame to allow that young cub to run over the
-              <pb n="13" />
+              <pb n="13"/>
               swamps and woods, hunting and fishing his life away instead of
               hoeing cane.
             </p>
@@ -1713,7 +1713,7 @@
             <p>
               George, I can't spare Paul for an hour or two; he
               must run over to the landing, the steamer from New Orleans
-              <pb n="14" />
+              <pb n="14"/>
               passed up the river last night, and if there's a mail they have
               thrown it ashore.
             </p>
@@ -1928,7 +1928,7 @@
             </speaker>
             <p>
               Yes, there is a hope left yet, and I cling to it. The
-              <pb n="15" />
+              <pb n="15"/>
               house of Mason Brothers, of Liverpool, failed some twenty
               years ago in my husband's debt.
             </p>
@@ -2095,7 +2095,7 @@
             </speaker>
             <p>
               What you won't, won't ye? If young George
-              <pb n="16" />
+              <pb n="16"/>
               Peyton was to make you the same offer, you'd jump at it,
               pretty darned quick, I guess. Come, Zoe, don't be a fool,
               I'd marry you if I could, but you know I can't, so just say
@@ -2461,7 +2461,7 @@
               but I ain't jealous of you, because I believe the only sincere
               feeling about you is your love for Zoe, and it does your heart
               good to have her image thar; but I believe you put it thar to
-              <pb n="18" />
+              <pb n="18"/>
               spile. By fair means I don't think you can get her, and don't
               you try foul with her, 'cause if you do, Jacob, civilization be
               darned, I'm on you like a painter, and when I'm drawed out
@@ -2759,7 +2759,7 @@
             blow, Massa Scudder when I tole you; dere's a
             man from Noo Aleens just arriv' at de house, and he's stuck
             up two papers on de gates, "For sale — dis yer property," and
-            <pb n="20" />
+            <pb n="20"/>
             a heap of oder tings — and he seen missus, and arter he shewn
             some papers she burst out crying — I yelled; den de corious of
             little niggers dey set up, den de hull plantation children — de
@@ -3227,7 +3227,7 @@
           </stage>
           <p>
             Your birth — I know it. Has not my dear aunt
-            <pb n="22" />
+            <pb n="22"/>
             forgotten it — she who had the most right to remember it. You
             are illegitimate, but love knows no prejudice.
           </p>
@@ -3424,7 +3424,7 @@
             you wedded to the child of her husband's slave? No! she
             would revolt from it as all but you would, and if I consented
             to hear the cries of my heart, if I did not crush out my infant
-            <pb n="23" />
+            <pb n="23"/>
             love, what would she say to the poor girl on whom she had
             bestowed so much? No, no!
           </p>
@@ -3607,7 +3607,7 @@
           </speaker>
           <p>
             I must operate and take my own likeness too — how
-            <pb n="24" />
+            <pb n="24"/>
             debbel I do dat? Can't be ober dar an' here too — I ain't
             twins. Ugh! ach! 'Top, you look, you Wahnotee, you see
             dis rag, eh? Well, when I say go, den lift dis rag like dis, see!
@@ -3910,7 +3910,7 @@
           <p>
             What, Picayune Paul, as we called him, that used to
             come aboard my boat? — poor little darkey, I hope not; many
-            <pb n="26" />
+            <pb n="26"/>
             a picayune he picked up for his dance and nigger songs, and
             he supplied our table with fish and game from the Bayous.
           </p>
@@ -4316,7 +4316,7 @@
             of him, as I saw her do, and they so happy in spite of this yer
             misery around them, and they reproachin' themselves with not
             feeling as they ought. I've seen it, I tell you, and darn it,
-            <pb n="28" />
+            <pb n="28"/>
             ma'am, can't you see that's what's been a hollowing me out so
             — I beg your pardon.
           </p>
@@ -4506,7 +4506,7 @@
             </stage>
             Why
             don't he speak? — I mean, you feared I might not give you
-            <pb n="29" />
+            <pb n="29"/>
             credit for sincere and pure feelings? — Well, you wrong me. I
             don't think you capable of anything else than —
           </p>
@@ -4926,7 +4926,7 @@
             the estate; consarn those Liverpool English fellers, why
             couldn't they send something by the last mail? Even a letter,
             promising something — such is the feeling round amongst the
-            <pb n="31" />
+            <pb n="31"/>
             planters — darn me if I couldn't raise thirty thousand on the
             envelope alone, and ten thousand more on the post-mark.
           </p>
@@ -5107,7 +5107,7 @@
           <p>
             Genl'men, my coloured frens and ladies, dar's mighty
             bad news gone round. Dis yer prop'ty to be sold — old Terrebonne — whar
-            <pb n="32" />
+            <pb n="32"/>
             we all been raised, is gwine — dey's gwine to
             tak it away — can't stop here no how.
           </p>
@@ -5685,7 +5685,7 @@
           </speaker>
           <p>
             Then buy the hands along with the property. Now,
-            <pb n="35" />
+            <pb n="35"/>
             gentlemen, I'm proud to submit to you the finest lot of field
             hands and house servants that were ever offered for competition,
             they speak for themselves, and do credit to their owners.
@@ -6405,7 +6405,7 @@
             <p>
               See here — there's a small freight of turpentine in
               the fore-hold there, and one of the barrels leaks; a spark from
-              <pb n="38" />
+              <pb n="38"/>
               your engines might set the ship on fire, and you'd go with it.
             </p>
           </sp>
@@ -7081,7 +7081,7 @@
               in the hearts of brave men who can tell right from wrong, and
               from whom justice can't be bought. So it is here, in the Wilds
               of the West, where our hatred of crime is measured by the
-              <pb n="41" />
+              <pb n="41"/>
               speed of our executions — where necessity is law! I say,
               then, air you honest men? air you true? put your hands
               on your naked breasts, and let every man as don't feel a real

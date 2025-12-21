@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000658" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000658" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -103,7 +103,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1893">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -219,7 +219,7 @@
           </speaker>
           <p>
             Farewell! Ah, when shall I again behold thee? Oh, be not long
-            <pb n="263" />
+            <pb n="263"/>
             away, for like a, caged bird I pine for thee.
           </p>
         </sp>
@@ -299,7 +299,7 @@
           </speaker>
           <p>
             I listen to thy lover's fond and
-            <pb n="264" />
+            <pb n="264"/>
             heartless vows. What is his love to mine? Ah, lady, he loves thee for thy wealth alone. Again I ask, nay, I implore thee to be mine! Oh, grant me now my prayer!
           </p>
         </sp>
@@ -378,7 +378,7 @@
           </speaker>
           <p>
             Oh, blessed draught that wins for me the love I seek. Proud Bianca,
-            <pb n="266" />
+            <pb n="266"/>
             now art thou in my power, and shalt ere long return the love of the once hated and despised Huon. Great sorceress, say how can I repay thee? Fear not to claim thy just reward.
           </p>
         </sp>
@@ -720,7 +720,7 @@
           </speaker>
           <p>
             Forget! Ah, never, never, till in death I join him! Forgive thee? Not till I have told thy crime. Yes, think not I will rest till thou, my murdered Adelbert, art well avenged. And thou!
-            <pb n="274" />
+            <pb n="274"/>
             — ah, sinful man, tremble, for thou art in my power, and my wronged heart can feel no pity now.
           </p>
         </sp>

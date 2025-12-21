@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000681" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000681" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -11,8 +11,8 @@
             <forename>Louise Latham.</forename>
             <surname>Wilson</surname>
           </persName>
-          <idno type="wikidata" />
-          <idno type="pnd" />
+          <idno type="wikidata"/>
+          <idno type="pnd"/>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -117,7 +117,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1916">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -207,7 +207,7 @@
           <stage>
             ( Searches .)
           </stage>
-          <pb n="6" />
+          <pb n="6"/>
           That's queer! I left it right here when I went downstairs. Well, probably one of the girls has it on. They don't seem to know how to discriminate between their clothes and mine, anyway.
         </p>
       </sp>
@@ -648,7 +648,7 @@
         </speaker>
         <p>
           Well, now, see here. Of course your conduct has been scandalous, perfectly scandalous! But we will overlook it this time on condition that you will keep still
-          <pb n="9" />
+          <pb n="9"/>
           about anything you may have overheard, and on condition that you will lend us your clothes basket.
         </p>
       </sp>
@@ -1074,7 +1074,7 @@
         </speaker>
         <p>
           Ah I observe that the room is empty, quite empty, and I regard it as a duty — yes, quite a duty — to make a few — ah! — investigations. I have every reason to think that something very unusual is brewing for to-night, and these things should be thoroughly, quite thoroughly, investigated, and managed with a firm hand. Miss Ophelia Judkins
-          <pb n="12" />
+          <pb n="12"/>
           is a very estimable lady, but I fear — I very much fear — that she does not thoroughly investigate things.
           <stage>
             ( Looking beneath sofa .)
@@ -1096,7 +1096,7 @@
         <stage>
           ( Whistles same way .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#manoutside">
         <speaker>
@@ -1105,7 +1105,7 @@
         <stage>
           ( Two short whistles .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#professor">
         <speaker>
@@ -1114,7 +1114,7 @@
         <stage>
           ( Two short whistles .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#manoutside">
         <speaker>
@@ -1123,7 +1123,7 @@
         <stage>
           ( One long, two short .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#professor">
         <speaker>
@@ -1132,7 +1132,7 @@
         <stage>
           ( One long, two short .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#manoutside">
         <speaker>
@@ -1141,7 +1141,7 @@
         <stage>
           ( Three prolonged .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#professor">
         <speaker>
@@ -1150,7 +1150,7 @@
         <stage>
           ( Three prolonged .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#man">
         <speaker>
@@ -1170,7 +1170,7 @@
         <stage>
           ( Whistles .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#man">
         <speaker>
@@ -1206,7 +1206,7 @@
         <stage>
           ( Whistles .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#man">
         <speaker>
@@ -1226,7 +1226,7 @@
         <stage>
           ( Whistles .)
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#man">
         <speaker>
@@ -1394,7 +1394,7 @@
         </speaker>
         <p>
           And we'd be walking yet if it hadn't been for Jack. We met him on Elm Street, and he saw through the little
-          <pb n="14" />
+          <pb n="14"/>
           game at once. And he said, serious as a deacon, — "Tom, have you forgotten that you were going to coach poor Brown to-night? He's waiting for you now!" Of course the Professor couldn't keep me from such a righteous act of mercy, so I broke away. But I'm dead sure that he's shadowed me up here.
         </p>
       </sp>
@@ -1642,7 +1642,7 @@
         <stage>
           ( groans ).
         </stage>
-        <p />
+        <p/>
       </sp>
       <sp who="#harold">
         <speaker>
@@ -2167,7 +2167,7 @@
         </speaker>
         <p>
           Miss Judkins! My dear lady! Ophelia! Er — I was just going to mention — that since the circumstances have been forced upon us, as it were, can we not
-          <pb n="19" />
+          <pb n="19"/>
           roll back the years for one short hour, and — er — participate, as it were, in these — festivities?
         </p>
       </sp>
@@ -2315,7 +2315,7 @@
         </speaker>
         <p>
           What a lovely serenade! It was just the
-          <pb n="20" />
+          <pb n="20"/>
           finishing touch for our spread. But it is getting late. Jump up! jump up! One parting whirl, for soon we must sever.
         </p>
       </sp>

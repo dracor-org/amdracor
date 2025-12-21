@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000123" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000123" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -102,7 +102,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1949">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -414,7 +414,7 @@
             </speaker>
             <p>
               You have no excuse then, for detaining me; you know where
-              <pb n="122" />
+              <pb n="122"/>
               to find conversation.
             </p>
           </sp>
@@ -634,7 +634,7 @@
             </speaker>
             <p>
               Her good opinion is doubtless of great value; but I suppose it's
-              <pb n="123" />
+              <pb n="123"/>
               hardly to assure me of that —
             </p>
           </sp>
@@ -888,7 +888,7 @@
             </speaker>
             <p>
               Very much — no! But enough is as good as a feast. There is no telling what
-              <pb n="124" />
+              <pb n="124"/>
               may happen. We couriers have our ups and downs, and some day I may be in distress. Then, and only then, if I feel a pinch, I shall call on Madame. For the present —
             </p>
           </sp>
@@ -1497,7 +1497,7 @@
             </speaker>
             <p>
               He's the most amusing little
-              <pb n="126" />
+              <pb n="126"/>
               specimen. He has the heart of a patriot in the body of a —
               <stage>
                 ( Hesitates lor a word .)
@@ -2079,7 +2079,7 @@
                 ( The WAITER re-enters the hotel . WINTERBOURNE puffs his cigarette .)
               </stage>
               There is no use in being in a hurry. I want to be eager — but I don't want to be too eager. That worthy man is quite right; when Aunt Louisa gives an
-              <pb n="128" />
+              <pb n="128"/>
               order, it's a military command. She has ordered me up from Geneva, and I've marched at the word; but I'll rest a little before reporting at headquarters.
               <stage>
                 ( Puffs his cigarette .)
@@ -2320,7 +2320,7 @@
             </stage>
             <p>
               It seems to me
-              <pb n="129" />
+              <pb n="129"/>
               that I have been in a manner presented.
               <stage>
                 ( Approaches DAISY, throwing away his cigarette. Aloud, with great civility .)
@@ -4618,7 +4618,7 @@
             </speaker>
             <p>
               Every one? Madame de
-              <pb n="135" />
+              <pb n="135"/>
               Katkoff, perhaps.
             </p>
           </sp>
@@ -5012,7 +5012,7 @@
               Oh,
               you
               are the best society! And the little girl with the naughty
-              <pb n="136" />
+              <pb n="136"/>
               brother is the worst?
             </p>
           </sp>
@@ -5794,7 +5794,7 @@
             </speaker>
             <p>
               But Eugenio stays with her all he can: he says he didn't expect that so much
-              <pb n="138" />
+              <pb n="138"/>
               when he came.
             </p>
           </sp>
@@ -6118,7 +6118,7 @@
             </speaker>
             <p>
               You don't think me charming: you only think me queer. I can see that
-              <pb n="139" />
+              <pb n="139"/>
               by your manner. I should like to know your aunt, anyway
             </p>
           </sp>
@@ -6483,7 +6483,7 @@
                 ( Aloud, rather formally .)
               </stage>
               The privilege for me is immense;
-              <pb n="140" />
+              <pb n="140"/>
               but I feel as if I ought to urge you to reflect a little.
             </p>
           </sp>
@@ -7420,7 +7420,7 @@
             </speaker>
             <p>
               She looked to me very
-              <pb n="143" />
+              <pb n="143"/>
               innocent — with those eyes!
             </p>
           </sp>
@@ -7663,7 +7663,7 @@
             </speaker>
             <p>
               Oh, a very plausible one. He is very good-looking, very polite; he sings little songs at parties. He comes of a respectable family, but he has squandered
-              <pb n="144" />
+              <pb n="144"/>
               his small patrimony, and he has no means of subsistence but his personal charms, which he has been hoping for the last ten years will endear him to some susceptible American heiress — whom he flatters himself he has found at last!
             </p>
           </sp>
@@ -8186,7 +8186,7 @@
             </speaker>
             <p>
               What I expect of the good Mrs. Miller is one thing; what I expect of you is another: and on that point we had better be perfectly clear. It was to insure perfect clearness that I proposed this little conference, which you refused to allow to
-              <pb n="146" />
+              <pb n="146"/>
               take place either in your own lodgings or in some comfortable café. Oh, I know you had your reasons! You don't exhibit your little interior; and though I know a good deal about you, I don't know where you live. It doesn't matter, I don't want to know: it's enough for me that I can always find you here, amid the music and the flowers. But I can't exactly make out why you wouldn't meet me at a café. I would gladly have paid for a glass of beer.
             </p>
           </sp>
@@ -8413,7 +8413,7 @@
             </speaker>
             <p>
               By having already perceived
-              <pb n="147" />
+              <pb n="147"/>
               that I'm not an idiot. If you don't marry, you can't pay: I need no one to tell me that. But I intend you
               shall
               marry.
@@ -8927,7 +8927,7 @@
             </speaker>
             <p>
               To marry her to a Roman gentleman. All I ask of you is to use a power you already have. I know that of late it has suited your pleasure not to use it: you have tried to keep Mr. Winterbourne at a distance. But call him a little nearer,
-              <pb n="149" />
+              <pb n="149"/>
               and you will see that he will come!
             </p>
           </sp>
@@ -9088,7 +9088,7 @@
               like! He's got such peculiar tastes — from his foreign education; you can't ever tell where you'll find him. Well, I haven't had a foreign education, and I don't see that I'm any the worse for that. If I'd had a foreign education, I might as well give up! I shouldn't be able to breathe, for fear I was breathing wrong. There seem to be so many ways, over here! But I only know one way, and I don't see why I should learn the others when there are people who do like — who do like — what I do. They say they do, at any rate, and they say it so prettily! The English say it very nicely, but the Italians say it best. As for the Americans, they don't say it at all, and Mr. Winterbourne less than any of them! Well, I don't care so much about the Americans: I can make it all right with the Americans when I get home. Mr. Winterbourne isn't an American; I never saw any one like
               him
               over there. If I had, perhaps I shouldn't have come away; for over there
-              <pb n="150" />
+              <pb n="150"/>
               it would all be different. Well, it isn't different here, and I suppose it never will be. Everything is strange over here; and what is strangest of all is one's liking people that are so peculiar.
               <stage>
                 ( Stands thoughtful a moment, then rouses herself .)
@@ -9403,7 +9403,7 @@
             </stage>
             <p>
               I should like my
-              <pb n="151" />
+              <pb n="151"/>
               creditors to see!
               <stage>
                 ( Aloud .)
@@ -10121,7 +10121,7 @@
                 ( Aloud .)
               </stage>
               I am only
-              <pb n="153" />
+              <pb n="153"/>
               a man, dear Madam; I am not a newspaper.
             </p>
           </sp>
@@ -11319,7 +11319,7 @@
             </speaker>
             <p>
               Oh, we were crawling along — we
-              <pb n="157" />
+              <pb n="157"/>
               haven't American trotters. I saw you walking about, and when mother wasn't looking I just dropped. As soon as she missed me, she began to howl!
             </p>
           </sp>
@@ -11639,7 +11639,7 @@
             </speaker>
             <p>
               Send word, then, to
-              <pb n="158" />
+              <pb n="158"/>
               your little American.
             </p>
           </sp>
@@ -11975,7 +11975,7 @@
             </stage>
             <p>
               Before you
-              <pb n="159" />
+              <pb n="159"/>
               go, just let me say a word.
             </p>
           </sp>
@@ -12626,7 +12626,7 @@
                 ( To MISS DURANT.)
               </stage>
               We can't escape from
-              <pb n="161" />
+              <pb n="161"/>
               her now, but it won't be long!
             </p>
           </sp>
@@ -12938,7 +12938,7 @@
             </speaker>
             <p>
               She is doing very well; it has been a light attack. She has sat up these
-              <pb n="162" />
+              <pb n="162"/>
               three days, and the doctor says she needs only to be careful. But being careful doesn't suit her; she's in despair at missing the Carnival.
             </p>
           </sp>
@@ -13232,7 +13232,7 @@
             </stage>
             <p>
               Ah, from here the music is very distinct — and the voices of the crowd, and all the sound of the fête. Upstairs, in our rooms, you can hear it just dimly. That's the way it seemed to me — just faint and far — as I lay there with darkened windows. It's hard to be sick when there's so much pleasure going on, especially when you're so fond of pleasure as poor silly me! Perhaps I'm too fond; that's one of the things I thought of as I lay there. I thought of so many — and some of them so sad — as I listened to the far-away Carnival. I think it was this that helped me to get better. I
-              <pb n="163" />
+              <pb n="163"/>
               was afraid I had been bad, and I wanted to live to be good again. I was afraid I should die, and I didn't want to die. But I'm better now, and I can walk and do everything I want.
               <stage>
                 ( Listening again .)
@@ -13953,7 +13953,7 @@
             </speaker>
             <p>
               Impossible just now. I
-              <pb n="165" />
+              <pb n="165"/>
               have an engagement here.
             </p>
           </sp>
@@ -14274,7 +14274,7 @@
             </speaker>
             <p>
               I don't know it, and I don't want
-              <pb n="166" />
+              <pb n="166"/>
               to know it, as I have told you often. I forbid you to speak of that.
             </p>
           </sp>
@@ -15373,7 +15373,7 @@
             </speaker>
             <p>
               If she's grave, she well may be: her situation is intensely grave. As for her native solemnity, you used to insist upon that when, for reasons best known to yourself, you conceived the remarkable design of inducing me to make love to her. You dropped the idea as suddenly as you took it up; but I am very
-              <pb n="169" />
+              <pb n="169"/>
               sorry to see any symptoms of your taking it up again. It seems to me it's hardly the moment.
             </p>
           </sp>
@@ -15725,7 +15725,7 @@
             </speaker>
             <p>
               You are remarkably pressing, but you had better spare your sarcasm. I have no further interest in the fate of Miss Daisy Miller, and no commission
-              <pb n="170" />
+              <pb n="170"/>
               whatever to interfere with her movements. She has a mother — in disguise — and she has other protectors. I don't suppose she has gone out alone.
             </p>
           </sp>
@@ -15962,7 +15962,7 @@
             </speaker>
             <p>
               It's not I who have changed; it's you! Of course I remember our moonlight drive, and how glad you were to take it. You were happy for an hour — you were happy for three days. There were novelty and excitement in finding that, after all, I had a heart in my bosom; and for a moment the discovery amused you. But only for a moment! So long as I refused to listen to you, you
-              <pb n="171" />
+              <pb n="171"/>
               cared for me. From the day I yielded, I became a bore!
             </p>
           </sp>
@@ -16208,7 +16208,7 @@
               Don't think of yourself — think of her! If I had only met her before, how much sooner
               I
               should have done that! We will go
-              <pb n="172" />
+              <pb n="172"/>
               and find her together; we will bring her back; we will nurse her and comfort her, and make her understand!
             </p>
           </sp>
@@ -17600,7 +17600,7 @@
             </speaker>
             <p>
               Come and speak to
-              <pb n="176" />
+              <pb n="176"/>
               your sister. She has been very ill.
               <stage>
                 ( She draws RANDOLPH towards her, and keeps him near her .)

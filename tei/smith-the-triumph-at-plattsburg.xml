@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xml:id="am000810" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000810" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -123,7 +123,7 @@
   <standOff>
     <listEvent>
       <event type="print" when="1917">
-        <desc />
+        <desc/>
       </event>
     </listEvent>
   </standOff>
@@ -402,7 +402,7 @@
             </speaker>
             <p>
               Ha! Ha! Let Andre alone for that man; but de'il a grain more did he take than his lawful toll. Ye canna say that ever Andre Macklegraith lost sight of the golden rule, which bids him do as
-              <pb n="172" />
+              <pb n="172"/>
               he would be done by. Well, as I was saying, ye came oft to the mill with your grist, and ye came often without any grist at all, and by my troth you soon wore out your welcome, for I found out that Lucy my handmaid was the attraction. Ha! laddie, say I not true?
             </p>
           </sp>
@@ -614,7 +614,7 @@
             </speaker>
             <p>
               He had been taken prisoner, and while on his parol, he boarded at my
-              <pb n="173" />
+              <pb n="173"/>
               father's farm in Vermont. He was so kind and obliging that my father and all of us looked upon him as one of the family. We were much together; he became particular in his attentions to me, and my inexperienced heart was alas! but too sensible to his accomplishments.
             </p>
           </sp>
@@ -839,7 +839,7 @@
             </speaker>
             <p>
               She left me. Can you credit it; fled from her fond father's house — reckless of the misery she entailed upon me — O! the ungrateful — but I will
-              <pb n="174" />
+              <pb n="174"/>
               not curse her — She has broke[n] my heart, but she is still my child and I will not curse her.
             </p>
           </sp>
@@ -1234,7 +1234,7 @@
             </speaker>
             <p>
               Why, comrade, from your
-              <pb n="175" />
+              <pb n="175"/>
               step, I should guess that you have been a soldier in your time.
             </p>
           </sp>
@@ -1557,7 +1557,7 @@
             </speaker>
             <p>
               This is one of the causes of his strange behaviour. He loves me, but as
-              <pb n="176" />
+              <pb n="176"/>
               I give the preference to his brother, he disowns him, and acts in a manner that frightens us all.
             </p>
           </sp>
@@ -2137,7 +2137,7 @@
             </speaker>
             <p>
               Take a glass of Mrs. Peabody's
-              <pb n="178" />
+              <pb n="178"/>
               currant wine, miss; it is the right stuff, I'll war'nt it, and a glass or two will make you feel all over quite a different person.
             </p>
           </sp>
@@ -2626,7 +2626,7 @@
             </speaker>
             <p>
               Nothing more than to gratulate him. — A slight breaking out o' family
-              <pb n="180" />
+              <pb n="180"/>
               pride, for you must know that the General and myself are cousins.
             </p>
           </sp>
