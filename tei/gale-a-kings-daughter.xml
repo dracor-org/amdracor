@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000234" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -28,12 +28,10 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>
+          
+          <ref target="https://archive.org/details/kingsdaughtercom00gale/">
             Internet Archive
-          </name>
-          <idno>
-            https://archive.org/details/kingsdaughtercom00gale/
-          </idno>
+          </ref>
         </bibl>
         <bibl type="originalSource">
           <title>

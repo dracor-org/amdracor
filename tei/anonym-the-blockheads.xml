@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000643" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -24,12 +24,10 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>
+          
+          <ref target="https://www.gutenberg.org/ebooks/39828">
             Project Gutenberg
-          </name>
-          <idno>
-            https://www.gutenberg.org/ebooks/39828
-          </idno>
+          </ref>
         </bibl>
         <bibl type="originalSource">
           <title>

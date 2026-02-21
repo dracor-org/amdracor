@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000300" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -28,12 +28,10 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>
+          
+          <ref target="https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/N16932/N16932.html">
             Oxford Text Archive
-          </name>
-          <idno>
-            https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/N16932/N16932.html
-          </idno>
+          </ref>
         </bibl>
         <bibl type="originalSource">
           <title>
