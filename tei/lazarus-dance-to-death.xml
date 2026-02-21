@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="am000077" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="am000077" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +23,6 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          
           <ref target="https://name.umdl.umich.edu/BAK3042.0001.001">Poems of Emma Lazarus. Vol. 2, Jewish poems : translations [electronic text]." In the digital collection American Verse Project. https://name.umdl.umich.edu/BAK3042.0001.001. University of Michigan Library Digital Collections. Accessed July 24, 2024</ref>
           <availability status="free">
             <p>In the public domain.</p>
